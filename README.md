@@ -1,1 +1,1 @@
-# learn_chinese
+# learn-chinese
