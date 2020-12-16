@@ -1,6 +1,10 @@
 ===================
 Numbers 数字 [Shùzì]
 ===================
+.. contents:: **Table of contents**
+   :depth: 3
+   :local:
+
 Basic numbers
 =============
 +-------------------+---------------+---------------+---------------------------+
@@ -47,8 +51,6 @@ Basic numbers
 "are necessary because, since normal Chinese characters are so simple, a forger could easily change 三十 to 
 五千 with just three strokes". [WB]_
 
-|
-
 Larger numbers
 ==============
 +----+--------+-----------+
@@ -72,8 +74,6 @@ Larger numbers
 +----+--------+-----------+
 
 **NOTE:** 11-19 = shí + single number and so on for 21-99
-
-|
 
 References
 ==========
