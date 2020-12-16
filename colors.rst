@@ -27,3 +27,8 @@ Colors 色 [Sè]
 +--------+-------------------+--------------+--------------+
 | yellow | huáng sè          | 黃色         | 黄色         |
 +--------+-------------------+--------------+--------------+
+
+**References:**
+- https://www.thoughtco.com/mandarin-colors-2279627
+- https://l-lingo.com/free-lessons/en/learn-chinese-mandarin/colors.html
+- https://www.howtosayinchinese.com/chinese-colors-in-mandarin/
