@@ -1,7 +1,7 @@
 ======
 README
 ======
-Resources I found useful for learning Mandarin Chinese:
+Resources I found useful for learning Mandarin Chinese
 
 Resources
 =========
