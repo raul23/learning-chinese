@@ -73,7 +73,7 @@ Numbers 11-99
 | 99 | 九十九 | jiǔshíjiǔ |
 +----+--------+-----------+
 
-**NOTE:** 11-19 = shí + single number and so on for 21-99
+**NOTE:** 11-19 = shí + single number
 
 Numbers 100-999
 ===============
