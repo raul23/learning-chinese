@@ -1,11 +1,17 @@
 ======
 README
 ======
-Resources I found useful for learning Mandarin Chinese
+List of files
+=============
+* `colors`_
+* `expressions`_: important Chinese expressions divided into categories (e.g. directions, greetings) 
+* `grammar`_: some Chinese grammar rules
+* `numbers`_
+* `vocabulary`_: some Chinese words I find important to remember
 
 Resources
 =========
-Resources I found useful for learning Mandarin Chinese:
+Resources I found useful for learning Mandarin Chinese
 
 Online Chinese-English Dictionaries
 -----------------------------------
@@ -18,5 +24,10 @@ Online Chinese-English Dictionaries
 
 .. URLs
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/chinese-english
+.. _colors: ./colors.rst
+.. _expressions: ./expressions.rst
+.. _grammar: ./grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary]
+.. _numbers: ./numbers.rst
 .. _yabal's Chinese English Pinyin Dictionary: https://chinese.yabla.com/chinese-english-pinyin-dictionary.php
+.. _vocabulary: ./vocabulary.rst
