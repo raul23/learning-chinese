@@ -9,8 +9,10 @@ Resources I found useful for learning Mandarin Chinese:
 
 Online Chinese-English Dictionaries
 -----------------------------------
-* `MDBG free online English to Chinese dictionary`_:
-* `Collins Dictionary`_:
+* `MDBG free online English to Chinese dictionary`_: provides word decomposition, pronounciations, 
+  and Simplified+Traditional Chinese characters; lets you generate flashcards based on a custom text 
+  or automatically; shows stroke order
+* `Collins Dictionary`_: some Chinese words might not have pronounciations
 
 .. URLs
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/chinese-english
