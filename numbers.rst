@@ -75,6 +75,12 @@ Larger numbers
 
 **NOTE:** 11-19 = shí + single number and so on for 21-99
 
+Numbers 100-999
+===============
+
+Numbers 1000-99999
+==================
+
 References
 ==========
 .. [WB] https://en.wikibooks.org/wiki/Chinese_(Mandarin)/Numbers#%E5%9F%BA%E6%9C%AC%E7%94%A8%E5%AD%97
