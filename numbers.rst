@@ -51,8 +51,8 @@ Basic numbers
 "are necessary because, since normal Chinese characters are so simple, a forger could easily change 三十 to 
 五千 with just three strokes". [WB]_
 
-Larger numbers
-==============
+Numbers 11-99
+=============
 +----+--------+-----------+
 |    | Simp.  | Pīnyīn    |
 +====+========+===========+
