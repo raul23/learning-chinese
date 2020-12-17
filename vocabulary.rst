@@ -1,6 +1,8 @@
 ====================
 Vocabulary 词汇 Cíhuì
 ====================
+English-Chinese dictionary
+
 .. contents:: **Table of contents**
    :depth: 3
    :local:
