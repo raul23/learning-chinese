@@ -49,9 +49,9 @@ Basic numbers
 
 **NOTES:** 
 
-- The complex forms "are used mainly in notarized, official documents, and when writing checks" and
-"are necessary because, since normal Chinese characters are so simple, a forger could easily change 三十 to 
-五千 with just three strokes". [WB]_
+- The complex forms "are used mainly in notarized, official documents, and when writing 
+  checks" and "are necessary because, since normal Chinese characters are so simple, a 
+  forger could easily change 三十 to 五千 with just three strokes". [WB]_
 - To refer to 2, liǎng can also be used instead of èr
 
 Numbers 11-99
