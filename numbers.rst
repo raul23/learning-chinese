@@ -187,9 +187,7 @@ Numbers 1000-99999
 
 `:warning:`
    
-   200 = liǎng qiān 
-   |
-   Not èr qiān!
+   200 = liǎng qiān (not èr qiān!)
 
 References
 ==========
