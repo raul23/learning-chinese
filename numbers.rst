@@ -84,7 +84,9 @@ Numbers 11-99
 Numbers 100-999
 ===============
 
-**hundred: bǎi**
+`:information_source:`
+   
+   hundred: bǎi
 
 **Hundreds only:**
 
@@ -149,7 +151,9 @@ Numbers 100-999
 
 Numbers 1000-99999
 ==================
-**hundred: bǎi**
+`:information_source:`
+   
+   thousand: qiān
 
 **Thousands only:**
 
