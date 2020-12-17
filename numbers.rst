@@ -54,6 +54,8 @@ Basic numbers
   forger could easily change 三十 to 五千 with just three strokes". [WB]_
 - To refer to 2, liǎng can also be used instead of èr
 
+**Ref.:** [WB]_
+
 Numbers 11-99
 =============
 +----+--------+-----------+
@@ -81,7 +83,7 @@ Numbers 11-99
 - 11-19: shí + units
 - 21-99: number of tens + shí + units
 
-**Ref.:** YLC15]_
+**Ref.:** [YELC15]_
 
 Numbers 100-999
 ===============
@@ -153,7 +155,7 @@ Numbers 100-999
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
 
-**Ref.:** [YLC17]_
+**Ref.:** [YELC17]_
 
 Numbers 1000-99999
 ==================
@@ -208,7 +210,7 @@ Numbers 1000-99999
 **NOTE:** the chinese number system breaks down the numbers 
 by 4 digits (instead of 3). Example: 100 000 000 -> 1'0000'0000
 
-**Ref.:** YLC18]_
+**Ref.:** [YELC18]_
 
 |
 |
