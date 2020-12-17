@@ -76,10 +76,12 @@ Numbers 11-99
 | 99 | 九十九 | jiǔshíjiǔ |
 +----+--------+-----------+
 
-**NOTES:** 
+**NOTES:**
 
 - 11-19: shí + units
 - 21-99: number of tens + shí + units
+
+**Ref.:** YLC15]_
 
 Numbers 100-999
 ===============
@@ -151,6 +153,8 @@ Numbers 100-999
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
 
+**Ref.:** [YLC17]_
+
 Numbers 1000-99999
 ==================
 `:information_source:`
@@ -188,7 +192,31 @@ Numbers 1000-99999
 `:warning:`
    
    200 = liǎng qiān (not èr qiān!)
+   
++-------+--------------+-------------------------+
+|       | Simp.        | Pīnyīn                  |
++=======+==============+=========================+
+| 2340  | 两千三百四十 | liǎng qiān sānbǎi sìshí |
++-------+--------------+-------------------------+
+| 5310  | 五千三百一十 | wǔqiān sānbǎi yīshí     |
++-------+--------------+-------------------------+
+| 45000 | 四万五千     | sì wàn wǔqiān           |
++-------+--------------+-------------------------+
+| 67000 | 六万七千     | liù wàn qīqiān          |
++-------+--------------+-------------------------+
+
+**NOTE:** the chinese number system breaks down the numbers 
+by 4 digits (instead of 3). Example: 100 000 000 -> 1'0000'0000
+
+**Ref.:** YLC18]_
+
+|
+|
 
 References
 ==========
 .. [WB] https://en.wikibooks.org/wiki/Chinese_(Mandarin)/Numbers#%E5%9F%BA%E6%9C%AC%E7%94%A8%E5%AD%97
+.. [YEC15] https://youtu.be/aQOUSJOVHp8?t=4800 [Lesson 15: Numbers 1 - 99.  数字1-99]
+.. [YEC17] https://youtu.be/aQOUSJOVHp8?t=5606 [Lesson 17: Numbers 100 - 999.  数字100 - 999]
+.. [YEC18] https://youtu.be/aQOUSJOVHp8?t=5966 [Lesson 18: Numbers 1,000 - 99,999.  数字1,000 - 99,999]
+
