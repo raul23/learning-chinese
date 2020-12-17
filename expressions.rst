@@ -5,10 +5,16 @@ Expressions
    :depth: 3
    :local:
    :backlinks: top
+
+`:information_source:`
+
+   use **nǐn** for the polite form of a question
    
 Asking somebody's age
 =====================
+`:information_source:`
 
+   
    
 Asking the phone number
 =======================
@@ -16,7 +22,6 @@ Asking the phone number
 
    - duōshǎo (多少): how many/much
    - shénme (什么): what
-   - Use **nǐn** for the polite form of the question
 
 |
 
