@@ -113,6 +113,7 @@ Case: zero in the middle
 +-----+----------+----------------+
 | 501 | 五百零一 | Wǔbǎi líng yī  |
 +-----+----------+----------------+
+
 **NOTE:** (number of hundreds + bǎi) + *líng* + units
 
 Others: no zero in the middle
@@ -127,6 +128,7 @@ Others: no zero in the middle
 +-----+------------+----------------+
 | 780 | 七百八十   | qībǎi bāshí    |
 +-----+------------+----------------+
+
 **NOTE:** 
 
 - (number of hundreds + bǎi) + (number of tens + shí) + units
