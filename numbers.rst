@@ -106,6 +106,7 @@ Numbers 100-999
 +-----+-------+--------+
 
 Case: zero in the middle
+
 +-----+----------+----------------+
 |     | Simp.    | Pīnyīn         |
 +=====+==========+================+
@@ -117,6 +118,7 @@ Case: zero in the middle
 **NOTE:** (number of hundreds + bǎi) + *líng* + units
 
 Others: no zero in the middle
+
 +-----+------------+----------------+
 |     | Simp.      | Pīnyīn         |
 +=====+============+================+
@@ -129,7 +131,7 @@ Others: no zero in the middle
 | 780 | 七百八十   | qībǎi bāshí    |
 +-----+------------+----------------+
 
-**NOTE:** 
+**NOTES:** 
 
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
