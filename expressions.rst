@@ -28,9 +28,13 @@ Asking someone's age
 | A: Wǒ èrshí suì (我二十岁)
 
    I am twenty years old.
-   
-Reference: [YLC19]_
-   
+
+|
+
+**Reference:** [YLC19]_
+ 
+|
+ 
 Asking the phone number
 =======================
 `:information_source:`
@@ -54,8 +58,10 @@ Asking the phone number
 
    When saying the number 1, use yāo instead of yī. Hence, we avoid
    confusing yī (1) and qī (7).
-   
-Reference: [YLC16]_
+
+|
+
+**Reference:** [YLC16]_
 
 |
    
