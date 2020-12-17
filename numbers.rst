@@ -1,9 +1,10 @@
 ===================
 Numbers 数字 [Shùzì]
 ===================
-.. contents:: **Table of contents**
+.. contents:: **Contents**
    :depth: 3
    :local:
+   :backlinks: top
 
 Basic numbers
 =============
