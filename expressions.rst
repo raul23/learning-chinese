@@ -6,12 +6,17 @@ Expressions
    :local:
    :backlinks: top
    
+Asking somebody's age
+=====================
+
+   
 Asking the phone number
 =======================
 `:information_source:`
 
    - duōshǎo (多少): how many/much
    - shénme (什么): what
+   - Use **nǐn** for the polite form of the question
 
 |
 
