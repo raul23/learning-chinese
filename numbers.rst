@@ -193,7 +193,9 @@ Numbers 1000-99999
 
 `:warning:`
    
-   200 = liǎng qiān (not èr qiān!)
+   2000 = liǎng qiān (not èr qiān!)
+
+|
    
 +-------+--------------+-------------------------+
 |       | Simp.        | Pīnyīn                  |
