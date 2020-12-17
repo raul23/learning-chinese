@@ -7,7 +7,7 @@ List of files
 * `expressions`_: important Chinese expressions divided into categories (e.g. directions, greetings) 
 * `grammar`_: some Chinese grammar rules
 * `numbers`_
-* `vocabulary`_: some Chinese words I find important to remember
+* `vocabulary`_
 
 Resources
 =========
