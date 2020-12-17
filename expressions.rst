@@ -15,8 +15,8 @@ Asking the phone number
 
 |
 
-| Q: Nǐ de diànhuà hàomǎ shì duōshǎo? (你的电话号码是多少?)
-| Q: Nǐ de diànhuà hàomǎ shì shénme? (你的电话号码是什么?)
+| Q: Nǐ de diànhuà hàomǎ shì **duōshǎo**? (你的电话号码是**多少**?)
+| Q: Nǐ de diànhuà hàomǎ shì **shénme**? (你的电话号码是**什么**?)
 
   What's your phone number?
 | A: Wǒ de diànhuà hàomǎ shì ... (我的电话号码是 ...) 
