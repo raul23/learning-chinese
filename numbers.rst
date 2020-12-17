@@ -120,7 +120,7 @@ Numbers 100-999
 | 501 | 五百零一 | Wǔbǎi líng yī  |
 +-----+----------+----------------+
 
-**NOTE:** (number of hundreds + bǎi) + *líng* + units
+**NOTE:** (number of hundreds + bǎi) + **líng** + units
 
 |
 
