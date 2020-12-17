@@ -37,8 +37,8 @@ Asking someone's age
  
 |
  
-Asking the phone number
-=======================
+Asking somone's number
+======================
 `:information_source:`
 
    - duōshǎo (多少): how many/much
