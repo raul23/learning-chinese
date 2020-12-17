@@ -23,6 +23,8 @@ Asking the phone number
 
   My phone number is ...
 
+|
+
 `:information_source:`
 
    When saying the number 1, use yāo instead of yī. Hence, we avoid
