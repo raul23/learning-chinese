@@ -54,7 +54,7 @@ Basic numbers
   forger could easily change 三十 to 五千 with just three strokes". [WB]_
 - To refer to 2, liǎng can also be used instead of èr
 
-**Ref.:** [WB]_
+**Reference:** [WB]_
 
 Numbers 11-99
 =============
@@ -83,7 +83,7 @@ Numbers 11-99
 - 11-19: shí + units
 - 21-99: number of tens + shí + units
 
-**Ref.:** [YEC15]_
+**Reference:** [YLC15]_
 
 Numbers 100-999
 ===============
@@ -155,7 +155,7 @@ Numbers 100-999
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
 
-**Ref.:** [YEC17]_
+**Reference:** [YLC17]_
 
 Numbers 1000-99999
 ==================
@@ -210,7 +210,7 @@ Numbers 1000-99999
 **NOTE:** the chinese number system breaks down the numbers 
 by 4 digits (instead of 3). Example: 100 000 000 -> 1'0000'0000
 
-**Ref.:** [YEC18]_
+**Reference:** [YLC18]_
 
 |
 |
@@ -218,7 +218,7 @@ by 4 digits (instead of 3). Example: 100 000 000 -> 1'0000'0000
 References
 ==========
 .. [WB] https://en.wikibooks.org/wiki/Chinese_(Mandarin)/Numbers#%E5%9F%BA%E6%9C%AC%E7%94%A8%E5%AD%97
-.. [YEC15] https://youtu.be/aQOUSJOVHp8?t=4800 [Lesson 15: Numbers 1 - 99.  数字1-99]
-.. [YEC17] https://youtu.be/aQOUSJOVHp8?t=5606 [Lesson 17: Numbers 100 - 999.  数字100 - 999]
-.. [YEC18] https://youtu.be/aQOUSJOVHp8?t=5966 [Lesson 18: Numbers 1,000 - 99,999.  数字1,000 - 99,999]
+.. [YLC15] https://youtu.be/aQOUSJOVHp8?t=4800 [Learn Chinese for Beginners. Lesson 15: Numbers 1 - 99.  数字1-99]
+.. [YLC17] https://youtu.be/aQOUSJOVHp8?t=5606 [Learn Chinese for Beginners. Lesson 17: Numbers 100 - 999.  数字100 - 999]
+.. [YLC18] https://youtu.be/aQOUSJOVHp8?t=5966 [Learn Chinese for Beginners. Lesson 18: Numbers 1,000 - 99,999.  数字1,000 - 99,999]
 
