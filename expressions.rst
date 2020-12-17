@@ -10,11 +10,26 @@ Expressions
 
    use **nǐn** for the polite form of a question
    
-Asking somebody's age
+Asking someone's age
 =====================
 `:information_source:`
-
    
+   - duōdà (多大): how big
+   - jǐ suì (几岁): how old
+   - suì (岁): years old
+
+|
+
+| Q: Nǐ duōdà? (你多大?)
+| Q: Nǐ jǐ suì? (你几岁?)
+
+   How old are you?
+
+| A: Wǒ èrshí suì (我二十岁)
+
+   I am twenty years old.
+   
+Reference: [YLC19]_
    
 Asking the phone number
 =======================
@@ -40,7 +55,12 @@ Asking the phone number
    When saying the number 1, use yāo instead of yī. Hence, we avoid
    confusing yī (1) and qī (7).
    
+Reference: [YLC16]_
+
+|
+   
 References
 ==========
 
-.. [YLC15] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少？]
+.. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
+.. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
