@@ -121,7 +121,7 @@ Numbers 100-999
 
 |
 
-**Others: no zero in the middle**
+**Case: no zero in the middle**
 
 +-----+------------+----------------+
 |     | Simp.      | Pīnyīn         |
@@ -135,7 +135,7 @@ Numbers 100-999
 | 780 | 七百八十   | qībǎi bāshí    |
 +-----+------------+----------------+
 
-**NOTES:** 
+**NOTES:** when no zero in the middle
 
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
