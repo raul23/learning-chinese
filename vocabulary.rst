@@ -1,9 +1,9 @@
 ====================
 Vocabulary 词汇 Cíhuì
 ====================
-**Small** English-Chinese dictionary
+Small English-Chinese dictionary
 
-.. contents:: **Table of contents**
+.. contents:: **Contents**
    :depth: 3
    :local:
    :backlinks: top
