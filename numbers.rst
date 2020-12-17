@@ -73,7 +73,10 @@ Numbers 11-99
 | 99 | 九十九 | jiǔshíjiǔ |
 +----+--------+-----------+
 
-**NOTE:** 11-19 = shí + single number
+**NOTES:** 
+
+- 11-19: shí + units
+- 21-99: number of tens + shí + units
 
 Numbers 100-999
 ===============
