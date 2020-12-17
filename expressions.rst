@@ -10,8 +10,8 @@ Asking the phone number
 =======================
 `:information_source:`
 
-   duōshǎo (多少): how many/much
-   shénme (什么): what
+   - duōshǎo (多少): how many/much
+   - shénme (什么): what
 
 |
 
