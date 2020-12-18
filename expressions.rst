@@ -187,8 +187,8 @@ Asking where is someone or something
 
 `:information_source:`
 
-   Google Translate translates 'there' as nàlǐ (那里) with a falling-rising tone 
-   in the last character and thus translates the whole sentence 'Chāoshì zài nàlǐ' as
+   Google Translate translates "there" as nàlǐ (那里) with a falling-rising tone 
+   in the last character and thus translates the whole sentence "Chāoshì zài nàlǐ" as
    "Where is the supermarket?" [GTNALI]_. yabla dictionary translates 'there' as nàli
    (那里) with a neutral tone in the last character [YDNALI]_.
 |
