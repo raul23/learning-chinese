@@ -116,7 +116,7 @@ Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am n
 
 `:information_source:`
 
-   Google Translate doesn't seem to follow this rule since it uses instead "Wǒ bùshì" for translating "I am not". [GTFT]_
+   Google Translate doesn't seem to follow this rule since it translates "I am not" by "Wǒ bùshì". [GTFT]_
    
 |
 |
