@@ -9,7 +9,7 @@ Expressions
 **NOTES:**
 
    - Q and A refers to question and answer, respectively
-   - use **nǐn** for the polite form of a question
+   - use **nǐn** (您) for the polite form of a question
 
 |
 
@@ -23,22 +23,22 @@ Asking someone's age
 
 |
 
-| Q: Nǐ duōdà? (你多大?)
-| Q: Nǐ jǐ suì? (你几岁?)
+| Q: Nǐ duōdà (你多大)?
+| Q: Nǐ jǐ suì (你几岁)?
 
    How old are you?
    
-| Q: Tā duōdà? (他多大?)
+| Q: Tā duōdà (他多大)?
 
    How old is he?
    
-| Q: Monica duōdà? (Monica 多大?)
+| Q: Monica duōdà (Monica 多大)?
 
    How old is Monica?
 
 |
 
-| A: Wǒ èrshí suì (我二十岁)
+| A: Wǒ èrshí suì (我二十岁).
 
    I am twenty years old.
 
@@ -61,8 +61,8 @@ Asking somone's number
 
 |
 
-| Q: Nǐ de diànhuà hàomǎ shì **duōshǎo**? (你的电话号码是多少?)
-| Q: Nǐ de diànhuà hàomǎ shì **shénme**? (你的电话号码是什么?)
+| Q: Nǐ de diànhuà hàomǎ shì **duōshǎo** (你的电话号码是多少)?
+| Q: Nǐ de diànhuà hàomǎ shì **shénme** (你的电话号码是什么)?
 
   What's your phone number?
 | A: Wǒ de diànhuà hàomǎ shì ... (我的电话号码是 ...) 
@@ -80,6 +80,19 @@ Asking somone's number
 
 **Reference:** [YLC16]_
 
+|
+
+Greetings
+=========
+| Nǐ hǎo (你好)!
+   
+   Hello!
+
+| Nǐmen hǎo (你们好)!
+
+   Hello to all of you!
+   
+|
 |
    
 References
