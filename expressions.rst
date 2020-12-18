@@ -119,6 +119,12 @@ Greetings
 | Hěn gāoxìng rènshí nǐ (很高兴认识你).
 
    Nice to meet you.
+| A: Wǒ hěn gāoxìng (我很高兴).
+
+   I am very glad.
+| A: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
+
+   I am also very glad to know you.
 
 |
 
