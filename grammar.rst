@@ -28,7 +28,7 @@ The measure word to be used depends on the type of the thing.
 - Sān **gè** hǎo péngyǒu (三个好朋友) translates to "Three good friends"
 - Liǎng **gè** píngguǒ (两个苹果) translates to "Two apples"
 
-   Always use liǎng before a MW.
+   Always use liǎng (2) before a MW instead of èr (2)
 - Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?) translates to "How many apples do you have?"
 
    yǒu (有): to have
