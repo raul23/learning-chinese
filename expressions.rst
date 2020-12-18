@@ -16,6 +16,36 @@ Expressions
 
 |
 
+Ask for a drink
+===============
+`:information_source:`
+
+   yībēi (一杯): a cup or a glass
+
+|
+
+| Wǒ yào yībēi kāfēi (我要一杯咖啡).
+
+   I want a cup of coffee
+
+| Wǒ yào yībēi chá (我要一杯茶).
+
+   I want a cup of tea.
+   
+| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
+
+   I want a glass of milk.
+   
+| Yībēi guǒzhī (一杯果汁).
+
+   I want a glass of juice.
+
+|
+
+**Reference:** [YLC19]_
+
+|
+
 Asking someone's age
 ====================
 `:information_source:`
