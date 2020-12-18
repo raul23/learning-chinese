@@ -81,9 +81,11 @@ Some measure words:
 - Yī jiàn wàitào (一件外套) translates to "A coat"
 - Yī jiàn xínglǐ (一件行李) translates to "A luggage"
 
-   Google translate uses **gè** for luggage  but Collins dictionary uses **jiàn**.
+   Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDGE]_.
 
 **Examples with tiáo:**
+
+- 
 
 **Examples with shuāng:**
 
@@ -113,8 +115,10 @@ Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am n
 References
 ==========
 
+.. [CDGE] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
+.. [GTFT] https://archive.vn/KHKRh [use of gè before xínglǐ in Google Translate]
+.. [GTGE] https://archive.is/pph1B [two consecutive falling tones in Google Translate]
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [YLC21] https://youtu.be/aQOUSJOVHp8?t=7053 [Learn Chinese for Beginners. Lesson 21: Measure Word 1. 量词1]
 .. [YLC22] https://youtu.be/aQOUSJOVHp8?t=7390 [Learn Chinese for Beginners. Lesson 22: Measure Word 2. 量词2]
-.. [GTFT] https://archive.is/pph1B [testing falling tone rule on Google Translate]
  
