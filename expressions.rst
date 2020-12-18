@@ -147,6 +147,37 @@ I want a drink
 
 |
 
+What is that/this?
+==================
+`:information_source:`
+
+   nà (那): that
+   zhè (这): this
+
+|
+
+**Questions:**
+| Nà shì shénme (那是什么)?
+
+   What is that?
+
+| Zhè shì shénme (这是什么)?
+
+   What is this?
+
+**Answers:**
+| Nà shì yī běn shū (那是一本书). 
+
+   That is a book.
+   
+| Zhè shì yīgè píngguǒ (这是一个苹果).
+
+   This is an apple.
+
+**Reference:** [YLC24]_
+
+|
+
 What's your name?
 =================
 `:information_source:`
@@ -285,7 +316,27 @@ Where is someone/something?
    (那里) with a neutral tone in the last character [YDNALI]_.
 |
 
-**Reference:** [YLC27]_ and [YLC28]_
+**References:** [YLC24]_ and [YLC28]_
+
+|
+
+Who is this?
+============
+`:information_source:`
+
+   shéi (谁): who
+   zhè (这): this
+
+|
+
+| Q: Zhè shì shéi (这是谁)?
+
+   Who is this?
+| A: Zhè shì Lily (这是 Lily)?
+
+|
+
+**Reference:** [YLC24]_
 
 |
 |
@@ -302,6 +353,7 @@ References
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
 .. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
+.. [YLC24] https://youtu.be/aQOUSJOVHp8?t=8202 [Learn Chinese for Beginners. Lesson 24: What is this? 这是什么？]
 .. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
 .. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？
 
