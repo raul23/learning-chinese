@@ -89,5 +89,5 @@ References
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [YLC21] https://youtu.be/aQOUSJOVHp8?t=7053 [Learn Chinese for Beginners. Lesson 21: Measure Word 1. 量词1]
 .. [YLC22] https://youtu.be/aQOUSJOVHp8?t=7390 [Learn Chinese for Beginners. Lesson 22: Measure Word 2. 量词2]
-.. [GTFT] https://translate.google.com/?tl=zh-CN&text=I%20am%20not [testing falling tone rule]
+.. [GTFT] https://archive.is/pph1B [testing falling tone rule on Google Translate]
  
