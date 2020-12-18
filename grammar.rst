@@ -15,7 +15,7 @@ The measure word to be used depends on the type of the thing.
 `:star:`
 
    - General rule for MW : number + measure word + noun
-   - Rule for MW in a question: 
+   - Rule for MW in a question: Nǐ yǒu jǐ + MW + noun?
 
 |
 
