@@ -17,7 +17,7 @@ Rule: number + measure word + noun
 
 **Examples:**
 
-| Yī **gè** péngyǒu (一个朋友) which translates to "One friend"
+| Yī **gè** péngyǒu (一个朋友) translates to "One friend"
 
    Here **gè** is a measure word.
 
