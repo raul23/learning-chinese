@@ -41,7 +41,7 @@ Asking someone's age
 
 `:warning:`
 
-   Don't say 'Wǒ **shì* èrshí suì'. Drop the shì ("am").
+   Don't say 'Wǒ shì èrshí suì'. Drop the shì ("am") in the statement.
 
 |
 
