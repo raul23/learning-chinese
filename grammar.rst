@@ -20,11 +20,13 @@ The measure word to be used depends on the type of the thing.
 
 **Examples:**
 
-| Yī **gè** péngyǒu (一个朋友) translates to "One friend"
+- Yī **gè** péngyǒu (一个朋友) translates to "One friend"
 
    Here **gè** is a measure word.
 
-| Sān gè hǎo péngyǒu (三个好朋友) translates to "Three good friends"
+- Sān gè hǎo péngyǒu (三个好朋友) translates to "Three good friends"
+
+|
 
 **Reference:** [YLC21]_
 
