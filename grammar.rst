@@ -16,6 +16,8 @@ The measure word to be used depends on the type of the thing.
 
    - General rule for MW : number + measure word + noun
    - Rule for MW in a question: Nǐ yǒu jǐ + MW + noun?
+   
+      Test
 
 |
 
