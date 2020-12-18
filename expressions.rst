@@ -198,8 +198,8 @@ What's your name?
 
 |
 
-Where is someone/something)?
-============================
+Where is someone/something?
+===========================
 `:information_source:`
 
    - nǎlǐ (哪里): where
