@@ -157,6 +157,7 @@ What is that/this?
 |
 
 **Questions:**
+
 | Nà shì shénme (那是什么)?
 
    What is that?
@@ -165,7 +166,10 @@ What is that/this?
 
    What is this?
 
+|
+
 **Answers:**
+
 | Nà shì yī běn shū (那是一本书). 
 
    That is a book.
