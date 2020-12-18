@@ -8,13 +8,13 @@ Grammar 语法 [Yǔfǎ]
    
 Measure words
 =============
-Use a measure word in a sentence when stating the quantity of a thing (e.g. apple, friend).
+Use a measure word (MW) in a sentence when stating the quantity of a thing (e.g. apple, friend).
 The measure word to be used depends on the type of the thing.
 
 
 `:star:`
 
-   Rule: number + measure word + noun
+   Rule for MW : number + measure word + noun
 
 |
 
@@ -24,7 +24,7 @@ The measure word to be used depends on the type of the thing.
 
    Here **gè** is a measure word.
 
-|
+| Sān gè hǎo péngyǒu (三个好朋友) translates to "Three good friends"
 
 **Reference:** [YLC21]_
 
