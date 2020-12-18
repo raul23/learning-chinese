@@ -115,7 +115,7 @@ Asking where is someone or something
    - nà'er (那儿): there [used in the North]
    - zhèlǐ (这里): here [formal; used in the South]
    - zhèr/zhè'er (这儿): here [informal; used in the North]
-   - Zài (在): to be in/at
+   - zài (在): to be in/at
    - Template for "To be in/at location": subject + zài + location
    - Template for "Not to be in/at": subject + bú zài + location
 
