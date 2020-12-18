@@ -50,7 +50,7 @@ Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am n
 
 `:information_source:`
 
-   Google translate doesn't seem to follow this rule since it uses instead bùshì for translating "I am not". [GTFT]_
+   Google Translate doesn't seem to follow this rule since it uses instead bùshì for translating "I am not". [GTFT]_
    
 |
 |
