@@ -151,8 +151,8 @@ What is that/this?
 ==================
 `:information_source:`
 
-   nà (那): that
-   zhè (这): this
+   - nà (那): that
+   - zhè (这): this
 
 |
 
