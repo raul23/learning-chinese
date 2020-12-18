@@ -8,7 +8,8 @@ Expressions
 
 `:information_source:`
 
-   use **nǐn** for the polite form of a question
+   - Q and A refers to question and answer
+   - use **nǐn** for the polite form of a question
 
 |
 
