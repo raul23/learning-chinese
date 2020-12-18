@@ -6,7 +6,7 @@ Expressions
    :local:
    :backlinks: top
 
-`:information_source:`
+**NOTES:**
 
    - Q and A refers to question and answer, respectively
    - use **nǐn** for the polite form of a question
