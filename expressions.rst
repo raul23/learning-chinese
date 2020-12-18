@@ -42,7 +42,7 @@ Ask for a drink
 
 |
 
-**Reference:** [YLC19]_
+**Reference:** [YLC23]_
 
 |
 
@@ -193,3 +193,4 @@ References
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
+.. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
