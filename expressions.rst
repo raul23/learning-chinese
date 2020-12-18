@@ -55,7 +55,7 @@ Asking someone's age
  
 |
 
-Asking someone's age
+Asking someone's name
 =====================
 `:information_source:`
 
