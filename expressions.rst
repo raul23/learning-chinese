@@ -12,7 +12,7 @@ Expressions
    - use **nǐn** (您) for the polite form of a question
    - use the question particle *ma* at the end of a Yes/No question
    
-      Nǐ hǎo ma (你好吗)? which translates to "How are you?"
+      - Nǐ hǎo ma (你好吗)? which translates to "How are you?"
 
 |
 
