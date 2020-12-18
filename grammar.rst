@@ -13,9 +13,7 @@ The measure word to be used depends on the type of the thing.
 
 Rule: number + measure word + noun
 
-Example: 
-
-| Yī **gè** péngyǒu (一个朋友).
+| Example: Yī **gè** péngyǒu (一个朋友).
 
    One friend.
 
