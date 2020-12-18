@@ -111,11 +111,10 @@ Asking where is someone or something
 `:information_source:`
 
    - nǎlǐ (哪里): where
-   - nàli (那里): there
+   - nàli (那里): there [used in the South]
+   - nà'er (那儿): there [used in the North]
    - zhèlǐ (这里): here [formal; used in the South]
    - zhè'er (这儿): here [informal; used in the North]
-   - nàlǐ (那里): there [used in the South]
-   - nà'er (那儿): there [used in the North]
    - Zài (在): to be in/at
    - Template for "To be in/at location": subject + zài + location
    - Template for "Not to be in/at": subject + bú zài + location
@@ -165,11 +164,11 @@ Asking where is someone or something
 
 |
 
-| Nǐ zài nǎli (你在哪里)?
+| Nǐ zài nǎlǐ (你在哪里)?
 
    Where are you?
 
-| Wǒ de shǒujī zài nǎli (我的手机在哪里)?
+| Wǒ de shǒujī zài nǎlǐ (我的手机在哪里)?
 
    Where is my mobile phone?
    
