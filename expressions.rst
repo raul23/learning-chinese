@@ -16,8 +16,55 @@ Expressions
 
 |
 
-Asking someone's age
-====================
+Greetings
+=========
+| Nǐ hǎo (你好)!
+   
+   Hello!
+
+| Nǐmen hǎo (你们好)!
+
+   Hello to all of you!
+
+|
+
+| Q: Nǐ hǎo ma (你好吗)?
+
+   How are you?
+| A: Wǒ hěn hǎo (我很好).
+
+   I am very well.
+
+|
+
+| Q: Nǐ ne (你呢)?
+
+   What about you?
+   
+| A: Wǒ yě hěn hǎo (我也很好).
+
+   I am also very well.
+
+|
+
+| Hěn gāoxìng rènshí nǐ (很高兴认识你).
+
+   Nice to meet you.
+| R: Wǒ hěn gāoxìng (我很高兴).
+
+   I am very glad.
+| R: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
+
+   I am also very glad to know you.
+
+|
+
+**References:** [YLC1]_, [YLC2]_, and [YLC4]_
+
+|
+
+How old are you?
+================
 `:information_source:`
    
    - duōdà (多大): how big
@@ -52,32 +99,56 @@ Asking someone's age
 |
 
 **Reference:** [YLC19]_
- 
+
 |
 
-Asking someone's name
-=====================
+I want a drink
+==============
 `:information_source:`
 
-   Míngzì 名字: first name
+   - yībēi (一杯): a cup or a glass
+   - Qǐngwèn (请问): may I ask; excuse me
 
 |
 
-| Q: Wǒ jiào shénme míngzì (我叫什么名字)?
+**Questions:**
 
-   What is your first name? 
-| A: Wǒ jiào Raul (我叫 Raul).
+| Nǐ yào hē shénme (你要喝什么)? 
 
-   I am called Raul.
+   What do you want to drink?
+   
+| Qǐngwèn nín yào hē shénme (请问您要喝什么)?
+
+   May I ask what would you like to drink?
 
 |
 
-**Reference:** [YLC3]_
+**Answers:**
+
+| Wǒ yào yībēi kāfēi (我要一杯咖啡).
+
+   I want a cup of coffee
+
+| Wǒ yào yībēi chá (我要一杯茶).
+
+   I want a cup of tea.
+   
+| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
+
+   I want a glass of milk.
+   
+| Yībēi guǒzhī (一杯果汁).
+
+   I want a glass of juice.
+
+|
+
+**Reference:** [YLC23]_
 
 |
  
-Asking somone's number
-======================
+What's your phone number?
+=========================
 `:information_source:`
 
    - duōshǎo (多少): how many/much
@@ -106,8 +177,29 @@ Asking somone's number
 
 |
 
-Asking where is someone or something
-====================================
+What's your name?
+=================
+`:information_source:`
+
+   Míngzì 名字: first name
+
+|
+
+| Q: Wǒ jiào shénme míngzì (我叫什么名字)?
+
+   What is your first name? 
+| A: Wǒ jiào Raul (我叫 Raul).
+
+   I am called Raul.
+
+|
+
+**Reference:** [YLC3]_
+
+|
+
+Where is someone/something)?
+============================
 `:information_source:`
 
    - nǎlǐ (哪里): where
@@ -194,98 +286,6 @@ Asking where is someone or something
 |
 
 **Reference:** [YLC27]_ and [YLC28]_
-
-|
-
-Greetings
-=========
-| Nǐ hǎo (你好)!
-   
-   Hello!
-
-| Nǐmen hǎo (你们好)!
-
-   Hello to all of you!
-
-|
-
-| Q: Nǐ hǎo ma (你好吗)?
-
-   How are you?
-| A: Wǒ hěn hǎo (我很好).
-
-   I am very well.
-
-|
-
-| Q: Nǐ ne (你呢)?
-
-   What about you?
-   
-| A: Wǒ yě hěn hǎo (我也很好).
-
-   I am also very well.
-
-|
-
-| Hěn gāoxìng rènshí nǐ (很高兴认识你).
-
-   Nice to meet you.
-| R: Wǒ hěn gāoxìng (我很高兴).
-
-   I am very glad.
-| R: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
-
-   I am also very glad to know you.
-
-|
-
-**References:** [YLC1]_, [YLC2]_, and [YLC4]_
-
-|
-
-I want a drink
-==============
-`:information_source:`
-
-   - yībēi (一杯): a cup or a glass
-   - Qǐngwèn (请问): may I ask; excuse me
-
-|
-
-**Questions:**
-
-| Nǐ yào hē shénme (你要喝什么)? 
-
-   What do you want to drink?
-   
-| Qǐngwèn nín yào hē shénme (请问您要喝什么)?
-
-   May I ask what would you like to drink?
-
-|
-
-**Answers:**
-
-| Wǒ yào yībēi kāfēi (我要一杯咖啡).
-
-   I want a cup of coffee
-
-| Wǒ yào yībēi chá (我要一杯茶).
-
-   I want a cup of tea.
-   
-| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
-
-   I want a glass of milk.
-   
-| Yībēi guǒzhī (一杯果汁).
-
-   I want a glass of juice.
-
-|
-
-**Reference:** [YLC23]_
 
 |
 |
