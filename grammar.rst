@@ -18,7 +18,7 @@ Example: Wǒ búshì jiānádà rén. (我不是加拿大人)
 
 `:information_source:`
 
-   Google translate doesn't seem to follow this rule since it uses bùshì instead for translating "I am not". [GTFT]_
+   Google translate doesn't seem to follow this rule since it uses instead bùshì for translating "I am not". [GTFT]_
    
 |
 |
