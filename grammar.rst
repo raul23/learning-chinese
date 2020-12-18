@@ -36,9 +36,6 @@ Some measure words:
 **Examples with gè:**
 
 - Yī **gè** péngyǒu (一个朋友) translates to "One friend"
-
-   Here **gè** is a measure word.
-
 - Sān **gè** hǎo péngyǒu (三个好朋友) translates to "Three good friends"
 - Liǎng **gè** píngguǒ (两个苹果) translates to "Two apples"
 
@@ -81,13 +78,25 @@ Some measure words:
 - Yī jiàn wàitào (一件外套) translates to "A coat"
 - Yī jiàn xínglǐ (一件行李) translates to "A luggage"
 
-   Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDGE]_.
+   Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
 **Examples with tiáo:**
 
-- 
+- Yītiáo kùzi (一条裤子) translates to "A pair of trousers"
+- Yītiáo qúnzi (一条裙) translates to "A dress"
+
+   Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
+- Yītiáo shé (一条蛇) translates to "A snake"
 
 **Examples with shuāng:**
+
+- Yīshuāng xié (一双鞋) translates to "A pair of shoes"
+- Yīshuāng wàzi (一双袜子) translates to "A pair of socks"
+- Yīshuāng kuàizi (一双筷子) translates to "A pair of chopsticks"
+
+`:warning:`
+
+   A pair of glasses translates to: Yī fù yǎnjìng (一副眼镜)
 
 |
 
@@ -115,7 +124,7 @@ Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am n
 References
 ==========
 
-.. [CDGE] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
+.. [CDJIAN] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
 .. [GTFT] https://archive.vn/KHKRh [use of gè before xínglǐ in Google Translate]
 .. [GTGE] https://archive.is/pph1B [two consecutive falling tones in Google Translate]
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
