@@ -110,7 +110,7 @@ Asking where is someone or something
 ====================================
 `:information_source:`
 
-   - nǎlǐ (哪里): where
+   - nǎli (哪里): where
    - zhèlǐ (这里): here [formal; used in the South]
    - zhè'er (这儿): here [informal; used in the North]
    - nàlǐ (那里): there [used in the South]
@@ -164,17 +164,17 @@ Asking where is someone or something
 
 |
 
-| Nǐ zài nǎlǐ (你在哪里)?
+| Nǐ zài nǎli (你在哪里)?
 
    Where are you?
 
-| Wǒ de shǒujī zài nǎlǐ (我的手机在哪里)?
+| Wǒ de shǒujī zài nǎli (我的手机在哪里)?
 
    Where is my mobile phone?
    
 |
 
-| Q: Qǐngwèn, chāoshì zài nǎlǐ (请问超市在哪里)?
+| Q: Qǐngwèn, chāoshì zài nǎli (请问超市在哪里)?
 
    Excuse me, where is the supermarket?
 | A: Chāoshì zài zhèlǐ (超市在这里). [Formal]
