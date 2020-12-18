@@ -27,7 +27,7 @@ Online Chinese-English Dictionaries
 .. _colors: ./colors.rst
 .. _expressions: ./expressions.rst
 .. _grammar: ./grammar.rst
-.. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary]
+.. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
 .. _numbers: ./numbers.rst
 .. _yabal's Chinese English Pinyin Dictionary: https://chinese.yabla.com/chinese-english-pinyin-dictionary.php
 .. _vocabulary: ./vocabulary.rst
