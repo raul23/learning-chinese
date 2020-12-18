@@ -21,8 +21,12 @@ Rule: number + measure word + noun
 
    One friend.
 
+|
+
 **Reference:** [YLC21]_
-    
+
+|
+ 
 Two consecutive falling tones
 =============================
 When one falling tone is followed by another falling tone, the first falling tone is replaced by a rising tone [YLC7]_.
