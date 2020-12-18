@@ -54,6 +54,8 @@ Basic numbers
   checks" and "are necessary because, since normal Chinese characters are so simple, a 
   forger could easily change 三十 to 五千 with just three strokes". [WB]_
 - To refer to 2, liǎng can also be used instead of èr
+- When saying the number 1 in a phone number, use yāo instead of yī. Hence, we avoid 
+  confusing yī (1) and qī (7).
 
 **Reference:** [WB]_
 
