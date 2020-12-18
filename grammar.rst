@@ -24,7 +24,10 @@ The measure word to be used depends on the type of the thing.
 
    Here **gè** is a measure word.
 
-- Sān gè hǎo péngyǒu (三个好朋友) translates to "Three good friends"
+- Sān **gè** hǎo péngyǒu (三个好朋友) translates to "Three good friends"
+- Liǎng **gè** píngguǒ (两个苹果) translates to "Two apples"
+
+   Always use liǎng before a MW.
 
 |
 
