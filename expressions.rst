@@ -95,9 +95,16 @@ Greetings
 
    Hello to all of you!
 
-| Nǐ hǎo ma (你好吗)?
+| Q: Nǐ hǎo ma (你好吗)?
 
    How are you?
+| A: Wǒ hěn hǎo (我很好).
+
+   I am very well.
+
+|
+
+**References:** [YLC1]_ and [YLC2]_
 
 |
 |
@@ -105,5 +112,7 @@ Greetings
 References
 ==========
 
+.. [YLC1] https://youtu.be/aQOUSJOVHp8?t=41 [Learn Chinese for Beginners. Lesson 1: Say "Hello!" in Chinese 你好！]
+.. [YLC2] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 2: How are you?  你好吗？]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
