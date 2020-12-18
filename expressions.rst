@@ -104,6 +104,8 @@ Greetings
 
    I am very well.
 
+|
+
 | Q: Nǐ ne (你呢)?
 
    What about you?
