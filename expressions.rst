@@ -8,7 +8,7 @@ Expressions
 
 **NOTES:**
 
-- Q and A refers to question and answer, respectively
+- Q, A, R refers to question, answer, and reply respectively
 - use **nín** (您) for the polite form of you
 - use the question particle *ma* at the end of a Yes/No question
    
@@ -140,10 +140,10 @@ Greetings
 | Hěn gāoxìng rènshí nǐ (很高兴认识你).
 
    Nice to meet you.
-| A: Wǒ hěn gāoxìng (我很高兴).
+| R: Wǒ hěn gāoxìng (我很高兴).
 
    I am very glad.
-| A: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
+| R: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
 
    I am also very glad to know you.
 
