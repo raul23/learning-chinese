@@ -9,7 +9,8 @@ Grammar 语法 [Yǔfǎ]
 Measure words
 =============
 Use a measure word (MW) in a sentence when stating the quantity of a thing (e.g. apple, friend).
-The measure word to be used depends on the type of the thing.
+The measure word to be used depends on the type of the thing (e.g. zhāng for rectangular or 
+flag objects and zhǐ for some animals).
 
 
 `:star:`
@@ -19,7 +20,20 @@ The measure word to be used depends on the type of the thing.
 
 |
 
-**Examples:**
+Some measure words:
+
+- gè 个: most common MW
+- píng 瓶: for a bottle of something (e.g. water)
+- běn 本: used for books and magazines
+- zhǐ 只: used for some animals like dog, cat, and rabbit
+- jiàn 件: used for clothes and luggages
+- tiáo 条: used for long winding objects (e.g. snake)
+- shuāng 双: used for a pair of items (e.g. pair of socks)
+- 
+
+|
+
+**Examples with gè:**
 
 - Yī **gè** péngyǒu (一个朋友) translates to "One friend"
 
@@ -33,8 +47,22 @@ The measure word to be used depends on the type of the thing.
 
    yǒu (有): to have
    jǐ (几): how many
+   
+**Examples with gè:**
 
-**Reference:** [YLC21]_
+- Yī píng shuǐ (一瓶水) translates to "A bottle of water"
+- Yī píng hóngjiǔ (一瓶红酒) translates to "A bottle of wine"
+
+**Examples with běn:**
+
+- Yī **běn** shū (一本书) translates to "A book"
+- Wǒ yǒuyī **běn** zázhì (我有一本杂志) translates to "I have a magazine"
+- Nǐ yǒu jǐ **běn** zázhì? (你有几本杂志?) translates to "How many magazines do you have?"
+- Wǒ yǒu liù **běn** shū (我有六本书) translates to "I have six books"
+
+   You don't have to specify the objects so you could say: Wǒ yǒu liù běn
+
+**Reference:** [YLC21]_ and YLC22]_
 
 |
  
@@ -60,5 +88,6 @@ References
 
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [YLC21] https://youtu.be/aQOUSJOVHp8?t=7053 [Learn Chinese for Beginners. Lesson 21: Measure Word 1. 量词1]
+.. [YLC22] https://youtu.be/aQOUSJOVHp8?t=7390 [Learn Chinese for Beginners. Lesson 22: Measure Word 2. 量词2]
 .. [GTFT] https://translate.google.com/?tl=zh-CN&text=I%20am%20not [testing falling tone rule]
  
