@@ -17,7 +17,7 @@ Expressions
 |
 
 Asking someone's age
-=====================
+====================
 `:information_source:`
    
    - duōdà (多大): how big
@@ -53,6 +53,27 @@ Asking someone's age
 
 **Reference:** [YLC19]_
  
+|
+
+Asking someone's age
+=====================
+`:information_source:`
+
+   Míngzì 名字: first name
+
+|
+
+| Q: Wǒ jiào shénme míngzì (我叫什么名字)?
+
+   What is your first name? 
+| A: Wǒ jiào Raul (我叫 Raul).
+
+   I am called Raul.
+
+|
+
+**Reference:** [YLC3]_
+
 |
  
 Asking somone's number
@@ -138,6 +159,7 @@ References
 
 .. [YLC1] https://youtu.be/aQOUSJOVHp8?t=41 [Learn Chinese for Beginners. Lesson 1: Say "Hello!" in Chinese 你好！]
 .. [YLC2] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 2: How are you?  你好吗？]
+.. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
