@@ -106,6 +106,19 @@ Asking somone's number
 
 |
 
+Asking where is someone or something
+====================================
+`:information_source:`
+
+   - Zài (在): to be in/at
+   - Answer template: subject + zài + location
+
+|
+
+**Reference:** 
+
+|
+
 Greetings
 =========
 | Nǐ hǎo (你好)!
