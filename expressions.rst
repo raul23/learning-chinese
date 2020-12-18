@@ -16,6 +16,25 @@ Expressions
 
 |
 
+Do you want this or that?
+=========================
+`:information_source:`
+
+   - háishì (还是): or (used in a **question**)
+   - huòzhě (或者): or (used in a **statement**)
+
+|
+
+| Q: Nǐ yào hē chá **háishì** kāfēi (你要喝茶还是咖啡)?
+
+   Do you want tea or coffee?
+   
+| A: Wǒ yào chá **huòzhě** kāfēi (我要茶或者咖啡).
+
+   I want tea or coffee.
+
+|
+
 Greetings
 =========
 | Nǐ hǎo (你好)!
@@ -106,8 +125,9 @@ I want a drink
 ==============
 `:information_source:`
 
+   - hē (喝): to drink
+   - qǐngwèn (请问): may I ask; excuse me
    - yībēi (一杯): a cup or a glass
-   - Qǐngwèn (请问): may I ask; excuse me
 
 |
 
@@ -186,7 +206,7 @@ What's your name?
 =================
 `:information_source:`
 
-   Míngzì 名字: first name
+   míngzì 名字: first name
 
 |
 
