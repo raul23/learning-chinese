@@ -61,9 +61,9 @@ Some measure words:
 
 **Examples with zhāng:**
 
-- translates to "A table"
-- translates to "A piece of paper"
-- translates to "A ticket"
+- Yī zhāng zhuōzi (一张桌子) translates to "A table"
+- Yī zhāng zhǐ (一张纸) translates to "A piece of paper"
+- Yī zhāng piào (一张票) translates to "A ticket"
 
 **Examples with zhǐ:**
 
