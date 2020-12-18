@@ -9,40 +9,10 @@ Expressions
 **NOTES:**
 
 - Q and A refers to question and answer, respectively
-- use **nǐn** (您) for the polite form of you
+- use **nín** (您) for the polite form of you
 - use the question particle *ma* at the end of a Yes/No question
    
    Nǐ hǎo ma (你好吗)? which translates to "How are you?"
-
-|
-
-Ask for a drink
-===============
-`:information_source:`
-
-   yībēi (一杯): a cup or a glass
-
-|
-
-| Wǒ yào yībēi kāfēi (我要一杯咖啡).
-
-   I want a cup of coffee
-
-| Wǒ yào yībēi chá (我要一杯茶).
-
-   I want a cup of tea.
-   
-| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
-
-   I want a glass of milk.
-   
-| Yībēi guǒzhī (一杯果汁).
-
-   I want a glass of juice.
-
-|
-
-**Reference:** [YLC23]_
 
 |
 
@@ -180,6 +150,51 @@ Greetings
 |
 
 **References:** [YLC1]_, [YLC2]_, and [YLC4]_
+
+|
+
+I want a drink
+==============
+`:information_source:`
+
+   - yībēi (一杯): a cup or a glass
+   - Qǐngwèn (请问): may I ask; excuse me
+
+|
+
+**Questions:**
+
+| Nǐ yào hē shénme (你要喝什么)? 
+
+   What do you want to drink?
+   
+| Qǐngwèn nín yào hē shénme (请问您要喝什么)?
+
+   May I ask what would you like to drink?
+
+|
+
+**Answers:**
+
+| Wǒ yào yībēi kāfēi (我要一杯咖啡).
+
+   I want a cup of coffee
+
+| Wǒ yào yībēi chá (我要一杯茶).
+
+   I want a cup of tea.
+   
+| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
+
+   I want a glass of milk.
+   
+| Yībēi guǒzhī (一杯果汁).
+
+   I want a glass of juice.
+
+|
+
+**Reference:** [YLC23]_
 
 |
 |
