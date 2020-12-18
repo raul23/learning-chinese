@@ -8,7 +8,7 @@ Grammar 语法 [Yǔfǎ]
     
 Two consecutive falling tones
 =============================
-When two falling tones, the first falling tone is replaced by a rising tone.
+When two falling tones, the first falling tone is replaced by a rising tone [YLC7]_.
  
 Example: Wǒ búshì jiānádà rén. (我不是加拿大人)
 |
@@ -26,5 +26,6 @@ Example: Wǒ búshì jiānádà rén. (我不是加拿大人)
 References
 ==========
 
+.. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [GTFT] https://translate.google.com/?tl=zh-CN&text=I%20am%20not [testing falling tone rule]
  
