@@ -110,16 +110,20 @@ Asking where is someone or something
 ====================================
 `:information_source:`
 
-   - Nǎlǐ (哪里): where
+   - nǎlǐ (哪里): where
+   - zhèlǐ (这里): here [formal; used in the South]
+   - zhè'er (这儿): here [informal; used in the North]
+   - nàlǐ (那里): there [used in the South]
+   - nà'er (那儿): there [used in the North]
    - Zài (在): to be in/at
-   - "To be in/at location" template: subject + zài + location
-   - "Not to be in/at" template: subject + bú zài + location
+   - Template for "To be in/at location": subject + zài + location
+   - Template for "Not to be in/at": subject + bú zài + location
 
 |
 
 | Wǒ zài zhōngguó (我在中国).
    
-   I am in Chinae.
+   I am in China.
    
 | Wǒ zài měiguó (我在美国).
 
@@ -164,6 +168,29 @@ Asking where is someone or something
 
    Where are you?
 
+| Wǒ de shǒujī zài nǎlǐ (我的手机在哪里)?
+
+   Where is my mobile phone?
+   
+|
+
+| Q: Qǐngwèn, chāoshì zài nǎlǐ (请问超市在哪里)?
+
+   Excuse me, where is the supermarket?
+| A: Chāoshì zài zhèlǐ (超市在这里). [Formal]
+| A: Chāoshì zài zhè'er (超市在这儿). [Informal]
+
+   The supermarket is **here**.
+| A: Chāoshì zài nàli (超市在那里).
+
+   The supermarket is **over there**.
+
+`:information_source:`
+
+   Google Translate translates 'there' as nàlǐ (那里) with a falling-rising tone 
+   in the last character and thus translates the whole sentence 'Chāoshì zài nàlǐ' as
+   "Where is the supermarket?" [GTNALI]_. yabla dictionary translates 'there' as nàli
+   (那里) with neutral tone in the last character [YDNALI].
 |
 
 **Reference:** [YLC27]_ and [YLC28]_
@@ -266,6 +293,8 @@ I want a drink
 References
 ==========
 
+.. [GTNALI] https://archive.vn/06Glp [Google uses nàlǐ for 那里]
+.. [YDNALI] https://archive.vn/GO8M9 [yabla dictionary uses nàli for 那里]
 .. [YLC1] https://youtu.be/aQOUSJOVHp8?t=41 [Learn Chinese for Beginners. Lesson 1: Say "Hello!" in Chinese 你好！]
 .. [YLC2] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 2: How are you?  你好吗？]
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
@@ -274,5 +303,5 @@ References
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
 .. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
 .. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
-.. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？]
+.. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？
 
