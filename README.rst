@@ -4,7 +4,7 @@ README
 List of files
 =============
 * `colors`_
-* `expressions`_: important Chinese expressions divided into categories (e.g. directions, greetings) 
+* `expressions`_: important Chinese expressions divided into categories (e.g. asking someone's age, greetings) 
 * `grammar`_: some Chinese grammar rules
 * `numbers`_
 * `vocabulary`_
