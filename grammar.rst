@@ -23,13 +23,13 @@ flag objects and zhǐ for some animals).
 Some measure words:
 
 - gè 个: most common MW
-- píng 瓶: for a bottle of something (e.g. water)
 - běn 本: used for books and magazines
+- píng 瓶: for a bottle of something (e.g. water)
+- zhāng 张: used for rectangular or flag objects (e.g. table)
 - zhǐ 只: used for some animals like dog, cat, and rabbit
 - jiàn 件: used for clothes and luggages
 - tiáo 条: used for long winding objects (e.g. snake)
 - shuāng 双: used for a pair of items (e.g. pair of socks)
-- 
 
 |
 
@@ -47,11 +47,6 @@ Some measure words:
 
    yǒu (有): to have
    jǐ (几): how many
-   
-**Examples with gè:**
-
-- Yī píng shuǐ (一瓶水) translates to "A bottle of water"
-- Yī píng hóngjiǔ (一瓶红酒) translates to "A bottle of wine"
 
 **Examples with běn:**
 
@@ -62,7 +57,39 @@ Some measure words:
 
    You don't have to specify the objects so you could say: Wǒ yǒu liù běn
 
-**Reference:** [YLC21]_ and YLC22]_
+**Examples with píng:**
+
+- Yī píng shuǐ (一瓶水) translates to "A bottle of water"
+- Yī píng hóngjiǔ (一瓶红酒) translates to "A bottle of wine"
+
+**Examples with zhāng:**
+
+- translates to "A table"
+- translates to "A piece of paper"
+- translates to "A ticket"
+
+**Examples with zhǐ:**
+
+- Yī zhǐ gǒu (一只狗) translates to "A dog"
+- Yī zhǐ māo (一只猫) translates to "A cat"
+- Yī zhǐ tùzǐ (一只兔子) translates to "A rabbit"
+- Yī zhǐ niǎo (一只鸟) translates to "A bird"
+
+**Examples with jiàn:**
+
+- Yī jiàn yīfú (一件衣服) translates to "A clothe"
+- Yī jiàn wàitào (一件外套) translates to "A coat"
+- Yī jiàn xínglǐ (一件行李) translates to "A luggage"
+
+   Google translate uses **gè** for luggage  but Collins dictionary uses **jiàn**.
+
+**Examples with tiáo:**
+
+**Examples with shuāng:**
+
+|
+
+**Reference:** [YLC21]_ and [YLC22]_
 
 |
  
