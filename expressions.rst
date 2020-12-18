@@ -110,12 +110,63 @@ Asking where is someone or something
 ====================================
 `:information_source:`
 
+   - Nǎlǐ (哪里): where
    - Zài (在): to be in/at
-   - Answer template: subject + zài + location
+   - "To be in/at location" template: subject + zài + location
+   - "Not to be in/at" template: subject + bú zài + location
 
 |
 
-**Reference:** 
+| Wǒ zài zhōngguó (我在中国).
+   
+   I am in Chinae.
+   
+| Wǒ zài měiguó (我在美国).
+
+   I am in America.
+
+| Wǒ de shǒujī zài jiā (我的手机在家).
+
+   My mobilephone is at home.
+
+| Wǒ zài jiā (我在家).
+
+   I am at home.
+   
+| Wǒ bú zài gōngsī (我不在公司).
+
+   I am not in the company.
+
+|
+
+| Q: Nǐ zàijiā ma (你在家吗)?
+
+   Are you at home?
+| A: Wǒ bú zàijiā (我不在家).
+
+   I am not at home.
+
+|
+
+| Q: Raul zài ma (Raul 在吗)?
+
+   Is Raul around?
+| A: Wǒ zài (我在).
+
+   I am around.
+| A: Wǒ bú zài (我不在).
+
+   I am not around.
+
+|
+
+| Nǐ zài nǎlǐ (你在哪里)?
+
+   Where are you?
+
+|
+
+**Reference:** [YLC27]_ and [YLC28]_
 
 |
 
@@ -222,3 +273,6 @@ References
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
 .. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
+.. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
+.. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？]
+
