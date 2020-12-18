@@ -328,8 +328,8 @@ Who is this?
 ============
 `:information_source:`
 
-   shéi (谁): who
-   zhè (这): this
+   - shéi (谁): who
+   - zhè (这): this
 
 |
 
