@@ -57,6 +57,8 @@ Basic numbers
 
 **Reference:** [WB]_
 
+|
+
 Numbers 11-99
 =============
 +----+--------+-----------+
@@ -85,6 +87,8 @@ Numbers 11-99
 - 21-99: number of tens + shí + units
 
 **Reference:** [YLC15]_
+
+|
 
 Numbers 100-999
 ===============
@@ -157,6 +161,8 @@ Numbers 100-999
 - If number ends in zero, no units
 
 **Reference:** [YLC17]_
+
+|
 
 Numbers 1000-99999
 ==================
