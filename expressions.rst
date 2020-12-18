@@ -26,10 +26,22 @@ Asking someone's age
 | Q: Nǐ jǐ suì? (你几岁?)
 
    How old are you?
+   
+| Q: Tā duōdà? (他多大?)
+
+   How old is he?
+   
+| Q: Monica duōdà? (Monica 多大?)
+
+   How old is Monica?
 
 | A: Wǒ èrshí suì (我二十岁)
 
    I am twenty years old.
+
+`:warning:`
+
+   Don't say 'Wǒ **shì* èrshí suì'. Drop the shì ("am").
 
 |
 
