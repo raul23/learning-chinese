@@ -11,7 +11,10 @@ Measure words
 Use a measure word in a sentence when stating the quantity of a thing (e.g. apple, friend).
 The measure word to be used depends on the type of the thing.
 
-Rule: number + measure word + noun
+
+`:star:`
+
+   Rule: number + measure word + noun
 
 |
 
