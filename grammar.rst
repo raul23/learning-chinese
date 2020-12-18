@@ -14,7 +14,8 @@ The measure word to be used depends on the type of the thing.
 
 `:star:`
 
-   Rule for MW : number + measure word + noun
+   - General rule for MW : number + measure word + noun
+   - Rule for MW in a question: 
 
 |
 
@@ -28,8 +29,10 @@ The measure word to be used depends on the type of the thing.
 - Liǎng **gè** píngguǒ (两个苹果) translates to "Two apples"
 
    Always use liǎng before a MW.
+- Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?) translates to "How many apples do you have?"
 
-|
+   yǒu (有): to have
+   jǐ (几): how many
 
 **Reference:** [YLC21]_
 
