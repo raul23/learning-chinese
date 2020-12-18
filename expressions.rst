@@ -8,7 +8,7 @@ Expressions
 
 `:information_source:`
 
-   - Q and A refers to question and answer
+   - Q and A refers to question and answer, respectively
    - use **nǐn** for the polite form of a question
 
 |
