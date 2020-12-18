@@ -10,8 +10,8 @@ Two consecutive falling tones
 =============================
 When one falling tone is followed by another falling tone, the first falling tone is replaced by a rising tone [YLC7]_.
  
-Example: Wǒ búshì jiānádà rén. (我不是加拿大人)
-|
+Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am not canadian"
+
    Here we initially have bùshì (two falling tones) which should be replaced with búshì.
 
 |
