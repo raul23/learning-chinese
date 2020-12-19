@@ -90,9 +90,9 @@ Countries and nationalities
 ===========================
 `:information_source:`
 
-   guó (国): country
-   rén (人): person
-   nǎ (哪): which
+   - guó (国): country
+   - rén (人): person
+   - nǎ (哪): which
 
 |
 
