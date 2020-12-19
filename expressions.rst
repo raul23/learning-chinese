@@ -524,7 +524,9 @@ Who is this?
    - tā de (他的): his/her/its
 
 |
+
 | Q: Tā shì shéi (她是谁)?
+   
    Who is she?
 
 |
@@ -536,11 +538,11 @@ Who is this?
 
    Jack's wife.
 | Anna de lǎogōng (Anna 的老公).
+   
    Anna's husband.
 | Tā shì wǒ māmā (她是我妈妈).
-   She is my mother.
-|
    
+   She is my mother.
 
 |
 
