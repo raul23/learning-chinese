@@ -326,7 +326,11 @@ What's your surname?
    - guì (贵): expensive, honorable
    - xìng (姓): surname, family name or to be surnamed
    - Examples of Chinese surnames: Lǐ (力), Wáng (王), Zhāng (张), Zhào (赵)
-
+   - nǚ shì (女士): Ms (if you are not sure if she is married), lady, madam
+   - xiǎo jie (小姐): Miss (if not married), young lady
+   - tài tai (太太) or fū ren (夫人): Mrs, married woman, lady, madam
+   - xiānsheng (先生): Mr., Mister
+   
 |
 
 | Q: Nín guì xìng (您贵姓)?
@@ -340,7 +344,8 @@ What's your surname?
 
 `:warning:`
 
-   Do not say "Wǒ **guì** xìng" since it is impolite!
+   - Do not say "Wǒ **guì** xìng" since it is impolite!
+   - Surnmame goes before Ms/Mr. e.g. Ms. Wáng: Wáng nǚ shì (王女士)
 
 |
 
