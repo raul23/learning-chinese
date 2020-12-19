@@ -521,13 +521,17 @@ Who is this?
    - Wǒ de (我的): my
    - Nǐ de (你的): your
    - Nín de (您的): your
-   - tā de (他的): his/her/its
-
+   - tā de (他的): his
+   - tā de (她的): her
+   - tā de (它的): its
 |
 
 | Q: Tā shì shéi (她是谁)?
    
    Who is she?
+| Q: Tā shì shéi (他是谁)?
+   
+   Who is he?
 
 |
 
