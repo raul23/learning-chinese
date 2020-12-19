@@ -714,7 +714,7 @@ Who is this?
 ============
 `:information_source:`
 
-   - shéi (谁): who,whom
+   - shéi (谁): who, whom
    - zhè (这): this
 |
 
