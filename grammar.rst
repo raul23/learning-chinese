@@ -8,9 +8,9 @@ Grammar 语法 [Yǔfǎ]
    
 Measure words
 =============
-Use a measure word (MW) in a sentence when stating the quantity of an object (e.g. apple, friend).
-The measure word to be used depends on the type of the object (e.g. zhāng for rectangular or 
-flag objects and zhǐ for some animals).
+Use a measure word (MW) in a sentence when stating the number of objects/persons (e.g. apple, friend).
+The measure word to be used depends on the object (e.g. zhāng for rectangular or 
+flag objects).
 
 
 `:star:`
