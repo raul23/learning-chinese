@@ -7,7 +7,7 @@ List of files
 * `expressions.rst`_: important Chinese expressions divided into categories (e.g. asking someone's age, greetings) 
 * `grammar.rst`_: some Chinese grammar rules
 * `numbers.rst`_
-* `specialized_vocabulary/`_: related words are found in a single file (e.g. `computers.rst`_ for computer-related words)
+* `specialized_vocabulary/`_: related words in a single file (e.g. `computers.rst`_ for computer-related words)
 * `vocabulary.rst`_: includes also all vocabulary from `specialized_vocabulary/`_
 
 Resources
