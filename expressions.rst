@@ -55,7 +55,7 @@ Do you want this or that?
    
 | A: Wǒ yào chá **huòzhě** kāfēi (我要茶或者咖啡).
 
-   Either tea or coffee is fine to me. (litt: I want tea or coffee)
+   Either tea or coffee is fine to me. (lit. I want tea or coffee)
 
 |
 
@@ -99,10 +99,10 @@ Replies to xièxiè (谢谢):
    You are welcome.
 | R: Bù yòng xiè (不用谢).
 
-   You are welcome. (litt: no need to thank)
+   You are welcome. (lit. no need to thank)
 | R: Bú xiè (不谢). [shorter version]
 
-   You are welcome. (litt: no thanks)
+   You are welcome. (lit. no thanks)
 
 |
 
@@ -257,7 +257,7 @@ Misc
 ====
 | Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
 
-   What do you do (as a living)? Litt: You do what job?
+   What do you do (as a living)? Lit. You do what job?
 | A: Wǒ shì xuéshēng (我是学生).
 
    I am a student.
@@ -276,11 +276,11 @@ Negative sentence
 
 | Wǒ **bù** máng (我不忙).
 
-   I am not busy. (litt: I not busy)
+   I am not busy. (lit. I not busy)
    
 | Tā **bù** piàoliang (她不漂亮).
 
-   She is not beautiful. (litt: She not beautiful)
+   She is not beautiful. (lit. She not beautiful)
 
 |
 
@@ -501,9 +501,8 @@ Who is this?
 ============
 `:information_source:`
 
-   - shéi (谁): who
+   - shéi (谁): who,whom
    - zhè (这): this
-
 |
 
 | Q: Zhè shì shéi (这是谁)?
@@ -515,7 +514,37 @@ Who is this?
 
 |
 
-**Reference:** [YLC24]_
+`:information_source:`
+
+   - possessive determiner: Personal pronoun + de
+   - possessive determiner: Person/Place/object + de
+   - Wǒ de (我的): my
+   - Nǐ de (你的): your
+   - Nín de (您的): your
+   - tā de (他的): his/her/its
+
+|
+| Q: Tā shì shéi (她是谁)?
+   Who is she?
+
+|
+
+| Mary **de** nǚ'ér (Mary 的女儿).
+
+   Mary's daughter
+| Jack de lǎo pó (Jack 的老婆).
+
+   Jack's wife.
+| Anna de lǎogōng (Anna 的老公).
+   Anna's husband.
+| Tā shì wǒ māmā (她是我妈妈).
+   She is my mother.
+|
+   
+
+|
+
+**References:** [YLC9]_ and [YLC24]_
 
 |
 |
@@ -529,6 +558,7 @@ References
 .. [YLC2] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 2: How are you?  你好吗？]
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
+.. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
 .. [YLC12] https://youtu.be/aQOUSJOVHp8?t=3741 [Learn Chinese for Beginners. Lesson 12: What’s your surname?  您贵姓？]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
