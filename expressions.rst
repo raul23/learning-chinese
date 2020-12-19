@@ -323,8 +323,8 @@ What's your surname?
 ====================
 `:information_source:`
 
-   guì (贵): expensive, honorable
-   xìng (姓): surname, family name or to be surnamed
+   - guì (贵): expensive, honorable
+   - xìng (姓): surname, family name or to be surnamed
 
 |
 
