@@ -145,7 +145,7 @@ Gratitude and apology
 
 |
 
-**Replies to duì bù qǐ (I am sorry):**
+**Reply to duì bù qǐ (I am sorry):**
 
 | R: Méi guān xì (没关系).
 
