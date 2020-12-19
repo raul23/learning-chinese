@@ -325,15 +325,16 @@ What's your surname?
 
    - guì (贵): expensive, honorable
    - xìng (姓): surname, family name or to be surnamed
+   - Examples of Chinese surnames: Lǐ (力), Wáng (王), Zhāng (张), Zhào (赵)
 
 |
 
 | Q: Nín guì xìng (您贵姓)?
 
    What's your surname?
-| A: Wǒ xìng ... (我姓 ...)
+| A: Wǒ xìng Wáng (我姓王).
 
-   My surname is ...
+   My surname is Wáng.
 
 |
 
