@@ -366,7 +366,9 @@ Who is this?
 | Q: Zhè shì shéi (这是谁)?
 
    Who is this?
-| A: Zhè shì Lily (这是 Lily)?
+| A: Zhè shì Lily (这是 Lily).
+
+   This is Lily.
 
 |
 
