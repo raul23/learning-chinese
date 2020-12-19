@@ -516,8 +516,10 @@ Who are they?
 
    They are my friends.
 | Tāmen **dōu** shì wǒ de péngyou (他们都是我的朋友).
+   
    They are all my friends.
 | Wǒmen **dōu** xǐhuān hǎixiān (我们都喜欢海鲜).
+   
    All of us like seafod. (Another translation: we all like seafood)
 
 |
