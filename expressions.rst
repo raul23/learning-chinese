@@ -35,8 +35,6 @@ Can you speak chinese?
    - Case 2: if no guó from country's name, just add yǔ
    - Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
 
-|Hàn yǔ
-
 `:warning:`
 
    - Hàn yǔ (汉语): chinese language
