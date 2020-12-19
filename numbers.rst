@@ -57,6 +57,8 @@ Basic numbers
 - When saying the number 1 in a phone number, use yāo instead of yī. Hence, we avoid 
   confusing yī (1) and qī (7).
 
+|
+
 **Reference:** [WB]_
 
 |
@@ -87,6 +89,8 @@ Numbers 11-99
 
 - 11-19: shí + units
 - 21-99: number of tens + shí + units
+
+|
 
 **Reference:** [YLC15]_
 
@@ -162,6 +166,8 @@ Numbers 100-999
 - (number of hundreds + bǎi) + (number of tens + shí) + units
 - If number ends in zero, no units
 
+|
+
 **Reference:** [YLC17]_
 
 |
@@ -220,6 +226,8 @@ Numbers 1000-99999
 
 **NOTE:** the chinese number system breaks down the numbers 
 by 4 digits (instead of 3). Example: 100 000 000 -> 1'0000'0000
+
+|
 
 **Reference:** [YLC18]_
 
