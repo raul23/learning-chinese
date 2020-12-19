@@ -131,7 +131,7 @@ Gratitude and apology
 
 |
 
-**Replies to xièxiè (谢谢):**
+**Replies to xièxiè (thank you):**
 
 | R: Bú kè qì (不客气).
 
@@ -145,9 +145,8 @@ Gratitude and apology
 
 |
 
-| Duì bù qǐ (对不起).
+**Replies to duì bù qǐ (I am sorry):**
 
-   I am sorry
 | R: Méi guān xì (没关系).
 
    It doesn't matter.
