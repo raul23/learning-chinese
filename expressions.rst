@@ -506,7 +506,7 @@ Who are they?
    - tāmen (他们): they
    - dōu (都): both, all
    - dōu template: Subject + dōu + verb
-   - shéi (谁): who,whom
+   - shéi (谁): who, whom
 
 |
 
