@@ -307,10 +307,19 @@ How old are you?
 ================
 `:information_source:`
    
+   - duō (多): how
    - duōdà (多大): how big
    - jǐ suì (几岁): how old
    - suì (岁): years old
    - shù (数): number
+
+|
+
+**duō-question: duō + adjective**
+
+   - duō xiǎo (多小): how little?
+   - duō gāo (多高): how tall?
+   - duō piàoliang (多漂亮): how beautiful?
 
 |
 
