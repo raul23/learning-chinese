@@ -497,6 +497,35 @@ Where is someone/something?
 
 |
 
+Who are they?
+=============
+`:information_source:`
+
+   - wǒmen (我们): we, use
+   - nǐmen (你们): you
+   - tāmen (他们): they
+   - dōu (都): both, all
+   - Subject + dōu + verb
+
+|
+
+| **Wǒmen** shì zhōngguó rén (我们是中国人).
+
+   We are chinese.
+| **Tāmen** shì wǒ de péngyou (他们是我的朋友).
+
+   They are my friends.
+| Tāmen **dōu** shì wǒ de péngyou (他们都是我的朋友).
+   They are all my friends.
+| Wǒmen **dōu** xǐhuān hǎixiān (我们都喜欢海鲜).
+   All of us like seafod. (Another translation: we all like seafood)
+
+|
+
+**Reference:** [YLC11]_
+
+|
+
 Who is this?
 ============
 `:information_source:`
@@ -565,6 +594,7 @@ References
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
 .. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
+.. [YLC11] https://youtu.be/aQOUSJOVHp8?t=3372 [Learn Chinese for Beginners. Lesson 11: They are all my friends. 他们都是我的朋友]
 .. [YLC12] https://youtu.be/aQOUSJOVHp8?t=3741 [Learn Chinese for Beginners. Lesson 12: What’s your surname?  您贵姓？]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
