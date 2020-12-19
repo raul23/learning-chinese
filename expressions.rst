@@ -318,6 +318,7 @@ How old are you?
 **duō-question: duō + adjective**
 
    - duō xiǎo (多小): how little?
+   - duō dà (多大): how big? (how old?)
    - duō gāo (多高): how tall?
    - duō piàoliang (多漂亮): how beautiful?
 
