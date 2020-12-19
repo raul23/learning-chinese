@@ -173,10 +173,12 @@ How old are you?
    - duōdà (多大): how big
    - jǐ suì (几岁): how old
    - suì (岁): years old
+   - shù (数): number
 
 |
 
-| Q: Nǐ duōdà (你多大)?
+| Q: **Nín** duōdà suìshù (您多大岁数)? [polite form]
+| Q: Nǐ duōdà (你多大)? [not polite form]
 | Q: Nǐ jǐ suì (你几岁)?
 
    How old are you?
