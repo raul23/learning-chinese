@@ -88,19 +88,64 @@ Can you speak Chinese?
 
 Countries and nationalities
 ===========================
+`:information_source:`
+
+   guó (国): country
+   rén (人): person
+   nǎ (哪): which
+
+|
+
 **Two groups of country names:**
 
-1) Guó at then end:
+1) guó (国) at then end:
 
-   - China
-   - America
-   - France
-   - Germany
-2) No guó at the end:
+   - Zhōngguó (中国): China
+   - Měiguó (美国): America
+   - Yīngguó (英国): England
+   - Fàguó (法国): France
+   - Déguó (德国): Germany
+   - Rìběn (日本): Japan
+2) No guó (国) at the end:
 
-   - Canada
-   - Italy
-   - Spain
+   - Jiānádà (加拿大): Canada
+   - Yìdàlì (意大利): Italy
+   - Xībānyá (西班牙): Spain
+
+|
+
+**Nationalities:** country + person (rén)
+
+   - Zhōngguó rén (中国人): Chinese
+   - Měiguó rén (美国人): American
+   - Yīngguó rén (英国人): English
+   - Fàguó rén (法国人): French
+   - Déguó rén (德国人): German
+   - Rìběn rén (日本人): Japanese
+   - Jiānádà rén (加拿大人): Canadian
+   - Yìdàlì rén (意大利人): Italian
+   - Xībānyá rén (西班牙人): Spanish
+   
+|
+
+| Q: Nǐ shì **nǎ** guó rén (你是哪国人)?
+
+   What country are from? (lit. You are which country person?)
+| A: Wǒ shì zhōngguó rén (我是中国人).
+
+   I am Chinese.
+   
+|
+
+| Q: Nǐ shì měiguó rén **ma** (你是美国人吗)?
+
+   Are you American?
+| A: Wǒ shì měiguó rén (我是美国人).
+
+   I am American.
+| A: Wǒ **bú** shì měiguó rén (我不是美国人).
+
+   I am not American.
 
 |
 
