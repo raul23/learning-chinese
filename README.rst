@@ -7,7 +7,7 @@ List of files
 * `expressions.rst`_: important Chinese expressions divided into categories (e.g. asking someone's age, greetings) 
 * `grammar.rst`_: some Chinese grammar rules
 * `numbers.rst`_
-* `small_dict.rst`_: small english-chinese dictionary including also vocabulary from `specialized_vocabulary`_
+* `small_dictionary.rst`_: small english-chinese dictionary including also vocabulary from `specialized_vocabulary`_
 * `specialized_vocabulary`_: related words in a single file (e.g. `computers.rst`_)
 
 Resources
@@ -31,6 +31,6 @@ Online Chinese-English Dictionaries
 .. _grammar.rst: ./grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
 .. _numbers.rst: ./numbers.rst
-.. _small_dict.rst: ./small_dict.rst
+.. _small_dictionary.rst: ./small_dictionary.rst
 .. _specialized_vocabulary: ./specialized_vocabulary
 .. _yabal's Chinese English Pinyin Dictionary: https://chinese.yabla.com/chinese-english-pinyin-dictionary.php
