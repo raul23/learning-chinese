@@ -33,7 +33,7 @@ flag objects).
 
 |
 
-**Examples with gè:**
+**Examples with gè (个):**
 
 - Yī **gè** péngyǒu (一个朋友)
 
@@ -51,7 +51,7 @@ flag objects).
    - yǒu (有): to have
    - jǐ (几): how many
 
-**Examples with běn:**
+**Examples with běn (本):**
 
 - Yī **běn** shū (一本书)
 
@@ -67,7 +67,7 @@ flag objects).
    - "I have six books"
    - NOTE: You don't have to specify the objects so you could say: Wǒ yǒu liù běn
 
-**Examples with píng:**
+**Examples with píng (瓶):**
 
 - Yī píng shuǐ (一瓶水)
 
@@ -76,7 +76,7 @@ flag objects).
 
    "A bottle of wine"
 
-**Examples with zhāng:**
+**Examples with zhāng (张):**
 
 - Yī zhāng zhuōzi (一张桌子)
 
@@ -88,7 +88,7 @@ flag objects).
 
    "A ticket"
 
-**Examples with zhǐ:**
+**Examples with zhǐ (只):**
 
 - Yī zhǐ gǒu (一只狗)
 
@@ -103,7 +103,7 @@ flag objects).
 
    "A bird"
 
-**Examples with jiàn:**
+**Examples with jiàn (件):**
 
 - Yī jiàn yīfú (一件衣服)
 
@@ -116,12 +116,12 @@ flag objects).
    - "A luggage"
    - NOTE: Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
-**Examples with tiáo:**
+**Examples with tiáo (条):**
 
 - Yītiáo kùzi (一条裤子)
 
    "A pair of trousers"
-- Yītiáo qúnzi (一条裙)
+- Yītiáo qúnzi (一条裙子)
 
    - "A dress"
    - NOTE: Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
@@ -129,7 +129,7 @@ flag objects).
 
    "A snake"
 
-**Examples with shuāng:**
+**Examples with shuāng(双):**
 
 - Yīshuāng xié (一双鞋)
 
