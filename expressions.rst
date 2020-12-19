@@ -345,7 +345,7 @@ What's your surname?
 `:warning:`
 
    - Do not say "Wǒ **guì** xìng" since it is impolite!
-   - Surname goes before Ms/Mr. e.g. Ms. Wáng: Wáng nǚ shì (王女士)
+   - Surname goes before Ms/Mr e.g. Ms Wáng is translated as: Wáng nǚ shì (王女士)
 
 |
 
