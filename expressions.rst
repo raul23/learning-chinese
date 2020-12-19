@@ -329,7 +329,7 @@ What's your surname?
    - nǚ shì (女士): Ms (if you are not sure if she is married), lady, madam
    - xiǎo jie (小姐): Miss (if not married), young lady
    - tài tai (太太) or fū ren (夫人): Mrs, married woman, lady, madam
-   - xiānsheng (先生): Mr., Mister
+   - xiānsheng (先生): Mr, Mister
    
 |
 
@@ -345,7 +345,7 @@ What's your surname?
 `:warning:`
 
    - Do not say "Wǒ **guì** xìng" since it is impolite!
-   - Surnmame goes before Ms/Mr. e.g. Ms. Wáng: Wáng nǚ shì (王女士)
+   - Surname goes before Ms/Mr. e.g. Ms. Wáng: Wáng nǚ shì (王女士)
 
 |
 
