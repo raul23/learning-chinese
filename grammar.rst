@@ -48,8 +48,8 @@ flag objects).
 - Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?)
 
    - "How many apples do you have?"
-   - NOTE: yǒu (有) means "to have"
-   - NOTE: jǐ (几) means "how many"
+   - yǒu (有): to have
+   - jǐ (几): how many
 
 **Examples with běn:**
 
