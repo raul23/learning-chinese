@@ -233,6 +233,32 @@ I want a drink
 
 |
 
+Misc
+====
+**Descriptive sentence**
+
+   - Descriptive sentence: Subject + hěn + adj
+   - hěn (很): very
+   - No verb shì!
+
+| Wǒ **hěn** hǎo (我很好).
+
+   I am (very) good.
+| Nǐmen **hěn** cōngmíng (你们很聪明).
+
+   You are smart.
+
+|
+
+| Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
+
+   What do you do (as a living)? Litt: You do what job?
+| A: Wǒ shì xuéshēng (我是学生).
+
+   I am a student.
+
+|
+
 What is that/this?
 ==================
 `:information_source:`
