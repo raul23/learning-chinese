@@ -47,9 +47,9 @@ flag objects).
    - NOTE: Always use liǎng (2) before a MW instead of èr (2)
 - Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?)
 
-   "How many apples do you have?"
-   yǒu (有): to have
-   jǐ (几): how many
+   - "How many apples do you have?"
+   - yǒu (有): to have
+   - jǐ (几): how many
 
 **Examples with běn:**
 
