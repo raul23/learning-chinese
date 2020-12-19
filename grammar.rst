@@ -56,7 +56,7 @@ flag objects).
 - Yī **běn** shū (一本书)
 
    "A book"
-- Wǒ yǒuyī **běn** zázhì (我有一本杂志)
+- Wǒ yǒu yī **běn** zázhì (我有一本杂志)
 
    "I have a magazine"
 - Nǐ yǒu jǐ **běn** zázhì? (你有几本杂志?)
@@ -69,75 +69,75 @@ flag objects).
 
 **Examples with píng (瓶):**
 
-- Yī píng shuǐ (一瓶水)
+- Yī **píng** shuǐ (一瓶水)
 
    "A bottle of water"
-- Yī píng hóngjiǔ (一瓶红酒)
+- Yī **píng** hóngjiǔ (一瓶红酒)
 
    "A bottle of wine"
 
 **Examples with zhāng (张):**
 
-- Yī zhāng zhuōzi (一张桌子)
+- Yī **zhāng** zhuōzi (一张桌子)
 
    "A table"
-- Yī zhāng zhǐ (一张纸)
+- Yī **zhāng** zhǐ (一张纸)
 
    "A piece of paper"
-- Yī zhāng piào (一张票)
+- Yī **zhāng** piào (一张票)
 
    "A ticket"
 
 **Examples with zhǐ (只):**
 
-- Yī zhǐ gǒu (一只狗)
+- Yī **zhǐ** gǒu (一只狗)
 
    "A dog"
-- Yī zhǐ māo (一只猫)
+- Yī **zhǐ** māo (一只猫)
 
    "A cat"
-- Yī zhǐ tùzǐ (一只兔子)
+- Yī **zhǐ** tùzǐ (一只兔子)
 
    "A rabbit"
-- Yī zhǐ niǎo (一只鸟)
+- Yī **zhǐ** niǎo (一只鸟)
 
    "A bird"
 
 **Examples with jiàn (件):**
 
-- Yī jiàn yīfú (一件衣服)
+- Yī **jiàn** yīfú (一件衣服)
 
    "A clothe"
-- Yī jiàn wàitào (一件外套)
+- Yī **jiàn** wàitào (一件外套)
 
    "A coat"
-- Yī jiàn xínglǐ (一件行李)
+- Yī **jiàn** xínglǐ (一件行李)
 
    - "A luggage"
    - NOTE: Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
 **Examples with tiáo (条):**
 
-- Yītiáo kùzi (一条裤子)
+- Yī **tiáo** kùzi (一条裤子)
 
    "A pair of trousers"
-- Yītiáo qúnzi (一条裙子)
+- Yī **tiáo** qúnzi (一条裙子)
 
    - "A dress"
    - NOTE: Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
-- Yītiáo shé (一条蛇)
+- Yī **tiáo** shé (一条蛇)
 
    "A snake"
 
 **Examples with shuāng(双):**
 
-- Yīshuāng xié (一双鞋)
+- Yī **shuāng** xié (一双鞋)
 
    "A pair of shoes"
-- Yīshuāng wàzi (一双袜子)
+- Yī **shuāng** wàzi (一双袜子)
 
    "A pair of socks"
-- Yīshuāng kuàizi (一双筷子)
+- Yī **shuāng** kuàizi (一双筷子)
 
    "A pair of chopsticks"
 
