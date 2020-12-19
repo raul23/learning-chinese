@@ -131,7 +131,7 @@ Gratitude and apology
 
 |
 
-Replies to xièxiè (谢谢):
+**Replies to xièxiè (谢谢):**
 
 | R: Bú kè qì (不客气).
 
