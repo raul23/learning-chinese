@@ -494,7 +494,8 @@ What's your name?
 =================
 `:information_source:`
 
-   míngzì 名字: first name
+   - jiào (叫): to be called
+   - míngzì 名字: first name
 
 |
 
@@ -503,7 +504,7 @@ What's your name?
    What is your first name? 
 | A: Wǒ jiào Raul (我叫 Raul).
 
-   I am called Raul.
+   I am called Raul. (Another translation: My name is Raul).
 
 |
 
