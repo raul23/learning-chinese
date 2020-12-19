@@ -505,7 +505,17 @@ Who are they?
    - nǐmen (你们): you
    - tāmen (他们): they
    - dōu (都): both, all
-   - Subject + dōu + verb
+   - dōu template: Subject + dōu + verb
+   - shéi (谁): who,whom
+
+|
+
+| Q: Tāmen shì shéi (他们是谁)?
+
+   Who are they?
+| Q: Nǐ shì shéi (你是谁)? 
+
+   Who are you?
 
 |
 
