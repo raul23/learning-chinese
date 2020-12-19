@@ -207,8 +207,39 @@ How old are you?
 
 |
 
-I want a drink
-==============
+Misc
+====
+| Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
+
+   What do you do (as a living)? Lit. You do what job?
+| A: Wǒ shì xuéshēng (我是学生).
+
+   I am a student.
+
+|
+
+Negative sentence
+=================
+`:information_source:`
+
+   - bù (不): not (adv)
+   - Subject + bù + adj
+   - No verb shì!
+
+|
+
+| Wǒ **bù** máng (我不忙).
+
+   I am not busy. (lit. I not busy)
+   
+| Tā **bù** piàoliang (她不漂亮).
+
+   She is not beautiful. (lit. She not beautiful)
+
+|
+
+What do you want to drink?
+==========================
 `:information_source:`
 
    - hē (喝): to drink
@@ -250,37 +281,6 @@ I want a drink
 |
 
 **Reference:** [YLC23]_
-
-|
-
-Misc
-====
-| Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
-
-   What do you do (as a living)? Lit. You do what job?
-| A: Wǒ shì xuéshēng (我是学生).
-
-   I am a student.
-
-|
-
-Negative sentence
-=================
-`:information_source:`
-
-   - bù (不): not (adv)
-   - Subject + bù + adj
-   - No verb shì!
-
-|
-
-| Wǒ **bù** máng (我不忙).
-
-   I am not busy. (lit. I not busy)
-   
-| Tā **bù** piàoliang (她不漂亮).
-
-   She is not beautiful. (lit. She not beautiful)
 
 |
 
