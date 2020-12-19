@@ -318,6 +318,8 @@ Please do this
 
    Qǐng (请): please
 
+|
+
 | Qǐng zuò (请坐).
 
    Please sit down.
@@ -340,8 +342,8 @@ Please do this
 
 |
 
-What do you want to drink?
-==========================
+What do you want?
+=================
 `:information_source:`
 
    - hē (喝): to drink
