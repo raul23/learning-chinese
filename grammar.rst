@@ -117,6 +117,7 @@ Example: Wǒ búshì jiānádà rén (我不是加拿大人) which means "I am n
 `:information_source:`
 
    Google Translate doesn't seem to follow this rule since it translates "I am not" by "Wǒ bùshì". [GTFT]_
+   Same for yabla dictionary too [YDFT]_.
    
 |
 |
@@ -127,6 +128,7 @@ References
 .. [CDJIAN] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
 .. [GTFT] https://archive.is/pph1B [two consecutive falling tones in Google Translate]
 .. [GTGE] https://archive.vn/KHKRh [use of gè before xínglǐ in Google Translate]
+.. [YDFT] https://archive.is/FCjJc [two consecutive falling tones in yabla dictionary]
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=2122 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [YLC21] https://youtu.be/aQOUSJOVHp8?t=7053 [Learn Chinese for Beginners. Lesson 21: Measure Word 1. 量词1]
 .. [YLC22] https://youtu.be/aQOUSJOVHp8?t=7390 [Learn Chinese for Beginners. Lesson 22: Measure Word 2. 量词2]
