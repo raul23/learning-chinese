@@ -309,13 +309,13 @@ Where is someone/something?
 
 |
 
-| Q: Raul zài ma (Raul 在吗)?
+| Raul zài ma (Raul 在吗)?
 
    Is Raul around?
-| A: Wǒ zài (我在).
+| Wǒ zài (我在).
 
    I am around.
-| A: Wǒ bú zài (我不在).
+| Wǒ bú zài (我不在).
 
    I am not around.
 
@@ -350,7 +350,7 @@ Where is someone/something?
    (那里) with a neutral tone in the last character [YDNALI]_.
 |
 
-**References:** [YLC24]_ and [YLC28]_
+**References:** [YLC24]_, [YLC27]_ and [YLC28]_
 
 |
 
