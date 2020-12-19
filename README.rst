@@ -30,6 +30,7 @@ Online Chinese-English Dictionaries
 .. _grammar.rst: ./grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
 .. _numbers.rst: ./numbers.rst
+.. _specialized_vocabulary/: ./specialized_vocabulary
 .. _yabal's Chinese English Pinyin Dictionary: https://chinese.yabla.com/chinese-english-pinyin-dictionary.php
 .. _computers.rst: ./specialized_vocabulary/computers.rst
 .. _vocabulary.rst: ./vocabulary.rst
