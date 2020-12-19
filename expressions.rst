@@ -37,7 +37,7 @@ Can you speak Chinese?
 
 `:warning:`
 
-   - Hàn yǔ (汉语): chinese language [YLC8-ZHONG]_
+   - Hàn yǔ (汉语): Chinese language [YLC8-ZHONG]_
    - Do not say zhōng yǔ! 
    - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
    - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
