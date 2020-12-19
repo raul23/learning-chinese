@@ -22,7 +22,7 @@ Can you speak chinese?
 
    - yǔyán (语言): language
    - huì (会): can, be able to
-   - shuō (说): speak
+   - shuō (说): speak, say
    - Yī diǎn (一点): a little
    - Yī diǎndiǎn (一点点): a little bit
 
@@ -34,6 +34,21 @@ Can you speak chinese?
    - Example: yīng guó (England) -> yīng yǔ (English)
    - Case 2: if no guó from country's name, just add yǔ
    - Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
+
+|Hàn yǔ
+
+`:warning:`
+
+   - Hàn yǔ (汉语): chinese language
+   - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
+   - Not zhōng yǔ! 
+|
+
+**Questions:**
+
+| Q: 
+
+   Test
 
 |
 
@@ -632,6 +647,7 @@ References
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
 .. [YLC8] https://youtu.be/aQOUSJOVHp8?t=2208 [Learn Chinese for Beginners. Lesson 8: Can you speak Chinese?  你会说汉语吗？]
+.. [YLC8-ZHONG]_ https://youtu.be/aQOUSJOVHp8?t=2358 [Learn Chinese for Beginners. Lesson 8: Can you speak Chinese?  你会说汉语吗？]
 .. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
 .. [YLC11] https://youtu.be/aQOUSJOVHp8?t=3372 [Learn Chinese for Beginners. Lesson 11: They are all my friends. 他们都是我的朋友]
 .. [YLC12] https://youtu.be/aQOUSJOVHp8?t=3741 [Learn Chinese for Beginners. Lesson 12: What’s your surname?  您贵姓？]
