@@ -279,28 +279,6 @@ How old are you?
 
 Misc
 ====
-`:information_source:`
-
-   Qǐng (请): please
-   
-| Qǐng zuò (请坐).
-
-   Please sit down.
-   
-| Qǐng shuō (请说).
-
-   Please say.
-   
-| Qǐng jìn (请进).
-
-   Please come in.
-   
-| Qǐng wèn (请问).
-
-   Please ask.
-
-|
-
 | Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
 
    What do you do (as a living)? Lit. You do what job?
@@ -327,6 +305,38 @@ Negative sentence
 | Tā **bù** piàoliang (她不漂亮).
 
    She is not beautiful. (lit. She not beautiful)
+
+|
+
+**Reference:** [YLC14]_
+
+|
+
+Please do this
+==============
+`:information_source:`
+
+   Qǐng (请): please
+
+| Qǐng zuò (请坐).
+
+   Please sit down.
+   
+| Qǐng shuō (请说).
+
+   Please say.
+   
+| Qǐng jìn (请进).
+
+   Please come in.
+   
+| Qǐng wèn (请问).
+
+   Please ask.
+
+|
+
+**Reference:** [YLC23]_
 
 |
 
@@ -703,6 +713,7 @@ References
 .. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
 .. [YLC11] https://youtu.be/aQOUSJOVHp8?t=3372 [Learn Chinese for Beginners. Lesson 11: They are all my friends. 他们都是我的朋友]
 .. [YLC12] https://youtu.be/aQOUSJOVHp8?t=3741 [Learn Chinese for Beginners. Lesson 12: What’s your surname?  您贵姓？]
+.. [YLC14] https://youtu.be/aQOUSJOVHp8?t=4456 [Learn Chinese for Beginners. Lesson 14: I am busy.  我很忙]
 .. [YLC16] https://youtu.be/aQOUSJOVHp8?t=5155 [Learn Chinese for Beginners. Lesson 16: What’s your phone number?  你的电话号码是多少?]
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
 .. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
