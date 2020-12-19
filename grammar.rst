@@ -35,13 +35,19 @@ flag objects).
 
 **Examples with gè:**
 
-- Yī **gè** péngyǒu (一个朋友) translates to "One friend"
-- Sān **gè** hǎo péngyǒu (三个好朋友) translates to "Three good friends"
-- Liǎng **gè** píngguǒ (两个苹果) translates to "Two apples"
+- Yī **gè** péngyǒu (一个朋友)
 
-   Always use liǎng (2) before a MW instead of èr (2)
-- Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?) translates to "How many apples do you have?"
+   "One friend"
+- Sān **gè** hǎo péngyǒu (三个好朋友)
+   
+   "Three good friends"
+- Liǎng **gè** píngguǒ (两个苹果)
 
+   - "Two apples"
+   - NOTE: Always use liǎng (2) before a MW instead of èr (2)
+- Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?)
+
+   "How many apples do you have?"
    yǒu (有): to have
    jǐ (几): how many
 
