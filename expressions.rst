@@ -16,7 +16,7 @@ Expressions
 
 |
 
-Can you speak chinese?
+Can you speak Chinese?
 ======================
 `:information_source:`
 
@@ -28,7 +28,7 @@ Can you speak chinese?
 
 |
 
-**To get a country's language in chinese:**
+**To get a country's language in Chinese:**
 
    - Case 1: from the country's name, replace guó with yǔ
    - Example: yīng guó (England) -> yīng yǔ (English)
@@ -37,16 +37,48 @@ Can you speak chinese?
 
 `:warning:`
 
-   - Hàn yǔ (汉语): chinese language
+   - Hàn yǔ (汉语): chinese language [YLC8-ZHONG]_
+   - Do not say zhōng yǔ! 
    - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
-   - Not zhōng yǔ! 
+   - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
 
 **Questions:**
 
-| Q: 
+| Nǐ huì shuō zhōngwén ma (你会说汉语吗)?
 
-   Test
+   Can you speak Chinese?
+| Nǐ huì shuō yīng yǔ ma (你能说英语吗)?
+
+   Can you speak English?
+
+|
+
+**Answers:**
+
+| Wǒ huì shuō Hàn yǔ (我会说汉语).
+
+   I can speak Chinese.
+
+| Wǒ huì shuō yīngyǔ (我会说英语).
+
+   I can speak English.
+   
+| Wǒ huì shuō (我会说).
+
+   I can speak.
+   
+| Wǒ **bú** huì shuō yīngyǔ (我不会说英语).
+
+   I can't speak English.
+   
+| Wǒ **bú** huì (我不会).
+   
+   I can't.
+   
+| Wǒ huì shuō yī diǎndiǎn (我会说一点点).
+
+   I can speak a little bit.
 
 |
 
@@ -637,6 +669,7 @@ Who is this?
 References
 ==========
 
+.. [GT-ZHONGWEN] https://archive.is/lgYUm [Google uses zhōngwén to refer to the Chinese language]
 .. [GTNALI] https://archive.vn/06Glp [Google uses nàlǐ for 那里]
 .. [YDNALI] https://archive.vn/GO8M9 [yabla dictionary uses nàli for 那里]
 .. [YLC1] https://youtu.be/aQOUSJOVHp8?t=41 [Learn Chinese for Beginners. Lesson 1: Say "Hello!" in Chinese 你好！]
