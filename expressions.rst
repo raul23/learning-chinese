@@ -23,6 +23,12 @@ Do you want this or that?
    - háishì (还是): or (used in a **question**)
    - huòzhě (或者): or (used in a **statement**)
 
+| 
+
+| Q: Nǐ yào hē píjiǔ háishì hóngjiǔ (你要喝啤酒还是红酒)?
+
+   Do you want beer or red wine?
+
 |
 
 | Q: Nǐ yào hē chá **háishì** kāfēi (你要喝茶还是咖啡)?
@@ -31,7 +37,11 @@ Do you want this or that?
    
 | A: Wǒ yào chá **huòzhě** kāfēi (我要茶或者咖啡).
 
-   I want tea or coffee.
+   Either tea or coffee is fine to me. (litt: I want tea or coffee)
+
+|
+
+**References:** [YLC25]_
 
 |
 
@@ -47,7 +57,7 @@ Greetings
 
 |
 
-| Q: Nǐ hǎo ma (你好吗)?
+| Q: Nǐ hǎo **ma** (你好吗)?
 
    How are you?
 | A: Wǒ hěn hǎo (我很好).
@@ -157,7 +167,7 @@ I want a drink
 
    I want a glass of milk.
    
-| Yībēi guǒzhī (一杯果汁).
+| Wǒ yào yībēi guǒzhī (我要一杯果汁).
 
    I want a glass of juice.
 
@@ -178,11 +188,11 @@ What is that/this?
 
 **Questions:**
 
-| Nà shì shénme (那是什么)?
+| **Nà** shì shénme (那是什么)?
 
    What is that?
 
-| Zhè shì shénme (这是什么)?
+| **Zhè** shì shénme (这是什么)?
 
    What is this?
 
@@ -190,11 +200,11 @@ What is that/this?
 
 **Answers:**
 
-| Nà shì yī běn shū (那是一本书). 
+| **Nà** shì yī běn shū (那是一本书). 
 
    That is a book.
    
-| Zhè shì yīgè píngguǒ (这是一个苹果).
+| **Zhè** shì yīgè píngguǒ (这是一个苹果).
 
    This is an apple.
 
@@ -311,24 +321,24 @@ Where is someone/something?
 
 |
 
-| Nǐ zài nǎlǐ (你在哪里)?
+| Nǐ zài **nǎlǐ** (你在哪里)?
 
    Where are you?
 
-| Wǒ de shǒujī zài nǎlǐ (我的手机在哪里)?
+| Wǒ de shǒujī zài **nǎlǐ** (我的手机在哪里)?
 
    Where is my mobile phone?
    
 |
 
-| Q: Qǐngwèn, chāoshì zài nǎlǐ (请问超市在哪里)?
+| Q: Qǐngwèn, chāoshì zài **nǎlǐ** (请问超市在哪里)?
 
    Excuse me, where is the supermarket?
-| A: Chāoshì zài zhèlǐ (超市在这里). [Formal]
-| A: Chāoshì zài zhè'er (超市在这儿). [Informal]
+| A: Chāoshì zài **zhèlǐ** (超市在这里). [Formal]
+| A: Chāoshì zài **zhè'er** (超市在这儿). [Informal]
 
    The supermarket is **here**.
-| A: Chāoshì zài nàli (超市在那里).
+| A: Chāoshì zài **nàli** (超市在那里).
 
    The supermarket is **over there**.
 
@@ -378,6 +388,7 @@ References
 .. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
 .. [YLC23] https://youtu.be/aQOUSJOVHp8?t=7789 [Learn Chinese for Beginners. Lesson 23: I want a cup of coffee. 我想要一杯咖啡]
 .. [YLC24] https://youtu.be/aQOUSJOVHp8?t=8202 [Learn Chinese for Beginners. Lesson 24: What is this? 这是什么？]
+.. [YLC25] https://youtu.be/aQOUSJOVHp8?t=8521 [Learn Chinese for Beginners. Lesson 25: Do you want tea or coffee? 你想要茶还是咖啡？]
 .. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
 .. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？
 
