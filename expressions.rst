@@ -279,6 +279,28 @@ How old are you?
 
 Misc
 ====
+`:information_source:`
+
+   Qǐng (请): please
+   
+| Qǐng zuò (请坐).
+
+   Please sit down.
+   
+| Qǐng shuō (请说).
+
+   Please say.
+   
+| Qǐng jìn (请进).
+
+   Please come in.
+   
+| Qǐng wèn (请问).
+
+   Please ask.
+
+|
+
 | Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
 
    What do you do (as a living)? Lit. You do what job?
