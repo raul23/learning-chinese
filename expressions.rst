@@ -262,6 +262,26 @@ Misc
 
 |
 
+Negative sentence
+=================
+`:information_source:`
+
+   - bù (不): not (adv)
+   - Subject + bù + adj
+   - No verb shì!
+
+|
+
+| Wǒ **bù** máng (我不忙).
+
+   I am not busy. (litt: I not busy)
+   
+| Tā **bù** piàoliang (她不漂亮).
+
+   She is not beautiful. (litt: She not beautiful)
+
+|
+
 What is that/this?
 ==================
 `:information_source:`
