@@ -3,11 +3,12 @@ README
 ======
 List of files
 =============
-* `colors`_
-* `expressions`_: important Chinese expressions divided into categories (e.g. asking someone's age, greetings) 
-* `grammar`_: some Chinese grammar rules
-* `numbers`_
-* `vocabulary`_
+* `colors.rst`_
+* `expressions.rst`_: important Chinese expressions divided into categories (e.g. asking someone's age, greetings) 
+* `grammar.rst`_: some Chinese grammar rules
+* `numbers.rst`_
+* `specialized_vocabulary/`_: related words are found in a single file (e.g. `computers.rst`_ for computer-related words)
+* `vocabulary.rst`_: includes also all vocabulary from `specialized_vocabulary/`_
 
 Resources
 =========
@@ -24,10 +25,11 @@ Online Chinese-English Dictionaries
 
 .. URLs
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/chinese-english
-.. _colors: ./colors.rst
-.. _expressions: ./expressions.rst
-.. _grammar: ./grammar.rst
+.. _colors.rst: ./colors.rst
+.. _expressions.rst: ./expressions.rst
+.. _grammar.rst: ./grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
-.. _numbers: ./numbers.rst
+.. _numbers.rst: ./numbers.rst
 .. _yabal's Chinese English Pinyin Dictionary: https://chinese.yabla.com/chinese-english-pinyin-dictionary.php
-.. _vocabulary: ./vocabulary.rst
+.. _computers.rst: ./specialized_vocabulary/computers.rst
+.. _vocabulary.rst: ./vocabulary.rst
