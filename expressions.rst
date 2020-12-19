@@ -325,8 +325,8 @@ How old are you?
 |
 
 | Q: **Nín** duōdà suìshù (您多大岁数)? [polite form]
-| Q: Nǐ duōdà (你多大)? [informal]
-| Q: Nǐ jǐ suì (你几岁)?
+| Q: Nǐ **duōdà** (你多大)? [informal]
+| Q: Nǐ **jǐ suì** (你几岁)?
 
    How old are you?
    
