@@ -47,52 +47,93 @@ flag objects).
 
 **Examples with běn:**
 
-- Yī **běn** shū (一本书) translates to "A book"
-- Wǒ yǒuyī **běn** zázhì (我有一本杂志) translates to "I have a magazine"
-- Nǐ yǒu jǐ **běn** zázhì? (你有几本杂志?) translates to "How many magazines do you have?"
-- Wǒ yǒu liù **běn** shū (我有六本书) translates to "I have six books"
+- Yī **běn** shū (一本书)
 
-   You don't have to specify the objects so you could say: Wǒ yǒu liù běn
+   "A book"
+- Wǒ yǒuyī **běn** zázhì (我有一本杂志)
+
+   "I have a magazine"
+- Nǐ yǒu jǐ **běn** zázhì? (你有几本杂志?)
+
+   "How many magazines do you have?"
+- Wǒ yǒu liù **běn** shū (我有六本书)
+
+   - "I have six books"
+   - NOTE: You don't have to specify the objects so you could say: Wǒ yǒu liù běn
 
 **Examples with píng:**
 
-- Yī píng shuǐ (一瓶水) translates to "A bottle of water"
-- Yī píng hóngjiǔ (一瓶红酒) translates to "A bottle of wine"
+- Yī píng shuǐ (一瓶水)
+
+   "A bottle of water"
+- Yī píng hóngjiǔ (一瓶红酒)
+
+   "A bottle of wine"
 
 **Examples with zhāng:**
 
-- Yī zhāng zhuōzi (一张桌子) translates to "A table"
-- Yī zhāng zhǐ (一张纸) translates to "A piece of paper"
-- Yī zhāng piào (一张票) translates to "A ticket"
+- Yī zhāng zhuōzi (一张桌子)
+
+   "A table"
+- Yī zhāng zhǐ (一张纸)
+
+   "A piece of paper"
+- Yī zhāng piào (一张票)
+
+   "A ticket"
 
 **Examples with zhǐ:**
 
-- Yī zhǐ gǒu (一只狗) translates to "A dog"
-- Yī zhǐ māo (一只猫) translates to "A cat"
-- Yī zhǐ tùzǐ (一只兔子) translates to "A rabbit"
-- Yī zhǐ niǎo (一只鸟) translates to "A bird"
+- Yī zhǐ gǒu (一只狗)
+
+   "A dog"
+- Yī zhǐ māo (一只猫)
+
+   "A cat"
+- Yī zhǐ tùzǐ (一只兔子)
+
+   "A rabbit"
+- Yī zhǐ niǎo (一只鸟)
+
+   "A bird"
 
 **Examples with jiàn:**
 
-- Yī jiàn yīfú (一件衣服) translates to "A clothe"
-- Yī jiàn wàitào (一件外套) translates to "A coat"
-- Yī jiàn xínglǐ (一件行李) translates to "A luggage"
+- Yī jiàn yīfú (一件衣服)
 
-   Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
+   "A clothe"
+- Yī jiàn wàitào (一件外套)
+
+   "A coat"
+- Yī jiàn xínglǐ (一件行李)
+
+   - "A luggage"
+   - NOTE: Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
 **Examples with tiáo:**
 
-- Yītiáo kùzi (一条裤子) translates to "A pair of trousers"
-- Yītiáo qúnzi (一条裙) translates to "A dress"
+- Yītiáo kùzi (一条裤子)
 
-   Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
-- Yītiáo shé (一条蛇) translates to "A snake"
+   "A pair of trousers"
+- Yītiáo qúnzi (一条裙)
+
+   - "A dress"
+   - NOTE: Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
+- Yītiáo shé (一条蛇)
+
+   "A snake"
 
 **Examples with shuāng:**
 
-- Yīshuāng xié (一双鞋) translates to "A pair of shoes"
-- Yīshuāng wàzi (一双袜子) translates to "A pair of socks"
-- Yīshuāng kuàizi (一双筷子) translates to "A pair of chopsticks"
+- Yīshuāng xié (一双鞋)
+
+   "A pair of shoes"
+- Yīshuāng wàzi (一双袜子)
+
+   "A pair of socks"
+- Yīshuāng kuàizi (一双筷子)
+
+   "A pair of chopsticks"
 
 `:warning:`
 
