@@ -709,10 +709,10 @@ Whose?
 
 **Questions:**
 
-| Shéi de shū (谁的书)?
+| **Shéi de** shū (谁的书)?
 
    Whose book?
-| Shéi de bēizi (谁的杯子)?
+| **Shéi de** bēizi (谁的杯子)?
 
    Whose cup?
 | **Zhè** shì **shéi de** qiánbāo? (这是谁的钱包)?
@@ -723,13 +723,13 @@ Whose?
 
 **Answers:**
 
-| Lìlì de shū (莉莉的书).
+| Lìlì **de** shū (莉莉的书).
 
    Lily's book.
-| Ānnà de bēizi (安娜的杯子).
+| Ānnà **de** bēizi (安娜的杯子).
 
    Anna's cup.
-| **Zhè** shì wǒ de qiánbāo (这是我的钱包).
+| **Zhè** shì **wǒ de** qiánbāo (这是我的钱包).
 
    This is my wallet.
 
