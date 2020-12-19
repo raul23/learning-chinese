@@ -20,7 +20,7 @@ flag objects).
 
 |
 
-Some measure words:
+**Some measure words:**
 
 - gè 个: most common MW
 - běn 本: used for books and magazines
