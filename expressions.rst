@@ -86,6 +86,27 @@ Can you speak Chinese?
 
 |
 
+Countries and nationalities
+===========================
+**Two groups of country names:**
+1) Guó at then end:
+
+   - China
+   - America
+   - France
+   - Germany
+2) No guó at the end:
+
+   - Canada
+   - Italy
+   - Spain
+
+|
+
+**References:** [YLC5]_, [YLC6]_ and [YLC7]_
+
+|
+
 Descriptive sentence
 ====================
 `:information_source:`
@@ -750,6 +771,9 @@ References
 .. [YLC2] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 2: How are you?  你好吗？]
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC4] https://youtu.be/aQOUSJOVHp8?t=796 [Learn Chinese for Beginners. Lesson 4: Nice to meet you. 很高兴认识你]
+.. [YLC5] https://youtu.be/aQOUSJOVHp8?t=1096 [Learn Chinese for Beginners. Lesson 5: Country names. 国家名称]
+.. [YLC6] https://youtu.be/aQOUSJOVHp8?t=1489 [Learn Chinese for Beginners. Lesson 6: What’s your nationality? 你是哪国人？]
+.. [YLC7] https://youtu.be/aQOUSJOVHp8?t=1846 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
 .. [YLC8] https://youtu.be/aQOUSJOVHp8?t=2208 [Learn Chinese for Beginners. Lesson 8: Can you speak Chinese?  你会说汉语吗？]
 .. [YLC8-ZHONG] https://youtu.be/aQOUSJOVHp8?t=2358 [Learn Chinese for Beginners. Lesson 8: Can you speak Chinese?  你会说汉语吗？]
 .. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
