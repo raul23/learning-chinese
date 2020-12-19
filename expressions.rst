@@ -41,7 +41,63 @@ Do you want this or that?
 
 |
 
-**References:** [YLC25]_
+**Reference:** [YLC25]_
+
+|
+
+Gratitude and apology
+=====================
+`:information_source:`
+
+   - bào qiàn (抱歉): sorry
+   - duì bù qǐ (对不起): I am sorry
+   - xièxie (谢谢) or xièxie nǐ (谢谢你): thank you
+
+|
+
+| Xièxiè nǐ, māmā (谢谢你妈妈)!
+| Xièxiè māmā (谢谢妈妈)!
+
+   Thank you mom!
+
+|
+
+| Xièxiè nǐ de lǐwù (谢谢你的礼物).
+
+   Thank you for your gift.
+
+|
+
+| Xièxiè nǐ de bāngzhù (谢谢你的帮助).
+
+   Thank you for your help.
+
+|
+
+Replies to xièxiè (谢谢):
+
+| R: Bú kè qì (不客气).
+
+   You are welcome.
+| R: Bù yòng xiè (不用谢).
+
+   You are welcome. (litt: no need to thank)
+| R: Bú xiè (不谢). [shorter version]
+
+   You are welcome. (litt: no thanks)
+
+|
+
+| Duì bù qǐ (对不起).
+
+   I am sorry
+| R: Méi guān xì (没关系).
+
+   It doesn't matter.
+   
+|
+
+**Reference:** [YLC29]_
 
 |
 
@@ -392,5 +448,5 @@ References
 .. [YLC24] https://youtu.be/aQOUSJOVHp8?t=8202 [Learn Chinese for Beginners. Lesson 24: What is this? 这是什么？]
 .. [YLC25] https://youtu.be/aQOUSJOVHp8?t=8521 [Learn Chinese for Beginners. Lesson 25: Do you want tea or coffee? 你想要茶还是咖啡？]
 .. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
-.. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？
-
+.. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？]
+.. [YLC29] https://youtu.be/aQOUSJOVHp8?t=9892 [Learn Chinese for Beginners. Lesson 29: Express gratitude & apology. 表达感谢和道歉]
