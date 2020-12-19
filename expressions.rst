@@ -82,7 +82,7 @@ Do you want this or that?
 
 | 
 
-| Q: Nǐ yào hē píjiǔ háishì hóngjiǔ (你要喝啤酒还是红酒)?
+| Q: Nǐ yào hē píjiǔ **háishì** hóngjiǔ (你要喝啤酒还是红酒)?
 
    Do you want beer or red wine?
 
