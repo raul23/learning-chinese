@@ -344,6 +344,8 @@ What's your phone number?
 
    - duōshǎo (多少): how many/much
    - shénme (什么): what
+   - diànhuà (电话): telephone
+   - hàomǎ (号码): number
 
 |
 
