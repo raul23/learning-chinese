@@ -505,7 +505,7 @@ What's your name?
 `:information_source:`
 
    - jiào (叫): to be called
-   - míngzì 名字: first name
+   - míngzì (名字): first name
 
 |
 
