@@ -130,7 +130,7 @@ Countries and nationalities
 
 | Q: Nǐ shì **nǎ** guó **rén** (你是哪国人)?
 
-   What country are from? (lit. You are which country person?)
+   What country are you from? (lit. You are which country person?)
 | A: Wǒ shì zhōngguó rén (我是中国人).
 
    I am Chinese.
