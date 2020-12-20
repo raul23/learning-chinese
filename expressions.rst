@@ -23,8 +23,8 @@ Can you speak Chinese?
    - yǔyán (语言): language
    - huì (会): can, be able to
    - shuō (说): speak, say
-   - Yī diǎn (一点): a little
-   - Yī diǎndiǎn (一点点): a little bit
+   - yī diǎn (一点): a little
+   - yī diǎndiǎn (一点点): a little bit
 
 |
 
