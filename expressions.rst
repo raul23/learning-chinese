@@ -43,6 +43,9 @@ Can you speak Chinese?
    - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
 
+Questions and answers
+---------------------
+
 **Questions:**
 
 | Nǐ huì shuō zhōngwén ma (你会说汉语吗)?
