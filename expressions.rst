@@ -638,61 +638,64 @@ What's your surname? (Nín guì xìng?)
 
 |
 
-Where is someone/something?
-===========================
+Where (nǎlǐ) is someone/something?
+==================================
+I am at/in (Wǒ zài)
+-------------------
 `:information_source:`
 
-   - nǎlǐ (哪里): where
-   - nàli (那里): there [used in the South]
-   - nà'er (那儿): there [used in the North]
-   - zhèlǐ (这里): here [formal; used in the South]
-   - zhèr/zhè'er (这儿): here [informal; used in the North]
    - zài (在): to be in/at
    - Template for "To be in/at": subject + zài + location
    - Template for "Not to be in/at": subject + bú zài + location
 
-|
-
-| Wǒ zài zhōngguó (我在中国).
+| Wǒ **zài** zhōngguó (我在中国).
    
    I am in China.
    
-| Wǒ zài měiguó (我在美国).
+| Wǒ **zài** měiguó (我在美国).
 
    I am in America.
 
-| Wǒ de shǒujī zài jiā (我的手机在家).
+| Wǒ de shǒujī **zài** jiā (我的手机在家).
 
    My mobilephone is at home.
 
-| Wǒ zài jiā (我在家).
+| Wǒ **zài** jiā (我在家).
 
    I am at home.
    
-| Wǒ bú zài gōngsī (我不在公司).
+| Wǒ **bú zài** gōngsī (我不在公司).
 
    I am not in the company.
 
 |
 
-| Q: Nǐ zàijiā ma (你在家吗)?
+| Q: Nǐ **zài** jiā **ma** (你在家吗)?
 
    Are you at home?
-| A: Wǒ bú zàijiā (我不在家).
+| A: Wǒ **bú zài** jiā (我不在家).
 
    I am not at home.
 
 |
 
-| Raul zài ma (Raul 在吗)?
+| Raul zài **ma** (Raul 在吗)?
 
    Is Raul around?
-| Wǒ zài (我在).
+| Wǒ **zài** (我在).
 
    I am around.
-| Wǒ bú zài (我不在).
+| Wǒ **bú zài** (我不在).
 
    I am not around.
+
+|
+
+Where are you? (Nǐ zài nǎlǐ?)
+-----------------------------
+`:information_source:`
+
+   - nǎlǐ (哪里): where
 
 |
 
@@ -704,6 +707,18 @@ Where is someone/something?
 
    Where is my mobile phone?
    
+|
+
+It is here/there (Zài zhèlǐ/nàli)
+---------------------------------
+`:information_source:`
+
+   - nǎlǐ (哪里): where
+   - nàli (那里): there [used in the South]
+   - nà'er (那儿): there [used in the North]
+   - zhèlǐ (这里): here [formal; used in the South]
+   - zhèr/zhè'er (这儿): here [informal; used in the North]
+
 |
 
 | Q: Qǐngwèn, chāoshì zài **nǎlǐ** (请问超市在哪里)?
