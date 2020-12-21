@@ -8,8 +8,8 @@ Sentences using computer-related vocabulary from `computers.rst`_.
    :local:
    :backlinks: top
    
-Laptop ()
-=========
+Laptop (bǐjìběn diànnǎo)
+========================
 `:information_source:`
 
    - xūyào (需要): to need
@@ -20,6 +20,8 @@ Laptop ()
    - jiùle (旧了): old
 
 |
+
+**Example:**
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
@@ -43,11 +45,15 @@ Video game (diànwán)
    
 |
 
+**Example 1:**
+
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
    Pac-Man was a popular video game in the 80s.
 
 |
+
+**Example 2:**
 
 | Wǒ wán **diànwán** (我玩电玩).
 
