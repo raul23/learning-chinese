@@ -282,7 +282,7 @@ Reply to "I am sorry" (duì bù qǐ)
 
 |
 
-| Méi guān xì (没关系).
+| R: Méi guān xì (没关系).
 
    It doesn't matter.
    
