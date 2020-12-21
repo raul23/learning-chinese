@@ -34,8 +34,10 @@ Some measure words
 
 |
 
+Examples of measure words
+-------------------------
 Examples with gè (个)
----------------------
+^^^^^^^^^^^^^^^^^^^^^
 - Yī **gè** péngyǒu (一个朋友)
 
    "One friend"
@@ -55,7 +57,7 @@ Examples with gè (个)
 |
 
 Examples with běn (本)
-----------------------
+^^^^^^^^^^^^^^^^^^^^^^
 - Yī **běn** shū (一本书)
 
    "A book"
@@ -73,7 +75,7 @@ Examples with běn (本)
 |
 
 Examples with píng (瓶)
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **píng** shuǐ (一瓶水)
 
    "A bottle of water"
@@ -81,8 +83,10 @@ Examples with píng (瓶)
 
    "A bottle of wine"
 
-**Examples with zhāng (张):**
+|
 
+Examples with zhāng (张)
+^^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **zhāng** zhuōzi (一张桌子)
 
    "A table"
@@ -92,9 +96,10 @@ Examples with píng (瓶)
 - Yī **zhāng** piào (一张票)
 
    "A ticket"
+|
 
-**Examples with zhǐ (只):**
-
+Examples with zhǐ (只)
+^^^^^^^^^^^^^^^^^^^^^^
 - Yī **zhǐ** gǒu (一只狗)
 
    "A dog"
@@ -111,7 +116,7 @@ Examples with píng (瓶)
 |
 
 Examples with jiàn (件)
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **jiàn** yīfú (一件衣服)
 
    "A clothe"
@@ -126,7 +131,7 @@ Examples with jiàn (件)
 |
 
 Examples with tiáo (条)
------------------------
+^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **tiáo** kùzi (一条裤子)
 
    "A pair of trousers"
@@ -139,7 +144,7 @@ Examples with tiáo (条)
    "A snake"
 
 Examples with shuāng(双)
-------------------------
+^^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **shuāng** xié (一双鞋)
 
    "A pair of shoes"
