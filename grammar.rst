@@ -143,6 +143,8 @@ Examples with tiáo (条)
 
    "A snake"
 
+|
+
 Examples with shuāng(双)
 ^^^^^^^^^^^^^^^^^^^^^^^^
 - Yī **shuāng** xié (一双鞋)
