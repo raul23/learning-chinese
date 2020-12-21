@@ -100,15 +100,14 @@ Questions and answers
 
 Countries and nationalities
 ===========================
+Countries
+---------
 `:information_source:`
 
    - guó (国): country
-   - rén (人): person
 
 |
 
-Countries
----------
 **Two groups of country names:**
 
 1) guó (国) at then end:
@@ -129,6 +128,12 @@ Countries
 
 Nationalities
 -------------
+`:information_source:`
+
+   - rén (人): person
+
+|
+
 **Nationalities:** country + person (rén)
 
    - Zhōngguó rén (中国人): Chinese
