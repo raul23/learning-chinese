@@ -824,6 +824,12 @@ Who is he/she? (Tā shì shéi?)
    - tā de (它的): its
 |
 
+`:information_source:`
+
+   shéi (谁): who, whom
+
+|
+
 **Questions:**
 
 | Tā shì shéi (她是谁)?
@@ -860,7 +866,8 @@ Whose?
 ======
 `:information_source:`
 
-   shéi de (谁的): whose
+   - shéi de (谁的): whose
+   - zhè (这): this
 
 |
 
