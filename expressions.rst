@@ -757,6 +757,8 @@ Who are they?
 
 |
 
+**Questions:**
+
 | Q: Tāmen shì shéi (他们是谁)?
 
    Who are they?
@@ -765,6 +767,8 @@ Who are they?
    Who are you?
 
 |
+
+**Answers:**
 
 | **Wǒmen** shì zhōngguó rén (我们是中国人).
 
@@ -785,8 +789,8 @@ Who are they?
 
 |
 
-Who is this?
-============
+Who is this? (Zhè shì shéi?)
+============================
 `:information_source:`
 
    - shéi (谁): who, whom
@@ -802,6 +806,12 @@ Who is this?
 
 |
 
+**References:** [YLC24]_
+
+|
+
+Who is he/she? (Tā shì shéi?)
+=============================
 `:information_source:`
 
    - possessive determiner: Personal pronoun + de
@@ -814,14 +824,18 @@ Who is this?
    - tā de (它的): its
 |
 
-| Q: Tā shì shéi (她是谁)?
+**Questions:**
+
+| Tā shì shéi (她是谁)?
    
    Who is she?
-| Q: Tā shì shéi (他是谁)?
+| Tā shì shéi (他是谁)?
    
    Who is he?
 
 |
+
+**Answers:**
 
 | Mary **de** nǚ'ér (Mary 的女儿).
 
@@ -838,7 +852,7 @@ Who is this?
 
 |
 
-**References:** [YLC9]_ and [YLC24]_
+**References:** [YLC9]_
 
 |
 
