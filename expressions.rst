@@ -21,10 +21,11 @@ Can you speak Chinese?
 To get a country's language in Chinese
 --------------------------------------
 
-   - Case 1: from the country's name, replace guó with yǔ
-   - Example: yīng guó (England) -> yīng yǔ (English)
-   - Case 2: if no guó from country's name, just add yǔ
-   - Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
+- Case 1: from the country's name, replace guó with yǔ
+- Example: yīng guó (England) -> yīng yǔ (English)
+
+- Case 2: if no guó from country's name, just add yǔ
+- Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
 
 `:warning:`
 
