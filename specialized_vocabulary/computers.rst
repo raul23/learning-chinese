@@ -1,7 +1,7 @@
-=====================
-Vocabulary: computers
-=====================
-Computer-related words
+===========================
+Computer-related vocabulary
+===========================
+Check also `computers_sentences.rst`_ for examples of sentences using this vocabulary.
 
 
 .. contents:: **Contents**
@@ -146,3 +146,8 @@ V
 +============+=======+==========+================+
 | video game | 电玩  | diàn wán | noun           |
 +------------+-------+----------+----------------+
+
+
+.. URLs
+
+.. _computers_sentences.rst: ./sentences/computers_sentences.rst
