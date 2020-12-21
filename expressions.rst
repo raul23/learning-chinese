@@ -232,8 +232,8 @@ Do you want this or that?
 
 Gratitude and apology
 =====================
-Thank you (xièxiè 谢谢)
-----------------------
+Thank you (xièxiè)
+------------------
 `:information_source:`
 
    - xièxie (谢谢) or xièxie nǐ (谢谢你): thank you
@@ -257,8 +257,6 @@ Thank you (xièxiè 谢谢)
 
    Thank you for your help.
 
-|
-
 Replies to "Thank you" (xièxiè)
 -------------------------------
 | R: Bú kè qì (不客气).
@@ -271,10 +269,8 @@ Replies to "Thank you" (xièxiè)
 
    You are welcome. (lit. no thanks)
 
-|
-
-Reply to "I am sorry" (duì bù qǐ 对不起)
---------------------------------------
+Reply to "I am sorry" (duì bù qǐ)
+---------------------------------
 `:information_source:`
 
    - bào qiàn (抱歉): sorry
