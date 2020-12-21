@@ -16,8 +16,8 @@ Expressions
 
 |
 
-Can you speak Chinese (Nǐ huì shuō zhōngwén ma)?
-================================================
+Can you speak Chinese? (Nǐ huì shuō zhōngwén ma?)
+=================================================
 To get a country's language in Chinese
 --------------------------------------
 `:information_source:`
