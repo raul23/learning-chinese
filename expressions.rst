@@ -256,6 +256,8 @@ Thank you (xièxiè)
 | Xièxiè nǐ de bāngzhù (谢谢你的帮助).
 
    Thank you for your help.
+   
+|
 
 Replies to "Thank you" (xièxiè)
 -------------------------------
@@ -268,6 +270,8 @@ Replies to "Thank you" (xièxiè)
 | R: Bú xiè (不谢). [shorter version]
 
    You are welcome. (lit. no thanks)
+
+|
 
 Reply to "I am sorry" (duì bù qǐ)
 ---------------------------------
