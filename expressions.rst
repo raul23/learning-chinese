@@ -759,10 +759,10 @@ Who are they?
 
 **Questions:**
 
-| Q: Tāmen shì shéi (他们是谁)?
+| Tāmen shì shéi (他们是谁)?
 
    Who are they?
-| Q: Nǐ shì shéi (你是谁)? 
+| Nǐ shì shéi (你是谁)? 
 
    Who are you?
 
