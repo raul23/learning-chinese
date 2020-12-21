@@ -20,6 +20,11 @@ Can you speak Chinese?
 ======================
 To get a country's language in Chinese
 --------------------------------------
+`:information_source:`
+
+   - yǔyán (语言): language
+
+|
 
 **Case 1:** from the country's name, replace guó with yǔ
 
@@ -41,7 +46,6 @@ Questions and answers
 ---------------------
 `:information_source:`
 
-   - yǔyán (语言): language
    - huì (会): can, be able to
    - shuō (说): speak, say
    - yī diǎn (一点): a little
