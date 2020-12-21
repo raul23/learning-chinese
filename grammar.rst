@@ -8,10 +8,11 @@ Grammar 语法 [Yǔfǎ]
    
 Measure words
 =============
+Definition
+----------
 Use a measure word (MW) in a sentence when stating the number of objects/persons (e.g. apple, friend).
 The measure word to be used depends on the object (e.g. zhāng for rectangular or 
 flag objects).
-
 
 `:star:`
 
@@ -20,8 +21,8 @@ flag objects).
 
 |
 
-**Some measure words:**
-
+Some measure words
+------------------
 - gè 个: most common MW
 - běn 本: used for books and magazines
 - píng 瓶: for a bottle of something (e.g. water)
@@ -33,8 +34,8 @@ flag objects).
 
 |
 
-**Examples with gè (个):**
-
+Examples with gè (个)
+---------------------
 - Yī **gè** péngyǒu (一个朋友)
 
    "One friend"
@@ -51,8 +52,10 @@ flag objects).
    - yǒu (有): to have
    - jǐ (几): how many
 
-**Examples with běn (本):**
+|
 
+Examples with běn (本)
+----------------------
 - Yī **běn** shū (一本书)
 
    "A book"
@@ -67,8 +70,10 @@ flag objects).
    - "I have six books"
    - NOTE: You don't have to specify the objects so you could say: Wǒ yǒu liù běn
 
-**Examples with píng (瓶):**
+|
 
+Examples with píng (瓶)
+-----------------------
 - Yī **píng** shuǐ (一瓶水)
 
    "A bottle of water"
@@ -103,8 +108,10 @@ flag objects).
 
    "A bird"
 
-**Examples with jiàn (件):**
+|
 
+Examples with jiàn (件)
+-----------------------
 - Yī **jiàn** yīfú (一件衣服)
 
    "A clothe"
@@ -116,8 +123,10 @@ flag objects).
    - "A luggage"
    - NOTE: Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
-**Examples with tiáo (条):**
+|
 
+Examples with tiáo (条)
+-----------------------
 - Yī **tiáo** kùzi (一条裤子)
 
    "A pair of trousers"
@@ -129,8 +138,8 @@ flag objects).
 
    "A snake"
 
-**Examples with shuāng(双):**
-
+Examples with shuāng(双)
+------------------------
 - Yī **shuāng** xié (一双鞋)
 
    "A pair of shoes"
