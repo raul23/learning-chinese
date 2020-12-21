@@ -70,7 +70,7 @@ Examples with běn (本)
 - Wǒ yǒu liù **běn** shū (我有六本书)
 
    - "I have six books"
-   - NOTE: You don't have to specify the objects so you could say: Wǒ yǒu liù běn
+   - **NOTE:** You don't have to specify the objects so you could say: Wǒ yǒu liù běn
 
 |
 
@@ -126,7 +126,7 @@ Examples with jiàn (件)
 - Yī **jiàn** xínglǐ (一件行李)
 
    - "A luggage"
-   - NOTE: Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
+   - **NOTE:** Google Translate uses **gè** before xínglǐ (luggage) [GTGE]_ but Collins dictionary uses **jiàn** [CDJIAN]_.
 
 |
 
@@ -138,7 +138,7 @@ Examples with tiáo (条)
 - Yī **tiáo** qúnzi (一条裙子)
 
    - "A dress"
-   - NOTE: Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
+   - **NOTE:** Google Translate translates 'dress' with yīfú (衣服) which means clothes and thus uses the MW **jiàn**
 - Yī **tiáo** shé (一条蛇)
 
    "A snake"
