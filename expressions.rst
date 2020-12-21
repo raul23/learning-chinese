@@ -16,8 +16,8 @@ Expressions
 
 |
 
-Can you speak Chinese?
-======================
+Can you speak Chinese (Nǐ huì shuō zhōngwén ma)?
+================================================
 To get a country's language in Chinese
 --------------------------------------
 `:information_source:`
@@ -98,8 +98,8 @@ Questions and answers
 
 |
 
-Countries and nationalities
-===========================
+Countries and nationalities (Guójiā hé mínzú)
+=============================================
 Countries
 ---------
 `:information_source:`
@@ -182,8 +182,8 @@ Questions and answers
 
 |
 
-Descriptive sentence
-====================
+Descriptive sentence: hěn
+=========================
 `:information_source:`
 
    - Descriptive sentence: Subject + **hěn** + adj
@@ -207,6 +207,7 @@ Do you want this or that?
 
    - háishì (还是): or (used in a **question**)
    - huòzhě (或者): or (used in a **statement**)
+   - yào (要): to want
 
 | 
 
@@ -294,6 +295,8 @@ Reply to "I am sorry" (duì bù qǐ)
 
 Greetings
 =========
+Hello (Nǐ hǎo)!
+---------------
 | Nǐ hǎo (你好)!
    
    Hello!
@@ -304,6 +307,8 @@ Greetings
 
 |
 
+How are you (Nǐ hǎo ma)?
+------------------------
 | Q: Nǐ hǎo **ma** (你好吗)?
 
    How are you?
@@ -323,6 +328,8 @@ Greetings
 
 |
 
+Nice to meet you (Hěn gāoxìng rènshí nǐ)
+----------------------------------------
 | Hěn gāoxìng rènshí nǐ (很高兴认识你).
 
    Nice to meet you.
@@ -339,15 +346,12 @@ Greetings
 
 |
 
-How old are you?
-================
+How old are you (Nǐ duōdà)?
+===========================
 `:information_source:`
    
    - duō (多): how
    - duōdà (多大): how big
-   - jǐ suì (几岁): how old
-   - suì (岁): years old
-   - shù (数): number
 
 |
 
@@ -357,6 +361,16 @@ How old are you?
    - duō dà (多大): how big? (how old?)
    - duō gāo (多高): how tall?
    - duō piàoliang (多漂亮): how beautiful?
+
+|
+
+Questions and answers
+---------------------
+`:information_source:`
+ 
+   - jǐ suì (几岁): how old
+   - suì (岁): years old
+   - shù (数): number
 
 |
 
@@ -401,8 +415,8 @@ Misc
 
 |
 
-Negative sentence
-=================
+Negative sentence with "not" (bù)
+=================================
 `:information_source:`
 
    - bù (不): not (adv)
@@ -425,27 +439,27 @@ Negative sentence
 
 |
 
-Please do this
-==============
+Please (Qǐng) do this
+=====================
 `:information_source:`
 
    Qǐng (请): please
 
 |
 
-| Qǐng zuò (请坐).
+| Qǐng **zuò** (请坐).
 
    Please sit down.
    
-| Qǐng shuō (请说).
+| Qǐng **shuō** (请说).
 
    Please say.
    
-| Qǐng jìn (请进).
+| Qǐng **jìn** (请进).
 
    Please come in.
    
-| Qǐng wèn (请问).
+| Qǐng **wèn** (请问).
 
    Please ask.
 
@@ -455,8 +469,8 @@ Please do this
 
 |
 
-What do you want?
-=================
+What do you want (Nǐ yào hē shénme)?
+====================================
 `:information_source:`
 
    - hē (喝): to drink
@@ -501,8 +515,8 @@ What do you want?
 
 |
 
-What is that/this?
-==================
+What is that/this (nà/zhè)?
+===========================
 `:information_source:`
 
    - nà (那): that
