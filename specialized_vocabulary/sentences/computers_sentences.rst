@@ -8,6 +8,8 @@ Sentences using computer-related vocabulary from `computers.rst`_.
    :local:
    :backlinks: top
    
+|
+   
 Laptop (bǐjìběn diànnǎo)
 ========================
 `:information_source:`
