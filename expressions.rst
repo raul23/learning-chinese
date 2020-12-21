@@ -201,8 +201,8 @@ Descriptive sentence: hěn
    
 |
 
-Do you want this or that?
-=========================
+Do you want this **OR** that?
+=============================
 `:information_source:`
 
    - háishì (还是): or (used in a **question**)
@@ -295,8 +295,8 @@ Reply to "I am sorry" (duì bù qǐ)
 
 Greetings
 =========
-Hello (Nǐ hǎo)!
----------------
+Hello! (Nǐ hǎo!)
+----------------
 | Nǐ hǎo (你好)!
    
    Hello!
@@ -307,8 +307,8 @@ Hello (Nǐ hǎo)!
 
 |
 
-How are you (Nǐ hǎo ma)?
-------------------------
+How are you? (Nǐ hǎo ma?)
+-------------------------
 | Q: Nǐ hǎo **ma** (你好吗)?
 
    How are you?
@@ -346,8 +346,8 @@ Nice to meet you (Hěn gāoxìng rènshí nǐ)
 
 |
 
-How old are you (Nǐ duōdà)?
-===========================
+How old are you? (Nǐ duōdà)?
+============================
 `:information_source:`
    
    - duō (多): how
@@ -469,8 +469,8 @@ Please (Qǐng) do this
 
 |
 
-What do you want (Nǐ yào hē shénme)?
-====================================
+What do you want? (Nǐ yào hē shénme?)
+=====================================
 `:information_source:`
 
    - hē (喝): to drink
@@ -550,8 +550,8 @@ What is that/this (nà/zhè)?
 
 |
 
-What's your name?
-=================
+What's your name? (Wǒ jiào shénme míngzì?) 
+==========================================
 `:information_source:`
 
    - jiào (叫): to be called
@@ -572,8 +572,8 @@ What's your name?
 
 |
 
-What's your phone number?
-=========================
+What's your phone number? (Nǐ de diànhuà hàomǎ shì duōshǎo?)
+============================================================
 `:information_source:`
 
    - duōshǎo (多少): how many/much
@@ -604,8 +604,8 @@ What's your phone number?
 
 |
 
-What's your surname?
-====================
+What's your surname? (Nín guì xìng?)
+====================================
 `:information_source:`
 
    - guì (贵): expensive, honorable
