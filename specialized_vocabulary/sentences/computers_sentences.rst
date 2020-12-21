@@ -32,7 +32,8 @@ Laptop (bǐjìběn diànnǎo)
 `:warning:`
 
    **No shì** when translating "it is too old"
-   
+
+|
 
 Video game (diànwán)
 ====================
