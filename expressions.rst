@@ -18,17 +18,8 @@ Expressions
 
 Can you speak Chinese?
 ======================
-`:information_source:`
-
-   - yǔyán (语言): language
-   - huì (会): can, be able to
-   - shuō (说): speak, say
-   - yī diǎn (一点): a little
-   - yī diǎndiǎn (一点点): a little bit
-
-|
-
-**To get a country's language in Chinese:**
+To get a country's language in Chinese
+--------------------------------------
 
    - Case 1: from the country's name, replace guó with yǔ
    - Example: yīng guó (England) -> yīng yǔ (English)
@@ -42,6 +33,14 @@ Can you speak Chinese?
    - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
    - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
+
+`:information_source:`
+
+   - yǔyán (语言): language
+   - huì (会): can, be able to
+   - shuō (说): speak, say
+   - yī diǎn (一点): a little
+   - yī diǎndiǎn (一点点): a little bit
 
 Questions and answers
 ---------------------
