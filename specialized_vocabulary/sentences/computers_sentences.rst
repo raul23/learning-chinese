@@ -6,4 +6,4 @@ Sentences using computer-related vocabulary from `computers.rst`_.
 
 .. URLs
 
-.. ../computers.rst: computers.rst
+.. _computers.rst: ./../computers.rst
