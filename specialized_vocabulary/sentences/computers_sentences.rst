@@ -18,12 +18,15 @@ Laptop ()
    - yīnwèi (因为): because
    - tài (太): too
    - jiùle (旧了): old
-   
+
+|
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
    I need to buy a new laptop because it is too old.
-   
+
+|
+
 `:warning:`
 
    **No shì** when translating "it is too old"
@@ -43,6 +46,8 @@ Video game (diànwán)
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
    Pac-Man was a popular video game in the 80s.
+
+|
 
 | Wǒ wán **diànwán** (我玩电玩).
 
