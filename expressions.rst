@@ -34,6 +34,8 @@ To get a country's language in Chinese
    - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
 
+Questions and answers
+---------------------
 `:information_source:`
 
    - yǔyán (语言): language
@@ -42,8 +44,7 @@ To get a country's language in Chinese
    - yī diǎn (一点): a little
    - yī diǎndiǎn (一点点): a little bit
 
-Questions and answers
----------------------
+|
 
 **Questions:**
 
