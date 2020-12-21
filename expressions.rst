@@ -104,10 +104,11 @@ Countries and nationalities
 
    - guó (国): country
    - rén (人): person
-   - nǎ (哪): which
 
 |
 
+Countries
+---------
 **Two groups of country names:**
 
 1) guó (国) at then end:
@@ -126,6 +127,8 @@ Countries and nationalities
 
 |
 
+Nationalities
+-------------
 **Nationalities:** country + person (rén)
 
    - Zhōngguó rén (中国人): Chinese
@@ -138,6 +141,15 @@ Countries and nationalities
    - Yìdàlì rén (意大利人): Italian
    - Xībānyá rén (西班牙人): Spanish
    
+|
+
+Questions and answers
+---------------------
+
+`:information_source:`
+
+   - nǎ (哪): which
+
 |
 
 | Q: Nǐ shì **nǎ** guó **rén** (你是哪国人)?
