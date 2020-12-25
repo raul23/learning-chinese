@@ -179,8 +179,8 @@ Example: Wǒ **búshì** (我不是) which means "I am not"
 
 `:information_source:`
 
-   Google Translate doesn't seem to follow this rule since it translates "I am not" by "Wǒ bùshì". [GTFT]_
-   Same for yabla dictionary too [YDFT]_.
+   Google Translate translates "I am not" by "Wǒ bùshì" GTFT]_.  Same for yabla dictionary too [YDFT]_.
+   The reason is that "tone changes like this usually aren’t written in pinyin" [DTC].
    
 |
 |
@@ -189,6 +189,7 @@ References
 ==========
 
 .. [CDJIAN] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
+.. [DTC] https://www.duolingo.com/skill/zs/Greeting-3/tips [Tip from Duoling about tone changes]
 .. [GTFT] https://archive.is/pph1B [two consecutive falling tones in Google Translate]
 .. [GTGE] https://archive.vn/KHKRh [use of gè before xínglǐ in Google Translate]
 .. [YDFT] https://archive.is/FCjJc [two consecutive falling tones in yabla dictionary]
