@@ -179,8 +179,8 @@ Example: Wǒ **búshì** (我不是) which means "I am not"
 
 `:information_source:`
 
-   Google Translate translates "I am not" by "Wǒ bùshì" GTFT]_.  Same for yabla dictionary too [YDFT]_.
-   The reason is that "tone changes like this usually aren’t written in pinyin" [DTC].
+   Google Translate translates "I am not" by "Wǒ bùshì" [GTFT]_.  Same for yabla dictionary too [YDFT]_.
+   The reason is that "tone changes like this usually aren’t written in pinyin" [DTC]_.
    
 |
 |
