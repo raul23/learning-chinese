@@ -138,7 +138,7 @@ Nationalities
 
    - Zhōngguó rén (中国人): Chinese
    - Měiguó rén (美国人): American
-   - Yīngguó rén (英国人): English
+   - Yīngguó rén (英国人): British, English 
    - Fàguó rén (法国人): French
    - Déguó rén (德国人): German
    - Rìběn rén (日本人): Japanese
