@@ -189,7 +189,7 @@ References
 ==========
 
 .. [CDJIAN] https://archive.vn/wxHzy [use of jiàn before xínglǐ in Collins Dictionary]
-.. [DTC] https://www.duolingo.com/skill/zs/Greeting-3/tips [Tip from Duoling about tone changes]
+.. [DTC] https://www.duolingo.com/skill/zs/Greeting-3/tips [Tip from Duolingo about tone changes]
 .. [GTFT] https://archive.is/pph1B [two consecutive falling tones in Google Translate]
 .. [GTGE] https://archive.vn/KHKRh [use of gè before xínglǐ in Google Translate]
 .. [YDFT] https://archive.is/FCjJc [two consecutive falling tones in yabla dictionary]
