@@ -207,6 +207,7 @@ Do you want this **OR** that?
 
    - háishì (还是): or (used in a **question**)
    - huòzhě (或者): or (used in a **statement**)
+   - hē (喝): to drink
    - yào (要): to want
 
 | 
