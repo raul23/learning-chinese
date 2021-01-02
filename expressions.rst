@@ -41,7 +41,7 @@ Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
    - **Do not say zhōng yǔ for Chinese language**
    - Say instead: Hàn yǔ (汉语) [YLC8-ZHONG]_
    - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
-   - Google Translate uses zhōngwén (中文) [GT-ZHONGWEN]_
+   - *Google Translate* uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
 
 Questions and answers
@@ -735,7 +735,7 @@ It is here/there (Zài zhèlǐ/nàli)
 
 `:information_source:`
 
-   Google Translate translates "there" as nàlǐ (那里) with a falling-rising tone 
+   *Google Translate* translates "there" as nàlǐ (那里) with a falling-rising tone 
    in the last character and thus translates the whole sentence "Chāoshì zài nàlǐ" as
    "Where is the supermarket?" [GTNALI]_. yabla dictionary translates 'there' as nàli
    (那里) with a neutral tone in the last character [YDNALI]_.
