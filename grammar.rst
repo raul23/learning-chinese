@@ -47,7 +47,7 @@ Examples with gè (个)
 - Liǎng **gè** píngguǒ (两个苹果)
 
    - "Two apples"
-   - NOTE: Always use liǎng (2) before a MW instead of èr (2)
+   - **NOTE:** Always use liǎng (2) before a MW instead of èr (2)
 - Nǐ yǒu jǐ **gè** píngguǒ? (你有几个苹果?)
 
    - "How many apples do you have?"
