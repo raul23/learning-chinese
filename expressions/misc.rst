@@ -10,6 +10,7 @@ Misc
 
 `:information_source:`
 
+   - gōngzuò (工作): job
    - shénme (什么): what
    - zuò (做): to do
 
