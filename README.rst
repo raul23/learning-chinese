@@ -27,7 +27,7 @@ Online Chinese-English Dictionaries
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/chinese-english
 .. _colors.rst: colors.rst
 .. _computers.rst: specialized_vocabulary/computers.rst
-.. _expressions: expressions
+.. _expressions: expressions/README.rst
 .. _grammar.rst: grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
 .. _numbers.rst: numbers.rst
