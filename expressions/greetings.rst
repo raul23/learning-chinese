@@ -14,7 +14,7 @@ Hello! (Nǐ hǎo! 你好!)
    
    Hello!
 
-| Nǐ**men** hǎo (你们好)!
+| Nǐ\ **men** hǎo (你们好)!
 
    Hello to all of you!
    
