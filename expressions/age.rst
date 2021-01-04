@@ -12,11 +12,12 @@ How old are you? (Nǐ duōdà 你多大)?
 `:information_source:`
    
    - duō (多): how
-   - duōdà (多大): how big
 
 |
 
 **duō-question: duō + adjective**
+
+`:information_source:`
 
    - duō xiǎo (多小): how little?
    - duō dà (多大): how big? (how old?)
