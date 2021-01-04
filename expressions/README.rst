@@ -9,8 +9,6 @@ README
    
    Example: nǐ hǎo ma (你好吗)? which translates to "How are you?"
 
-|
-
 List of files
 =============
 - `age.rst`_:
