@@ -5,7 +5,9 @@ How old are you? (Nǐ duōdà 你多大)?
    :depth: 3
    :local:
    :backlinks: top
-   
+
+Info
+====
 `:information_source:`
    
    - duō (多): how
@@ -61,4 +63,8 @@ Questions and answers
 **Reference:** [YLC19]_
 
 |
-
+|
+   
+References
+==========
+.. [YLC19] https://youtu.be/aQOUSJOVHp8?t=6349 [Learn Chinese for Beginners. Lesson 19: How old are you? 你多大?]
