@@ -31,7 +31,7 @@ Questions and answers
 
 **Answers:**
 
-| **Nà** shì yī běn shū (那是一本书). 
+| **Nà** shì yīběn shū (那是一本书). 
 
    That is a book.
    
