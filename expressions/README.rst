@@ -15,3 +15,13 @@ README
    Example: nǐ hǎo ma (你好吗)? which translates to "How are you?"
 
 |
+
+List of files
+=============
+- `age.rst`_:
+- `apology_and_gratitude.rst`_:
+- `countries_and_nationalites.rst`_:
+- `date.rst`_:
+
+.. URLs
+.. _age.rst: age.rst
