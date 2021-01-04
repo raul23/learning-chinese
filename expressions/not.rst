@@ -8,8 +8,8 @@ Negative sentences with "not" (bù 不)
 
 |
 
-Sentences
-=========
+Negative sentences
+==================
 `:information_source:`
 
    - **bù (不)**: not (adv)
