@@ -646,8 +646,8 @@ I am at/in (Wǒ zài)
 `:information_source:`
 
    - zài (在): to be in/at
-   - Template for "To be in/at": subject + zài + location
-   - Template for "Not to be in/at": subject + bú zài + location
+   - "To be in/at": subject + zài + location
+   - "Not to be in/at": subject + bú zài + location
 
 | Wǒ **zài** zhōngguó (我在中国).
    
@@ -759,7 +759,7 @@ Who are they?
 
 `:information_source:`
 
-   - dōu template: Subject + dōu + verb
+   - "We/You/They are all": Subject + dōu + verb
 
 |
 
