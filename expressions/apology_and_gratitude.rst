@@ -11,14 +11,18 @@ I am sorry (duì bù qǐ 对不起)
 `:information_source:`
 
    - bào qiàn (抱歉): sorry
+
 |
+
 | Duì bù qǐ (对不起).
 
   I am sorry.
+
 |  
+
 **Reply to "I am sorry" (duì bù qǐ)**
 
-| R: Méi guān xì (没关系).
+| Méi guān xì (没关系).
 
    It doesn't matter.
 |
