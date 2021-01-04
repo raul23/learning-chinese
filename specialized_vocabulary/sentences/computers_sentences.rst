@@ -44,7 +44,7 @@ Video game (diànwán 电玩)
    - Chī dòu rén (吃豆人): Pac-Man (lit. Man that eats beans)
    - niándài (年代): decade
    - bāshí niándài (八十年代): eighties
-   - wán (玩): to play
+   - liúxíng (流行): popular
    
 |
 
@@ -54,6 +54,13 @@ Video game (diànwán 电玩)
 
    Pac-Man was a popular video game in the 80s.
 
+|
+|
+
+`:information_source:`
+
+   - wán (玩): to play
+   
 |
 
 **Sentence 2:**
