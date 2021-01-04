@@ -20,11 +20,11 @@ List of files
 =============
 - `age.rst`_:
 - `apology_and_gratitude.rst`_:
-- `countries_and_nationalites.rst`_:
+- `countries_and_nationalities.rst`_:
 - `date.rst`_:
 
 .. URLs
 .. _age.rst: age.rst
 .. _apology_and_gratitude.rst: apology_and_gratitude.rst
-.. _countries_and_nationalites.rst: countries_and_nationalites.rst
+.. _countries_and_nationalities.rst: countries_and_nationalities.rst
 .. _date.rst: date.rst
