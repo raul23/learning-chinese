@@ -12,16 +12,16 @@ README
 List of files
 =============
 - `age.rst`_: How old are you? (Nǐ duōdà 你多大)?
-- `apology_and_gratitude.rst`_: I am sorry (duì bù qǐ 对不起) and Thank you (xièxiè 谢谢)
+- `apology_and_gratitude.rst`_: I am sorry (duì bù qǐ 对不起); Thank you (xièxiè 谢谢)
 - `countries_and_nationalities.rst`_: Can you speak Chinese? (Nǐ huì shuō hànyǔ ma? 你会说汉语吗?)
-- `date.rst`_:
-- `descriptive_sentence.rst`_:
-- `greetings.rst`_:
+- `date.rst`_: 
+- `descriptive_sentence.rst`_: hěn (很)
+- `greetings.rst`_: Hello! (Nǐ hǎo! 你好!) 
 - `misc.rst`_:
-- `name_and_surname.rst`_:
-- `not.rst`_:
-- `or.rst`_:
-- `please.rst`_:
+- `name_and_surname.rst`_: What's your name? (Wǒ jiào shénme míngzì? 我叫什么名字?)
+- `not.rst`_: Negative sentences with "not" (bù 不)
+- `or.rst`_: Háishì (还是) or huòzhě (或者)?
+- `please.rst`_: Please (Qǐng 请) do this!
 
 .. URLs
 .. _age.rst: age.rst
