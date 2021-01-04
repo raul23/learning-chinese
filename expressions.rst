@@ -796,27 +796,6 @@ Who are they?
 
 |
 
-Who is this? (Zhè shì shéi?)
-============================
-`:information_source:`
-
-   - shéi (谁): who, whom
-   - zhè (这): this
-|
-
-| Q: Zhè shì shéi (这是谁)?
-
-   Who is this?
-| A: Zhè shì Lily (这是 Lily).
-
-   This is Lily.
-
-|
-
-**References:** [YLC24]_
-
-|
-
 Who is he/she? (Tā shì shéi?)
 =============================
 `:information_source:`
@@ -867,6 +846,27 @@ Questions and answers
 |
 
 **References:** [YLC9]_
+
+|
+
+Who is this? (Zhè shì shéi?)
+============================
+`:information_source:`
+
+   - shéi (谁): who, whom
+   - zhè (这): this
+|
+
+| Q: Zhè shì shéi (这是谁)?
+
+   Who is this?
+| A: Zhè shì Lily (这是 Lily).
+
+   This is Lily.
+
+|
+
+**References:** [YLC24]_
 
 |
 
