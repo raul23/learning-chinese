@@ -753,8 +753,13 @@ Who are they?
    - nǐmen (你们): you
    - tāmen (他们): they
    - dōu (都): both, all
-   - dōu template: Subject + dōu + verb
    - shéi (谁): who, whom
+
+|
+
+`:information_source:`
+
+   - dōu template: Subject + dōu + verb
 
 |
 
@@ -817,7 +822,6 @@ Who is he/she? (Tā shì shéi?)
 
    - possessive determiner: Personal pronoun + de
    - possessive determiner: Person/Place/object + de
-
    - Wǒ de (我的): my
    - Nǐ de (你的): your
    - Nín de (您的): your
