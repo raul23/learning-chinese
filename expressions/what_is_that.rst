@@ -21,11 +21,11 @@ Questions and answers
 
 | **Nà** shì shénme (那是什么)?
 
-   What is that?
+   What is **that**?
 
 | **Zhè** shì shénme (这是什么)?
 
-   What is this?
+   What is **this**?
 
 |
 
@@ -33,11 +33,11 @@ Questions and answers
 
 | **Nà** shì yīběn shū (那是一本书). 
 
-   That is a book.
+   **That** is a book.
    
 | **Zhè** shì yīgè píngguǒ (这是一个苹果).
 
-   This is an apple.
+   **This** is an apple.
 
 **Reference:** [YLC24]_
 
