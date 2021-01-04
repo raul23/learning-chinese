@@ -31,7 +31,7 @@ Thank you (xièxiè 谢谢)
 ======================
 `:information_source:`
 
-   - **xièxie (谢谢)** or **xièxie nǐ (谢谢你)**: thank you
+   - **xièxiè (谢谢)** or **xièxiè nǐ (谢谢你)**: thank you
 
 |
 
