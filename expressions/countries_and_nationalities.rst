@@ -22,6 +22,8 @@ To get a country's language in Chinese
 
 Example: yīng guó (England) -> yīng yǔ (English)
 
+|
+
 **Case 2:** if no guó from country's name, just add yǔ
 
 Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
@@ -174,3 +176,10 @@ Questions and answers
 **References:** [YLC5]_, [YLC6]_ and [YLC7]_
 
 |
+|
+   
+References
+==========
+.. [YLC5] https://youtu.be/aQOUSJOVHp8?t=1096 [Learn Chinese for Beginners. Lesson 5: Country names. 国家名称]
+.. [YLC6] https://youtu.be/aQOUSJOVHp8?t=1489 [Learn Chinese for Beginners. Lesson 6: What’s your nationality? 你是哪国人？]
+.. [YLC7] https://youtu.be/aQOUSJOVHp8?t=1846 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
