@@ -56,13 +56,13 @@ Thank you (xièxiè 谢谢)
 
 **Replies to "Thank you" (xièxiè):**
 
-| R: Bú **kè** qì (不客气).
+| Bú **kè** qì (不客气).
 
    You are welcome.
-| R: Bú **yòng** xiè (不用谢).
+| Bú **yòng** xiè (不用谢).
 
    You are welcome. (lit. no need to thank)
-| R: Bú xiè (不谢). [shorter version]
+| Bú xiè (不谢). [shorter version]
 
    You are welcome. (lit. no thanks)
    
