@@ -28,10 +28,10 @@ List of files
 .. _apology_and_gratitude.rst: apology_and_gratitude.rst
 .. _countries_and_nationalities.rst: countries_and_nationalities.rst
 .. _date.rst: date.rst
-.. _descriptive_sentence.rst:
-.. _greetings.rst:
-.. _misc.rst:
-.. _name_and_surname.rst:
-.. _not.rst:
-.. _or.rst:
-.. _please.rst:
+.. _descriptive_sentence.rst: descriptive_sentence.rst
+.. _greetings.rst: greetings.rst
+.. _misc.rst: misc.rst
+.. _name_and_surname.rst: name_and_surname.rst
+.. _not.rst: not.rst
+.. _or.rst: or.rst
+.. _please.rst: please.rst
