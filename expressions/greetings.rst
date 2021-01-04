@@ -8,6 +8,12 @@ Greetings (Gōng xǐ 恭喜)
 
 |
 
+`:information_source:`
+
+   **hǎo (好)**: good (adj), well (adv)
+   
+|
+
 Hello! (Nǐ hǎo! 你好!)
 =====================
 | Nǐ hǎo (你好)!
@@ -43,15 +49,20 @@ How are you? (Nǐ hǎo ma? 你好吗?)
 
 Nice to meet you (Hěn gāoxìng rènshí nǐ 很高兴认识你)
 ===================================================
+`:information_source:`
+
+   **gāoxìng (高兴)**: glad, happy
+   **rènshí (认识)**: to know
+
 | Hěn gāoxìng **rènshí** nǐ (很高兴认识你).
 
    Nice to meet you.
-| R: Wǒ hěn gāoxìng (我很高兴).
+| R: Wǒ **hěn** gāoxìng (我很高兴).
 
    I am very glad.
 | R: Wǒ **yě** hěn gāoxìng **rènshí** nǐ (我也很高兴认识你).
 
-   I am also very glad to know you.
+   I am **also** very glad to know you.
 
 |
 
