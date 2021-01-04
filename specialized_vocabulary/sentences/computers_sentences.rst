@@ -10,8 +10,8 @@ Sentences using computer-related vocabulary from `computers.rst`_.
    
 |
    
-Laptop (bǐjìběn diànnǎo)
-========================
+Laptop (bǐjìběn diànnǎo 笔记本电脑)
+=================================
 `:information_source:`
 
    - xūyào (需要): to need
@@ -37,8 +37,8 @@ Laptop (bǐjìběn diànnǎo)
 
 |
 
-Video game (diànwán)
-====================
+Video game (diànwán 电玩)
+========================
 `:information_source:`
 
    - Chī dòu rén (吃豆人): Pac-Man (lit. Man that eats beans)
