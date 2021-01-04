@@ -36,7 +36,7 @@ Sentence 1: I need to buy a new laptop because it is too old
 
 `:warning:`
 
-   **No shì** when translating "it is too old"
+   **Do not use shì** when translating "it is too old"
 
 |
 
