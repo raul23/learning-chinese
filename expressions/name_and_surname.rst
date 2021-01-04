@@ -48,7 +48,7 @@ What's your surname? (Nín guì xìng? 您贵姓?)
    - **tài tai (太太) or fū ren (夫人)**: Mrs, married woman, lady, madam
    - **xiānsheng (先生)**: Mr, Mister
 
-**Titles go after the surname**, e.g. Wáng nǚ shì (王女士) which translates to Ms Wáng
+**The title goes after the surname**, e.g. Wáng nǚ shì (王女士) which translates to Ms Wáng
 
 |
 
