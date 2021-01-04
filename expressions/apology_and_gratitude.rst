@@ -1,5 +1,5 @@
 =====================
-Gratitude and apology
+Apology and gratitude
 =====================
 .. contents:: **Contents**
    :depth: 3
