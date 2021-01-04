@@ -131,3 +131,11 @@ Who is this? (Zhè shì shéi? 这是谁?)
 **References:** [YLC24]_
 
 |
+|
+
+References
+==========
+.. [YLC9] https://youtu.be/aQOUSJOVHp8?t=2643 [Learn Chinese for Beginners. Lesson 9: Who is she?  她是谁？]
+.. [YLC11] https://youtu.be/aQOUSJOVHp8?t=3372 [Learn Chinese for Beginners. Lesson 11: They are all my friends. 他们都是我的朋友]
+.. [YLC24] https://youtu.be/aQOUSJOVHp8?t=8202 [Learn Chinese for Beginners. Lesson 24: What is this? 这是什么？]
+
