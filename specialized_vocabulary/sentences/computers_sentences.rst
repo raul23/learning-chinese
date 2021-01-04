@@ -23,7 +23,8 @@ Laptop (bǐjìběn diànnǎo 笔记本电脑)
 
 |
 
-**Sentence 1:**
+Sentence 1: I need to buy a new laptop because it is too old
+------------------------------------------------------------
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
@@ -48,13 +49,13 @@ Video game (diànwán 电玩)
    
 |
 
-**Sentence 1:**
+Sentence 1: Pac-Man was a popular video game in the 80s
+-------------------------------------------------------
 
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
    Pac-Man was a popular video game in the 80s.
 
-|
 |
 
 `:information_source:`
@@ -63,7 +64,8 @@ Video game (diànwán 电玩)
    
 |
 
-**Sentence 2:**
+Sentence 2: I play video games
+------------------------------
 
 | Wǒ wán **diànwán** (我玩电玩).
 
