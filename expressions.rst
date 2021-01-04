@@ -57,10 +57,11 @@ Questions and answers
 
 **Questions:**
 
-| Nǐ huì shuō Hàn yǔ ma (你会说汉语吗)?
+| Nǐ huì shuō hànyǔ ma (你会说汉语吗)?
 
    Can you speak Chinese?
-| Nǐ huì shuō yīng yǔ ma (你能说英语吗)?
+
+| Nǐ huì shuō yīngyǔ ma (你能说英语吗)?
 
    Can you speak English?
 
@@ -68,7 +69,7 @@ Questions and answers
 
 **Answers:**
 
-| Wǒ huì shuō Hàn yǔ (我会说汉语).
+| Wǒ huì shuō hànyǔ (我会说汉语).
 
    I can speak Chinese.
 
