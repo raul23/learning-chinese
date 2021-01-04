@@ -10,7 +10,8 @@ Misc
 
 `:information_source:`
 
-   zuò (做): to do
+   - shénme (什么): what
+   - zuò (做): to do
 
 |
 
