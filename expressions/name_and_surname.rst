@@ -20,7 +20,7 @@ What's your name? (Wǒ jiào shénme míngzì? 我叫什么名字?)
 | Q: Wǒ **jiào** shénme **míngzì** (我叫什么名字)?
 
    What is your first name? 
-| A: Wǒ jiào Raul (我叫 Raul).
+| A: Wǒ **jiào** Raul (我叫 Raul).
 
    I am called Raul. (Another translation: My name is Raul).
 
