@@ -61,11 +61,11 @@ Questions and answers
 
 **Answers:**
 
-| Wǒ huì shuō hànyǔ (我会说汉语).
+| Wǒ huì shuō **hànyǔ** (我会说汉语).
 
    I can speak Chinese.
 
-| Wǒ huì shuō yīngyǔ (我会说英语).
+| Wǒ huì shuō **yīngyǔ** (我会说英语).
 
    I can speak English.
    
@@ -73,7 +73,7 @@ Questions and answers
 
    I can speak.
    
-| Wǒ **bú** huì shuō yīngyǔ (我不会说英语).
+| Wǒ **bú** huì shuō **yīngyǔ** (我不会说英语).
 
    I can't speak English.
    
@@ -119,7 +119,7 @@ Countries (Guójiā 国家)
 
 |
 
-Nationalities (mínzú 民族)
+Nationalities (Mínzú 民族)
 -------------------------
 `:information_source:`
 
@@ -153,19 +153,19 @@ Questions and answers
 | Q: Nǐ shì **nǎ** guó **rén** (你是哪国人)?
 
    What country are you from? (lit. You are which country person?)
-| A: Wǒ shì zhōngguó rén (我是中国人).
+| A: Wǒ shì **zhōngguó rén** (我是中国人).
 
    I am Chinese.
    
 |
 
-| Q: Nǐ shì měiguó rén **ma** (你是美国人吗)?
+| Q: Nǐ shì **měiguó rén** ma (你是美国人吗)?
 
    Are you American?
-| A: Wǒ shì měiguó rén (我是美国人).
+| A: Wǒ shì **měiguó rén** (我是美国人).
 
    I am American.
-| A: Wǒ **bú** shì měiguó rén (我不是美国人).
+| A: Wǒ **bú** shì **měiguó rén** (我不是美国人).
 
    I am not American.
 
