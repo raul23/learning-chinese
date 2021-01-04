@@ -8,6 +8,8 @@ Do you want this **OR** that?
 
 |
 
+Questions and answers
+=====================
 `:information_source:`
 
    - **háishì (还是)**: or (used in a **question**)
