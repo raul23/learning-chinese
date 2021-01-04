@@ -1,13 +1,6 @@
 ======
 README
 ======
-.. contents:: **Contents**
-   :depth: 3
-   :local:
-   :backlinks: top
-
-|
-
 **NOTES:**
 
 - Q, A, R refers to question, answer, and reply respectively
