@@ -26,7 +26,7 @@ Sentence 1: I need to buy a new laptop because it is too old
 
 |
 
-**Sentence:**
+**Sentence 1:**
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
@@ -54,6 +54,8 @@ Sentence 1: Pac-Man was a popular video game in the 80s
 
 |
 
+**Sentence 1:**
+
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
    Pac-Man was a popular video game in the 80s.
@@ -67,7 +69,9 @@ Sentence 2: I play video games
    - wán (玩): to play
 
 |
-   
+
+**Sentence 2:**
+
 | Wǒ wán **diànwán** (我玩电玩).
 
   I play video games.
