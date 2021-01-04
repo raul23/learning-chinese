@@ -5,7 +5,7 @@ README
 
 - Q, A, R refers to question, answer, and reply respectively
 - use **nín** (您) for the polite form of you
-- use the question particle *ma* at the end of a Yes/No question
+- use the question particle *ma* at the end of a statement to convert it to a Yes/No question
    
    Example: nǐ hǎo ma (你好吗)? which translates to "How are you?"
 
