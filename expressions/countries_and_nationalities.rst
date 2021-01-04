@@ -14,7 +14,7 @@ To get a country's language in Chinese
 --------------------------------------
 `:information_source:`
 
-   - yǔyán (语言): language
+   - **yǔyán (语言)**: language
 
 |
 
@@ -33,7 +33,7 @@ Example: Xībānyá (Spain) -> xībānyá yǔ (spanish)
 `:warning:`
 
    - **Do not say zhōng yǔ for Chinese language**
-   - Say instead: Hàn yǔ (汉语) [YLC8-ZHONG]_
+   - Say instead: **Hàn yǔ (汉语)** [YLC8-ZHONG]_
    - 56 ethnicites in China; 92% is Han [YLC8-ZHONG]_
    - *Google Translate* uses zhōngwén (中文) [GT-ZHONGWEN]_
 |
@@ -42,10 +42,10 @@ Questions and answers
 ---------------------
 `:information_source:`
 
-   - huì (会): can, be able to
-   - shuō (说): speak, say
-   - yī diǎn (一点): a little
-   - yī diǎndiǎn (一点点): a little bit
+   - **huì (会)**: can, be able to
+   - **shuō (说)**: speak, say
+   - **yī diǎn (一点)**: a little
+   - **yī diǎndiǎn (一点点)**: a little bit
 
 |
 
@@ -99,25 +99,25 @@ Countries (Guójiā 国家)
 ----------------------
 `:information_source:`
 
-   - guó (国): country
+   - **guó (国)**: country
 
 |
 
 **Two groups of country names:**
 
-1) guó (国) at then end:
+1) guó (国) at the end:
 
-   - Zhōngguó (中国): China
-   - Měiguó (美国): America
-   - Yīngguó (英国): England
-   - Fàguó (法国): France
-   - Déguó (德国): Germany
-   - Rìběn (日本): Japan
+   - **Zhōngguó (中国)**: China
+   - **Měiguó (美国)**: America
+   - **Yīngguó (英国)**: England
+   - **Fàguó (法国)**: France
+   - **Déguó (德国)**: Germany
+   - **Rìběn (日本)**: Japan
 2) No guó (国) at the end:
 
-   - Jiānádà (加拿大): Canada
-   - Yìdàlì (意大利): Italy
-   - Xībānyá (西班牙): Spain
+   - **Jiānádà (加拿大)**: Canada
+   - **Yìdàlì (意大利)**: Italy
+   - **Xībānyá (西班牙)**: Spain
 
 |
 
@@ -125,21 +125,21 @@ Nationalities (Mínzú 民族)
 -------------------------
 `:information_source:`
 
-   - rén (人): person
+   - **rén (人)**: person
 
 |
 
 **Nationalities:** country + person (rén)
 
-   - Zhōngguó rén (中国人): Chinese
-   - Měiguó rén (美国人): American
-   - Yīngguó rén (英国人): British, English 
-   - Fàguó rén (法国人): French
-   - Déguó rén (德国人): German
-   - Rìběn rén (日本人): Japanese
-   - Jiānádà rén (加拿大人): Canadian
-   - Yìdàlì rén (意大利人): Italian
-   - Xībānyá rén (西班牙人): Spanish
+   - **Zhōngguó rén (中国人)**: Chinese
+   - **Měiguó rén (美国人)**: American
+   - **Yīngguó rén (英国人)**: British, English 
+   - **Fàguó rén (法国人)**: French
+   - **Déguó rén (德国人)**: German
+   - **Rìběn rén (日本人)**: Japanese
+   - **Jiānádà rén (加拿大人)**: Canadian
+   - **Yìdàlì rén (意大利人)**: Italian
+   - **Xībānyá rén (西班牙人)**: Spanish
    
 |
 
@@ -148,7 +148,7 @@ Questions and answers
 
 `:information_source:`
 
-   - nǎ (哪): which
+   - **nǎ (哪)**: which
 
 |
 
