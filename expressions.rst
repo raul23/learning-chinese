@@ -324,7 +324,7 @@ How are you? (Nǐ hǎo ma?)
 
    What about you?
    
-| A: Wǒ yě hěn hǎo (我也很好).
+| A: Wǒ **yě** hěn hǎo (我也很好).
 
    I am also very well.
 
@@ -332,13 +332,13 @@ How are you? (Nǐ hǎo ma?)
 
 Nice to meet you (Hěn gāoxìng rènshí nǐ)
 ----------------------------------------
-| Hěn gāoxìng rènshí nǐ (很高兴认识你).
+| Hěn gāoxìng **rènshí** nǐ (很高兴认识你).
 
    Nice to meet you.
 | R: Wǒ hěn gāoxìng (我很高兴).
 
    I am very glad.
-| R: Wǒ yě hěn gāoxìng rènshí nǐ (我也很高兴认识你).
+| R: Wǒ **yě** hěn gāoxìng **rènshí** nǐ (我也很高兴认识你).
 
    I am also very glad to know you.
 
@@ -376,23 +376,23 @@ Questions and answers
 
 |
 
-| Q: **Nín** duōdà suìshù (您多大岁数)? [polite form]
+| Q: **Nín duōdà** suìshù (您多大岁数)? [polite form]
 | Q: Nǐ **duōdà** (你多大)? [informal]
 | Q: Nǐ **jǐ suì** (你几岁)?
 
    How old are you?
    
-| Q: Tā duōdà (他多大)?
+| Q: Tā **duōdà** (他多大)?
 
    How old is he?
    
-| Q: Monica duōdà (Monica 多大)?
+| Q: Monica **duōdà** (Monica 多大)?
 
    How old is Monica?
 
 |
 
-| A: Wǒ èrshí suì (我二十岁).
+| A: Wǒ èrshí **suì** (我二十岁).
 
    I am twenty years old.
 
@@ -408,7 +408,7 @@ Questions and answers
 
 Misc
 ====
-| Q: Nǐ zuò shénme gōngzuò (你做什么工作)?
+| Q: Nǐ zuò **shénme** gōngzuò (你做什么工作)?
 
    What do you do (as a living)? Lit. You do what job?
 | A: Wǒ shì xuéshēng (我是学生).
@@ -471,8 +471,8 @@ Please (Qǐng) do this
 
 |
 
-What do you want? (Nǐ yào hē shénme?)
-=====================================
+What do you want? (Nǐ yào shénme?)
+==================================
 `:information_source:`
 
    - hē (喝): to drink
@@ -483,11 +483,11 @@ What do you want? (Nǐ yào hē shénme?)
 
 **Questions:**
 
-| Nǐ yào hē shénme (你要喝什么)? 
+| Nǐ yào hē **shénme** (你要喝什么)? 
 
    What do you want to drink?
    
-| Qǐngwèn nín yào hē shénme (请问您要喝什么)?
+| **Qǐngwèn nín** yào hē **shénme** (请问您要喝什么)?
 
    May I ask what would you like to drink?
 
@@ -495,19 +495,19 @@ What do you want? (Nǐ yào hē shénme?)
 
 **Answers:**
 
-| Wǒ yào yībēi kāfēi (我要一杯咖啡).
+| Wǒ yào **yībēi** kāfēi (我要一杯咖啡).
 
    I want a cup of coffee
 
-| Wǒ yào yībēi chá (我要一杯茶).
+| Wǒ yào **yībēi** chá (我要一杯茶).
 
    I want a cup of tea.
    
-| Wǒ yào yībēi niúnǎi (我要一杯牛奶).
+| Wǒ yào **yībēi** niúnǎi (我要一杯牛奶).
 
    I want a glass of milk.
    
-| Wǒ yào yībēi guǒzhī (我要一杯果汁).
+| Wǒ yào **yībēi** guǒzhī (我要一杯果汁).
 
    I want a glass of juice.
 
@@ -561,7 +561,7 @@ What's your name? (Wǒ jiào shénme míngzì?)
 
 |
 
-| Q: Wǒ jiào shénme míngzì (我叫什么名字)?
+| Q: Wǒ **jiào** shénme **míngzì** (我叫什么名字)?
 
    What is your first name? 
 | A: Wǒ jiào Raul (我叫 Raul).
@@ -620,10 +620,10 @@ What's your surname? (Nín guì xìng?)
    
 |
 
-| Q: Nín guì xìng (您贵姓)?
+| Q: Nín **guì xìng** (您贵姓)?
 
    What's your surname?
-| A: Wǒ xìng Wáng (我姓王).
+| A: Wǒ **xìng** Wáng (我姓王).
 
    My surname is Wáng.
 
@@ -766,10 +766,10 @@ Who are they?
 
 **Questions:**
 
-| Tāmen shì shéi (他们是谁)?
+| Tāmen shì **shéi** (他们是谁)?
 
    Who are they?
-| Nǐ shì shéi (你是谁)? 
+| Nǐ shì **shéi** (你是谁)? 
 
    Who are you?
 
@@ -819,10 +819,10 @@ Questions and answers
 ---------------------
 **Questions:**
 
-| Tā shì shéi (她是谁)?
+| Tā shì **shéi** (**她**是谁)?
    
    Who is she?
-| Tā shì shéi (他是谁)?
+| Tā shì **shéi** (**他**是谁)?
    
    Who is he?
 
@@ -833,13 +833,13 @@ Questions and answers
 | Mary **de** nǚ'ér (Mary 的女儿).
 
    Mary's daughter
-| Jack de lǎo pó (Jack 的老婆).
+| Jack **de** lǎopó (Jack 的老婆).
 
    Jack's wife.
-| Anna de lǎogōng (Anna 的老公).
+| Anna **de** lǎogōng (Anna 的老公).
    
    Anna's husband.
-| Tā shì wǒ māmā (她是我妈妈).
+| Tā shì wǒ **de** māmā (她是我的妈妈).
    
    She is my mother.
 
@@ -857,10 +857,10 @@ Who is this? (Zhè shì shéi?)
    - zhè (这): this
 |
 
-| Q: Zhè shì shéi (这是谁)?
+| Q: **Zhè** shì **shéi** (这是谁)?
 
    Who is this?
-| A: Zhè shì Lily (这是 Lily).
+| A: **Zhè** shì Lily (这是 Lily).
 
    This is Lily.
 
