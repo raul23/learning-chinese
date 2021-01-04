@@ -48,7 +48,7 @@ Answers: I am at/in (Wǒ zài 我在)
 
 | Wǒ de shǒujī **zài** jiā (我的手机在家).
 
-   My mobilephone is at home.
+   My mobile phone is at home.
 
 | Wǒ **zài** jiā (我在家).
 
