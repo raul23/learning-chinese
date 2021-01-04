@@ -51,8 +51,8 @@ Nice to meet you (Hěn gāoxìng rènshí nǐ 很高兴认识你)
 ===================================================
 `:information_source:`
 
-   **gāoxìng (高兴)**: glad, happy
-   **rènshí (认识)**: to know
+   - **gāoxìng (高兴)**: glad, happy
+   - **rènshí (认识)**: to know
 
 |
 
