@@ -59,7 +59,7 @@ Thank you (xièxiè 谢谢)
 | R: Bú **kè** qì (不客气).
 
    You are welcome.
-| R: Bù **yòng** xiè (不用谢).
+| R: Bú **yòng** xiè (不用谢).
 
    You are welcome. (lit. no need to thank)
 | R: Bú xiè (不谢). [shorter version]
