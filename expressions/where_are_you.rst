@@ -8,13 +8,31 @@ Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
 
 |
 
-Where (nǎlǐ) is someone/something?
-==================================
-I am at/in (Wǒ zài)
--------------------
+Where (nǎlǐ 哪里) is someone/something?
+======================================
+Questions: Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
+-------------------------------------------------
 `:information_source:`
 
-   - zài (在): to be in/at
+   - **nǎlǐ (哪里)**: where
+
+|
+
+| Nǐ zài **nǎlǐ** (你在哪里)?
+
+   Where are you?
+
+| Wǒ de shǒujī zài **nǎlǐ** (我的手机在哪里)?
+
+   Where is my mobile phone?
+   
+|
+
+Answers: I am at/in (Wǒ zài 我在)
+--------------------------------
+`:information_source:`
+
+   - **zài (在)**: to be in/at
    - "To be in/at": subject + zài + location
    - "Not to be in/at": subject + bú zài + location
 
@@ -63,33 +81,15 @@ I am at/in (Wǒ zài)
 
 |
 
-Where are you? (Nǐ zài nǎlǐ?)
------------------------------
+Answers: It is here/there (Zài zhèlǐ/nàli 在 这里/那里)
+-----------------------------------------------------
 `:information_source:`
 
-   - nǎlǐ (哪里): where
-
-|
-
-| Nǐ zài **nǎlǐ** (你在哪里)?
-
-   Where are you?
-
-| Wǒ de shǒujī zài **nǎlǐ** (我的手机在哪里)?
-
-   Where is my mobile phone?
-   
-|
-
-It is here/there (Zài zhèlǐ/nàli)
----------------------------------
-`:information_source:`
-
-   - nǎlǐ (哪里): where
-   - nàli (那里): there [used in the South]
-   - nà'er (那儿): there [used in the North]
-   - zhèlǐ (这里): here [formal; used in the South]
-   - zhèr/zhè'er (这儿): here [informal; used in the North]
+   - **nǎlǐ (哪里)**: where
+   - **nàli (那里)**: there [used in the South]
+   - **nà'er (那儿)**: there [used in the North]
+   - **zhèlǐ (这里)**: here [formal; used in the South]
+   - **zhèr/zhè'er (这儿)**: here [informal; used in the North]
 
 |
 
@@ -119,6 +119,8 @@ It is here/there (Zài zhèlǐ/nàli)
 
 References
 ==========
+.. [GTNALI] https://archive.vn/06Glp [Google uses nàlǐ for 那里]
+.. [YDNALI] https://archive.vn/GO8M9 [yabla dictionary uses nàli for 那里]
 .. [YLC24] https://youtu.be/aQOUSJOVHp8?t=8202 [Learn Chinese for Beginners. Lesson 24: What is this? 这是什么？]
 .. [YLC27] https://youtu.be/aQOUSJOVHp8?t=9053 [Learn Chinese for Beginners. Lesson 27: Are you at home? 你在家吗？]
 .. [YLC28] https://youtu.be/aQOUSJOVHp8?t=9440 [Learn Chinese for Beginners. Lesson 28: Where are you? 你在哪里？]
