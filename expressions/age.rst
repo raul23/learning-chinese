@@ -57,7 +57,7 @@ Questions and answers
 
 `:warning:`
 
-   Don't say "Wǒ shì èrshí suì". Drop the shì ("am") in the statement.
+   Don't say "Wǒ **shì** èrshí suì". Drop the shì ("am") in the statement.
 
 |
 
