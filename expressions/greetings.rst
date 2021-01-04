@@ -9,7 +9,7 @@ Greetings (Gōng xǐ 恭喜)
 |
 
 Hello! (Nǐ hǎo! 你好!)
----------------------
+=====================
 | Nǐ hǎo (你好)!
    
    Hello!
@@ -18,3 +18,21 @@ Hello! (Nǐ hǎo! 你好!)
 
    Hello to **all** of you!
    
+How are you? (Nǐ hǎo ma?)
+=========================
+| Q: Nǐ hǎo **ma** (你好吗)?
+
+   How are you?
+| A: Wǒ hěn hǎo (我很好).
+
+   I am very well.
+
+|
+
+| Q: Nǐ ne (你呢)?
+
+   What about you?
+   
+| A: Wǒ **yě** hěn hǎo (我也很好).
+
+   I am also very well.
