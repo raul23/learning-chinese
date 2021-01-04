@@ -37,8 +37,6 @@ What's your surname? (Nín guì xìng? 您贵姓?)
    - guì (贵): expensive, honorable
    - xìng (姓): surname, family name or to be surnamed
    - Examples of Chinese surnames: Lǐ (力), Wáng (王), Zhāng (张), Zhào (赵)
-   
-**Titles:** they go after the surname, e.g. Wáng nǚ shì (王女士) which translates to Ms Wáng
 
 `:information_source:`
 
@@ -46,7 +44,9 @@ What's your surname? (Nín guì xìng? 您贵姓?)
    - xiǎo jie (小姐): Miss (if not married), young lady
    - tài tai (太太) or fū ren (夫人): Mrs, married woman, lady, madam
    - xiānsheng (先生): Mr, Mister
-   
+
+**Titles go after the surname**, e.g. Wáng nǚ shì (王女士) which translates to Ms Wáng
+
 |
 
 | Q: Nín **guì xìng** (您贵姓)?
