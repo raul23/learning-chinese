@@ -172,10 +172,6 @@ Questions and answers
    I am not American.
 
 |
-
-**References:** [YLC5]_, [YLC6]_ and [YLC7]_
-
-|
 |
    
 References
