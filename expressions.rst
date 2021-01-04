@@ -57,11 +57,11 @@ Questions and answers
 
 **Questions:**
 
-| Nǐ huì shuō hànyǔ ma (你会说汉语吗)?
+| Nǐ huì shuō **hànyǔ** ma (你会说汉语吗)?
 
    Can you speak Chinese?
 
-| Nǐ huì shuō yīngyǔ ma (你能说英语吗)?
+| Nǐ huì shuō **yīngyǔ** ma (你能说英语吗)?
 
    Can you speak English?
 
@@ -89,7 +89,7 @@ Questions and answers
    
    I can't.
    
-| Wǒ huì shuō yī diǎndiǎn (我会说一点点).
+| Wǒ huì shuō **yī diǎndiǎn** (我会说一点点).
 
    I can speak a little bit.
 
