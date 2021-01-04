@@ -20,7 +20,7 @@ I am sorry (duì bù qǐ 对不起)
 
 |  
 
-**Reply to "I am sorry" (duì bù qǐ)**
+**Reply to "I am sorry" (duì bù qǐ)**:
 
 | Méi guān xì (没关系).
 
@@ -54,7 +54,7 @@ Thank you (xièxiè 谢谢)
    
 |
 
-**Replies to "Thank you" (xièxiè)**
+**Replies to "Thank you" (xièxiè)**:
 
 | R: Bú kè qì (不客气).
 
