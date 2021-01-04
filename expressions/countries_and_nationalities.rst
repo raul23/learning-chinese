@@ -172,6 +172,10 @@ Questions and answers
    I am not American.
 
 |
+
+**References:** [YLC5]_, [YLC6]_, and [YLC7]_
+
+|
 |
    
 References
@@ -179,3 +183,4 @@ References
 .. [YLC5] https://youtu.be/aQOUSJOVHp8?t=1096 [Learn Chinese for Beginners. Lesson 5: Country names. 国家名称]
 .. [YLC6] https://youtu.be/aQOUSJOVHp8?t=1489 [Learn Chinese for Beginners. Lesson 6: What’s your nationality? 你是哪国人？]
 .. [YLC7] https://youtu.be/aQOUSJOVHp8?t=1846 [Learn Chinese for Beginners. Lesson 7: Are you American?  你是美国人吗？]
+.. [YLC8] https://youtu.be/aQOUSJOVHp8?t=2208 [Learn Chinese for Beginners. Lesson 8: Can you speak Chinese?  你会说汉语吗？]
