@@ -69,3 +69,10 @@ Thank you (xièxiè 谢谢)
 |
 
 **Reference:** [YLC29]_
+
+|
+|
+   
+References
+==========
+.. [YLC29] https://youtu.be/aQOUSJOVHp8?t=9892 [Learn Chinese for Beginners. Lesson 29: Express gratitude & apology. 表达感谢和道歉]
