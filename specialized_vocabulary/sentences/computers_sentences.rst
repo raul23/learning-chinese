@@ -28,6 +28,8 @@ Sentence 1: I need to buy a new laptop because it is too old
 
    I need to buy a new laptop because it is too old.
 
+|
+
 `:warning:`
 
    **No shì** when translating "it is too old"
