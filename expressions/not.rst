@@ -10,7 +10,7 @@ Negative sentence with "not" (bù 不)
 
 `:information_source:`
 
-   - bù (不): not (adv)
+   - **bù (不)**: not (adv)
    - Pronoun + to be + not + adj: Subject + bù + adj
    - No verb shì!
 
