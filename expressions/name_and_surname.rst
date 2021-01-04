@@ -38,7 +38,7 @@ What's your surname? (Nín guì xìng? 您贵姓?)
    - xìng (姓): surname, family name or to be surnamed
    - Examples of Chinese surnames: Lǐ (力), Wáng (王), Zhāng (张), Zhào (赵)
 
-`:information_source:` ~ **Titles**
+`:information_source:` |nbsp| **Titles**
 
    - nǚ shì (女士): Ms (if you are not sure if she is married), lady, madam
    - xiǎo jie (小姐): Miss (if not married), young lady
@@ -73,3 +73,7 @@ References
 ==========
 .. [YLC3] https://youtu.be/aQOUSJOVHp8?t=222 [Learn Chinese for Beginners. Lesson 3: What is your name? 我叫什么名字？]
 .. [YLC12] https://youtu.be/aQOUSJOVHp8?t=3741 [Learn Chinese for Beginners. Lesson 12: What’s your surname?  您贵姓？]
+
+.. |nbsp| unicode:: 0xA0 
+   :trim:
+
