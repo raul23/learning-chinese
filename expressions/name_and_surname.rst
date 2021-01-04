@@ -32,7 +32,7 @@ What's your name? (Wǒ jiào shénme míngzì? 我叫什么名字?)
 
 What's your surname? (Nín guì xìng? 您贵姓?)
 ===========================================
-`:information_source:` |nbsp| |nbsp| Surnames in Chinese
+`:information_source:` |nbsp| |nbsp| **Surnames in Chinese**
 
    - guì (贵): expensive, honorable
    - xìng (姓): surname, family name or to be surnamed
