@@ -63,7 +63,7 @@ What's your surname? (Nín guì xìng? 您贵姓?)
 
 `:warning:`
 
-   Do not say "Wǒ **guì** xìng" since it is impolite!
+   Do not use "Wǒ **guì** xìng" since it is impolite!
 
 |
 
