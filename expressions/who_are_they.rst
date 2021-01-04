@@ -26,6 +26,8 @@ Who are they? (Tāmen shì shéi? 他们是谁?)
 
 |
 
+Questions and answers
+---------------------
 **Questions:**
 
 | Tāmen shì **shéi** (他们是谁)?
