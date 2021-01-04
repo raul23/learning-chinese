@@ -12,8 +12,8 @@ What's your name? (Wǒ jiào shénme míngzì? 我叫什么名字?)
 ======================================================
 `:information_source:`
 
-   - jiào (叫): to be called
-   - míngzì (名字): first name
+   - **jiào (叫)**: to be called
+   - **míngzì (名字)**: first name
 
 |
 
@@ -34,18 +34,18 @@ What's your surname? (Nín guì xìng? 您贵姓?)
 ===========================================
 `:information_source:` |nbsp| |nbsp| **Surnames in Chinese**
 
-   - guì (贵): expensive, honorable
-   - xìng (姓): surname, family name or to be surnamed
+   - **guì (贵)**: expensive, honorable
+   - **xìng (姓)**: surname, family name or to be surnamed
    - Examples of Chinese surnames: Lǐ (力), Wáng (王), Zhāng (张), Zhào (赵)
 
 |
 
 `:information_source:` |nbsp| |nbsp| **Titles**
 
-   - nǚ shì (女士): Ms (if you are not sure if she is married), lady, madam
-   - xiǎo jie (小姐): Miss (if not married), young lady
-   - tài tai (太太) or fū ren (夫人): Mrs, married woman, lady, madam
-   - xiānsheng (先生): Mr, Mister
+   - **nǚ shì (女士)**: Ms (if you are not sure if she is married), lady, madam
+   - **xiǎo jie (小姐)**: Miss (if not married), young lady
+   - **tài tai (太太) or fū ren (夫人)**: Mrs, married woman, lady, madam
+   - **xiānsheng (先生)**: Mr, Mister
 
 **Titles go after the surname**, e.g. Wáng nǚ shì (王女士) which translates to Ms Wáng
 
