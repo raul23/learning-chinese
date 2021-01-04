@@ -18,6 +18,8 @@ I am at/in (Wǒ zài)
    - "To be in/at": subject + zài + location
    - "Not to be in/at": subject + bú zài + location
 
+|
+
 | Wǒ **zài** zhōngguó (我在中国).
    
    I am in China.
