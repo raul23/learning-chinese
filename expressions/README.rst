@@ -6,6 +6,8 @@ README
    :local:
    :backlinks: top
 
+|
+
 **NOTES:**
 
 - Q, A, R refers to question, answer, and reply respectively
