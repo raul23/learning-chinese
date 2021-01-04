@@ -11,9 +11,9 @@ README
 
 List of files
 =============
-- `age.rst`_:
-- `apology_and_gratitude.rst`_:
-- `countries_and_nationalities.rst`_:
+- `age.rst`_: How old are you? (Nǐ duōdà 你多大)?
+- `apology_and_gratitude.rst`_: I am sorry (duì bù qǐ 对不起) and Thank you (xièxiè 谢谢)
+- `countries_and_nationalities.rst`_: Can you speak Chinese? (Nǐ huì shuō hànyǔ ma? 你会说汉语吗?)
 - `date.rst`_:
 - `descriptive_sentence.rst`_:
 - `greetings.rst`_:
