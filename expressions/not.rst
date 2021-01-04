@@ -1,6 +1,6 @@
-====================================
-Negative sentence with "not" (bù 不)
-====================================
+=====================================
+Negative sentences with "not" (bù 不)
+=====================================
 .. contents:: **Contents**
    :depth: 3
    :local:
@@ -8,6 +8,8 @@ Negative sentence with "not" (bù 不)
 
 |
 
+Sentences
+=========
 `:information_source:`
 
    - **bù (不)**: not (adv)
