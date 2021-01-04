@@ -17,9 +17,11 @@ Hello! (Nǐ hǎo! 你好!)
 | Nǐ\ **men** hǎo (你们好)!
 
    Hello to **all** of you!
-   
-How are you? (Nǐ hǎo ma?)
-=========================
+
+|
+
+How are you? (Nǐ hǎo ma? 你好吗?)
+================================
 | Q: Nǐ hǎo **ma** (你好吗)?
 
    How are you?
