@@ -57,7 +57,7 @@ Questions and answers
 
 **Questions:**
 
-| Nǐ huì shuō zhōngwén ma (你会说汉语吗)?
+| Nǐ huì shuō Hàn yǔ ma (你会说汉语吗)?
 
    Can you speak Chinese?
 | Nǐ huì shuō yīng yǔ ma (你能说英语吗)?
