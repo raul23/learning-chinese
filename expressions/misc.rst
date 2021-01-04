@@ -8,6 +8,12 @@ Misc
 
 |
 
+`:information_source:`
+
+   zuò (做): to do
+
+|
+
 | Q: Nǐ zuò **shénme** gōngzuò (你做什么工作)?
 
    What do you do (as a living)? Lit. You do what job?
