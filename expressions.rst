@@ -421,7 +421,7 @@ Negative sentence with "not" (bù)
 `:information_source:`
 
    - bù (不): not (adv)
-   - Subject + bù + adj
+   - Pronoun + to be + not + adj: Subject + bù + adj
    - No verb shì!
 
 |
@@ -820,8 +820,7 @@ Who is he/she? (Tā shì shéi?)
 =============================
 `:information_source:`
 
-   - possessive determiner: Personal pronoun + de
-   - possessive determiner: Person/Place/object + de
+   - possessive determiner: Pronoun/Person/Place/object + de
    - Wǒ de (我的): my
    - Nǐ de (你的): your
    - Nín de (您的): your
