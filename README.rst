@@ -4,7 +4,7 @@ README
 List of files
 =============
 * `colors.rst`_
-* `expressions.rst`_: important Chinese expressions divided into categories (e.g. countries and greetings) 
+* `expressions`_: important Chinese expressions divided into categories (e.g. countries and greetings) 
 * `grammar.rst`_: some Chinese grammar rules
 * `numbers.rst`_
 * `small_dictionary.rst`_: small english-chinese dictionary including also vocabulary from `specialized_vocabulary`_
@@ -27,7 +27,7 @@ Online Chinese-English Dictionaries
 .. _Collins Dictionary: https://www.collinsdictionary.com/dictionary/chinese-english
 .. _colors.rst: colors.rst
 .. _computers.rst: specialized_vocabulary/computers.rst
-.. _expressions.rst: expressions.rst
+.. _expressions: expressions
 .. _grammar.rst: grammar.rst
 .. _MDBG free online English to Chinese dictionary: https://www.mdbg.net/chinese/dictionary
 .. _numbers.rst: numbers.rst
