@@ -23,7 +23,7 @@ Laptop (bǐjìběn diànnǎo)
 
 |
 
-**Example:**
+**Sentence 1:**
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
@@ -48,7 +48,7 @@ Video game (diànwán)
    
 |
 
-**Example 1:**
+**Sentence 1:**
 
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
@@ -56,7 +56,7 @@ Video game (diànwán)
 
 |
 
-**Example 2:**
+**Sentence 2:**
 
 | Wǒ wán **diànwán** (我玩电玩).
 
