@@ -42,6 +42,9 @@ Sentence 1: I need to buy a new laptop because it is too old
 
 Video game (diànwán 电玩)
 ========================
+
+Sentence 1: Pac-Man was a popular video game in the 80s
+-------------------------------------------------------
 `:information_source:`
 
    - Chī dòu rén (吃豆人): Pac-Man (lit. Man that eats beans)
@@ -49,8 +52,7 @@ Video game (diànwán 电玩)
    - bāshí niándài (八十年代): eighties
    - liúxíng (流行): popular
 
-Sentence 1: Pac-Man was a popular video game in the 80s
--------------------------------------------------------
+|
 
 | Chī dòu rén shì bāshí niándài liúxíng **diànwán** (吃豆人是八十年代流行电玩).
 
@@ -58,13 +60,14 @@ Sentence 1: Pac-Man was a popular video game in the 80s
 
 |
 
+Sentence 2: I play video games
+------------------------------
 `:information_source:`
 
    - wán (玩): to play
 
-Sentence 2: I play video games
-------------------------------
-
+|
+   
 | Wǒ wán **diànwán** (我玩电玩).
 
   I play video games.
