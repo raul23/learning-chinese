@@ -1,6 +1,6 @@
-=========
-Greetings
-=========
+=======================
+Greetings (Gōng xǐ 恭喜)
+=======================
 .. contents:: **Contents**
    :depth: 3
    :local:
