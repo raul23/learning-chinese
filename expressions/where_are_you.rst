@@ -8,10 +8,8 @@ Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
 
 |
 
-Where (nǎlǐ 哪里) is someone/something?
-======================================
 Questions: Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
--------------------------------------------------
+=================================================
 `:information_source:`
 
    - **nǎlǐ (哪里)**: where
@@ -29,7 +27,7 @@ Questions: Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
 |
 
 Answers: I am at/in (Wǒ zài 我在)
---------------------------------
+================================
 `:information_source:`
 
    - **zài (在)**: to be in/at
@@ -82,7 +80,7 @@ Answers: I am at/in (Wǒ zài 我在)
 |
 
 Answers: It is here/there (Zài zhèlǐ/nàli 在 这里/那里)
------------------------------------------------------
+=====================================================
 `:information_source:`
 
    - **nǎlǐ (哪里)**: where
