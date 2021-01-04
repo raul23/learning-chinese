@@ -28,10 +28,10 @@ Hello! (Nǐ hǎo! 你好!)
 
 How are you? (Nǐ hǎo ma? 你好吗?)
 ================================
-| Q: Nǐ hǎo **ma** (你好吗)?
+| Q: Nǐ **hǎo** ma (你好吗)?
 
    How are you?
-| A: Wǒ hěn hǎo (我很好).
+| A: Wǒ **hěn hǎo** (我很好).
 
    I am very well.
 
@@ -53,6 +53,8 @@ Nice to meet you (Hěn gāoxìng rènshí nǐ 很高兴认识你)
 
    **gāoxìng (高兴)**: glad, happy
    **rènshí (认识)**: to know
+
+|
 
 | Hěn gāoxìng **rènshí** nǐ (很高兴认识你).
 
