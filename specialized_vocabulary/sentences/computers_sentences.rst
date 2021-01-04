@@ -12,6 +12,9 @@ Sentences using computer-related vocabulary from `computers.rst`_.
    
 Laptop (bǐjìběn diànnǎo 笔记本电脑)
 =================================
+
+Sentence 1: I need to buy a new laptop because it is too old
+------------------------------------------------------------
 `:information_source:`
 
    - xūyào (需要): to need
@@ -21,8 +24,9 @@ Laptop (bǐjìběn diànnǎo 笔记本电脑)
    - tài (太): too
    - jiùle (旧了): old
 
-Sentence 1: I need to buy a new laptop because it is too old
-------------------------------------------------------------
+|
+
+**Sentence:**
 
 | Wǒ xūyào gòumǎi xīn **bǐjìběn diànnǎo**, yīnwèi tā tài jiùle (我需要购买新笔记本电脑，因为它太旧了).
 
