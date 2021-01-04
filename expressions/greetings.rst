@@ -8,13 +8,13 @@ Greetings (Gōng xǐ 恭喜)
 
 |
 
-Hello! (Nǐ hǎo!)
-----------------
+Hello! (Nǐ hǎo! 你好!)
+---------------------
 | Nǐ hǎo (你好)!
    
    Hello!
 
-| Nǐmen hǎo (你们好)!
+| Nǐ**men** hǎo (你们好)!
 
    Hello to all of you!
    
