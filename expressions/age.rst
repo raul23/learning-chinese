@@ -36,23 +36,27 @@ Questions and answers
 
 |
 
-| Q: **Nín duōdà** suìshù (您多大岁数)? [polite form]
-| Q: Nǐ **duōdà** (你多大)? [informal]
-| Q: Nǐ **jǐ suì** (你几岁)?
+**Questions:**
+
+| **Nín duōdà** suìshù (您多大岁数)? [polite form]
+| Nǐ **duōdà** (你多大)? [informal]
+| Nǐ **jǐ suì** (你几岁)?
 
    How old are you?
    
-| Q: Tā **duōdà** (他多大)?
+| Tā **duōdà** (他多大)?
 
    How old is he?
    
-| Q: Monica **duōdà** (Monica 多大)?
+| Monica **duōdà** (Monica 多大)?
 
    How old is Monica?
 
 |
 
-| A: Wǒ èrshí **suì** (我二十岁).
+**Answers:**
+
+| Wǒ èrshí **suì** (我二十岁).
 
    I am twenty years old.
 
