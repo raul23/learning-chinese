@@ -21,13 +21,13 @@ List of files
 - `name_and_surname.rst`_: What's your name? (Wǒ jiào shénme míngzì? 我叫什么名字?)
 - `not.rst`_: Negative sentences with "not" (bù 不)
 - `or.rst`_: Háishì (还是) or huòzhě (或者)?
-- `phone_number.rst`_:
+- `phone_number.rst`_: What's your phone number? (Nǐ de diànhuà hàomǎ shì duōshǎo? 你的电话号码是多少?)
 - `please.rst`_: Please (Qǐng 请) do this!
-- `what_do_you_want.rst`_:
-- `what_is_that.rst`_:
-- `where_are_you.rst`_:
-- `who_are_they.rst`_:
-- `whose.rst`_:
+- `what_do_you_want.rst`_: What do you want? (Nǐ yào shénme? 你要什么?)
+- `what_is_that.rst`_: What is that/this (nà/zhè 那/这)?
+- `where_are_you.rst`_: Where are you? (Nǐ zài nǎlǐ? 你在哪里?)
+- `who_are_they.rst`_: Who are they? (Tāmen shì shéi? 他们是谁?)
+- `whose.rst`_: Whose? (shéi de? 谁的?)
 
 .. URLs
 .. _age.rst: age.rst
