@@ -817,6 +817,7 @@ Who is he/she? (Tā shì shéi?)
 
    - possessive determiner: Personal pronoun + de
    - possessive determiner: Person/Place/object + de
+
    - Wǒ de (我的): my
    - Nǐ de (你的): your
    - Nín de (您的): your
