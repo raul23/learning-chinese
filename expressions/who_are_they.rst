@@ -83,10 +83,10 @@ Questions and answers
 ---------------------
 **Questions:**
 
-| Tā shì **shéi** (**她**是谁)?
+| Tā shì **shéi** (她是谁)?
    
    Who is she?
-| Tā shì **shéi** (**他**是谁)?
+| Tā shì **shéi** (他是谁)?
    
    Who is he?
 
