@@ -75,7 +75,7 @@ Who is he/she? (Tā shì shéi? 她是谁?)
 
 `:information_source:`
 
-   shéi (谁): who, whom
+   **shéi (谁)**: who, whom
 
 |
 
