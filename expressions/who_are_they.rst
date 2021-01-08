@@ -12,11 +12,11 @@ Who are they? (Tāmen shì shéi? 他们是谁?)
 ========================================
 `:information_source:`
 
-   - wǒmen (我们): we, use
-   - nǐmen (你们): you
-   - tāmen (他们): they
-   - dōu (都): both, all
-   - shéi (谁): who, whom
+   - **wǒmen (我们)**: we, use
+   - **nǐmen (你们)**: you
+   - **tāmen (他们)**: they
+   - **dōu (都)**: both, all
+   - **shéi (谁)**: who, whom
 
 |
 
@@ -65,12 +65,12 @@ Who is he/she? (Tā shì shéi? 她是谁?)
 `:information_source:`
 
    - possessive determiner: Pronoun/Person/Place/object + de
-   - Wǒ de (我的): my
-   - Nǐ de (你的): your
-   - Nín de (您的): your
-   - tā de (他的): his
-   - tā de (她的): her
-   - tā de (它的): its
+   - **Wǒ de (我的)**: my
+   - **Nǐ de (你的)**: your
+   - **Nín de (您的)**: your
+   - **tā de (他的)**: his
+   - **tā de (她的)**: her
+   - **tā de (它的)**: its
 |
 
 `:information_source:`
@@ -117,8 +117,8 @@ Who is this? (Zhè shì shéi? 这是谁?)
 ===================================
 `:information_source:`
 
-   - shéi (谁): who, whom
-   - zhè (这): this
+   - **shéi (谁)**: who, whom
+   - **zhè (这)**: this
 |
 
 | Q: **Zhè** shì **shéi** (这是谁)?
