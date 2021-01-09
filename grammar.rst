@@ -23,7 +23,7 @@ flag objects).
 
 Some measure words
 ------------------
-- gè 个: most common MW
+- **gè 个:** most common MW
 - běn 本: used for books and magazines
 - píng 瓶: for a bottle of something (e.g. water)
 - zhāng 张: used for rectangular or flag objects (e.g. table)
